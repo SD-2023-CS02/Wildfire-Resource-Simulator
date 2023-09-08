@@ -5,3 +5,4 @@ Main Repo for Wildfire Resource Simulator
 * Drew
 * Claire
 * Kevin
+* Kole
