@@ -17,3 +17,5 @@ res_list = res.text.split("\n")
 
 for row in res_list[:3]:
     print(row)
+
+print(len(res_list))
