@@ -41,7 +41,11 @@ sleep(2.0)
 
 config = ConfigParser()
 config.read('config.ini')
-key = config['API']['KEY']
+try:
+    key = config['API']['KEY']
+except:
+    print('\n>>> No local API Key found. Aborting...')
+    system.exit()
 
 # Spokane Coordiantes
 lat = 47.668331
