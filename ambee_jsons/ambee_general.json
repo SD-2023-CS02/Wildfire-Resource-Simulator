@@ -1,0 +1,28 @@
+{
+   "message": "success",
+   "stations": [
+      {
+         "CO": 0.153,
+         "NO2": 5.722,
+         "OZONE": 28.03,
+         "PM10": 9.361,
+         "PM25": 3.17,
+         "SO2": 1.288,
+         "city": "Spokane",
+         "countryCode": "US",
+         "division": "Spokane",
+         "lat": 47.64999999999219,
+         "lng": -117.39999999998577,
+         "placeName": "E Hartson Ave",
+         "postalCode": "99202-2334",
+         "state": "Washington",
+         "updatedAt": "2023-10-11T19:00:00.000Z",
+         "AQI": 26,
+         "aqiInfo": {
+            "pollutant": "O3",
+            "concentration": 28.03,
+            "category": "Good"
+         }
+      }
+   ]
+}

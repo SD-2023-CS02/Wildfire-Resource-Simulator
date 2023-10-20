@@ -1,0 +1,33 @@
+{
+   "message": "success",
+   "result": [
+      {
+         "fwi": 0.0009818224969113,
+         "cause": 0,
+         "size": 643.343004661987,
+         "lat": 45.90185221133077,
+         "lng": -119.28322026385962,
+         "burnedArea": 643.343004661987,
+         "frp": 2.37,
+         "fuelType": "0",
+         "percentContained": 0,
+         "fireId": "nifc_18321.0",
+         "createdAt": "2023-10-02T16:08:38.000Z",
+         "updatedAt": "2023-10-11T22:00:14.000Z",
+         "status": "Partially Contained Fire",
+         "risk": "High Danger",
+         "timeFlag": "Day",
+         "reportedLat": 45.918186,
+         "reportedLon": -119.319894,
+         "type": "Reported Fire",
+         "ros": 0,
+         "reportedLoc": {
+            "type": "Point",
+            "coordinates": [
+               -119.319894,
+               45.918186
+            ]
+         }
+      }
+   ]
+}

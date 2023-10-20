@@ -1,0 +1,26 @@
+{
+   "message": "success",
+   "data": {
+      "lat": 47.668331,
+      "lng": -117.402771,
+      "timezone": "America/Los_Angeles",
+      "country_code": "US",
+      "time": 1697061600,
+      "apparentTemperature": 47,
+      "cloudCover": 0.99,
+      "dewPoint": 39.34,
+      "humidity": 56,
+      "pressure": 1007,
+      "precipIntensity": 0,
+      "temperature": 54,
+      "visibility": 489.98,
+      "windGust": 8.57,
+      "ozone": 294.94,
+      "uvIndex": 0.42,
+      "windSpeed": 4.94,
+      "windBearing": 228,
+      "icon": "cloudy",
+      "summary": "Cloudy skies. A mild day ahead. Moderate humidity. Expect a gentle breeze. Low UV levels.",
+      "updatedAt": "2023-10-11T22:00:00.000Z"
+   }
+}
