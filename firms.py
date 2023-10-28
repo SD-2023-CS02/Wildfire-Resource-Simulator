@@ -33,3 +33,11 @@ class FIRMS:
         
         with open(f"{file_name}.csv", "w") as f:
             f.write(res.text)
+    
+    def write_footprint_data_to_csv(self, file_name: str):
+        #potential area api
+        area_url = "/api/kml_fire_footprints/?region=usa_contiguous_and_hawaii&date_span=7d&sensor=noaa-20-viirs-c2"
+
+        result = requests.get(area_url)
+        with open(f"{file_name}.csv", "w") as f:
+            f.write(result.text)
