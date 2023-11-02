@@ -10,6 +10,7 @@ DATE = re.compile("(19\d\d|20\d\d)[-](0[1-9]|1[0-2])[-](0[1-9]|[12]\d|3[01])")
 
 DATE_SPANS = set(["24h", "48h", "72h", "7d"])
 SENSORS = set(["c6.1", "landsat", "suomi-npp-viirs-c2", "noaa-20-viirs-c2"])
+REGIONS = set(["usa_contiguous_and_hawaii", "alaska"])
 
 
 class FIRMS:
@@ -40,14 +41,16 @@ class FIRMS:
             f.write(res.text)
     
 
-    def write_footprint_data_to_csv(self, file_name: str, date_span: str = "7d", sensor: str = "noaa-20-viirs-c2") -> None:
+    def write_footprint_data_to_csv(self, file_name: str, date_span: str = "7d", sensor: str = "noaa-20-viirs-c2", region: str = "usa_contiguous_and_hawaii") -> None:
         if date_span not in DATE_SPANS:
             raise ValueError("Invalid date_span")
         if sensor not in SENSORS:
             raise ValueError("Invalid sensor")
+        if region not in REGIONS:
+            raise ValueError("Invalid region")
         
         # potential area api
-        area_url = f"{URL}/kml_fire_footprints/usa_contiguous_and_hawaii/{date_span}/{sensor}"
+        area_url = f"{URL}/kml_fire_footprints/{region}/{date_span}/{sensor}"
 
         result = requests.get(area_url)
 
