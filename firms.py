@@ -3,8 +3,13 @@ import requests
 import re
 
 
+URL = "https://firms.modaps.eosdis.nasa.gov/api"
+
 SOURCES = set(["LANDSAT_NRT", "MODIS_NRT", "MODIS_SP", "VIIRS_NOAA20_NRT", "VIIRS_SNPP_NRT", "VIIRS_SNPP_SP"])
 DATE = re.compile("(19\d\d|20\d\d)[-](0[1-9]|1[0-2])[-](0[1-9]|[12]\d|3[01])")
+
+DATE_SPANS = set(["24h", "48h", "72h", "7d"])
+SENSORS = set(["c6.1", "landsat", "suomi-npp-viirs-c2", "noaa-20-viirs-c2"])
 
 
 class FIRMS:
@@ -22,7 +27,7 @@ class FIRMS:
         if source not in SOURCES:
             raise ValueError("Invalid satellite source")
         
-        url = f"https://firms.modaps.eosdis.nasa.gov/api/country/csv/{self.__key}/{source}/USA/{day_range}"
+        url = f"{URL}/country/csv/{self.__key}/{source}/USA/{day_range}"
 
         # if date: gets data from [date, date + day_range)
         # no date: gets data from [today - (day_range - 1), today]
@@ -34,10 +39,17 @@ class FIRMS:
         with open(f"{file_name}.csv", "w") as f:
             f.write(res.text)
     
-    def write_footprint_data_to_csv(self, file_name: str):
-        #potential area api
-        area_url = "/api/kml_fire_footprints/?region=usa_contiguous_and_hawaii&date_span=7d&sensor=noaa-20-viirs-c2"
+
+    def write_footprint_data_to_csv(self, file_name: str, date_span: str = "7d", sensor: str = "noaa-20-viirs-c2") -> None:
+        if date_span not in DATE_SPANS:
+            raise ValueError("Invalid date_span")
+        if sensor not in SENSORS:
+            raise ValueError("Invalid sensor")
+        
+        # potential area api
+        area_url = f"{URL}/kml_fire_footprints/usa_contiguous_and_hawaii/{date_span}/{sensor}"
 
         result = requests.get(area_url)
+
         with open(f"{file_name}.csv", "w") as f:
             f.write(result.text)
