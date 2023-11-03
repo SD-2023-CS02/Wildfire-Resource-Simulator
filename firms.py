@@ -6,7 +6,7 @@ import re
 URL = "https://firms.modaps.eosdis.nasa.gov/api"
 
 SOURCES = set(["LANDSAT_NRT", "MODIS_NRT", "MODIS_SP", "VIIRS_NOAA20_NRT", "VIIRS_SNPP_NRT", "VIIRS_SNPP_SP"])
-DATE = re.compile("(19\d\d|20\d\d)[-](0[1-9]|1[0-2])[-](0[1-9]|[12]\d|3[01])")
+DATE = re.compile(r"(19\d\d|20\d\d)[-](0[1-9]|1[0-2])[-](0[1-9]|[12]\d|3[01])")
 
 DATE_SPANS = set(["24h", "48h", "72h", "7d"])
 SENSORS = set(["c6.1", "landsat", "suomi-npp-viirs-c2", "noaa-20-viirs-c2"])
@@ -54,5 +54,5 @@ class FIRMS:
 
         result = requests.get(area_url)
 
-        with open(f"{file_name}.csv", "w") as f:
+        with open(f"{file_name}.kml", "w") as f:
             f.write(result.text)
