@@ -1,0 +1,18 @@
+from configparser import ConfigParser
+import requests
+
+class BREEZE:
+    def __init__(self, config_file: str = "config.ini") -> None:
+        config = ConfigParser()
+        config.read(config_file)
+        self.__key = config["API"]["GoogleKey"]
+
+    # radius is in km, min 5, max 100
+    # the latitude and longitude values I arbitrarily chose are for Boulder, CO
+    def write_wildfire_api(self, file_name: str, lat = 40, lon = 105, radius = 100):
+        area_url = "https://api.breezometer.com/fires/v1/burnt-area?key={self._key}&lat={lat}&lon={lon}&radius={radius}&daysFromExtinguish={360}"
+
+        result = requests.get(area_url)
+
+        with open(f"{file_name}.csv", "w", errors="ignore") as f:
+            f.write(result.text)
