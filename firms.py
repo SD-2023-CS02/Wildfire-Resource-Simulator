@@ -54,5 +54,5 @@ class FIRMS:
 
         result = requests.get(area_url)
 
-        with open(f"{file_name}.kml", "w") as f:
+        with open(f"{file_name}.kml", "w") as f: #writes a keyhole markup language (kml) file, which can be opened in Google Maps
             f.write(result.text)
