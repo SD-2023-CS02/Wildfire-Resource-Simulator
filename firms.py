@@ -4,6 +4,7 @@ import re
 
 
 URL = "https://firms.modaps.eosdis.nasa.gov/api"
+FOLDER = "output"
 
 SOURCES = set(["LANDSAT_NRT", "MODIS_NRT", "MODIS_SP", "VIIRS_NOAA20_NRT", "VIIRS_SNPP_NRT", "VIIRS_SNPP_SP"])
 DATE = re.compile(r"(19\d\d|20\d\d)[-](0[1-9]|1[0-2])[-](0[1-9]|[12]\d|3[01])")
@@ -37,11 +38,11 @@ class FIRMS:
         
         res = requests.get(url)
         
-        with open(f"{file_name}.csv", "w") as f:
+        with open(f"{FOLDER}/{file_name}.csv", "w", errors="ignore") as f:
             f.write(res.text)
     
 
-    def write_footprint_data_to_csv(self, file_name: str, date_span: str = "7d", sensor: str = "noaa-20-viirs-c2", region: str = "usa_contiguous_and_hawaii") -> None:
+    def write_footprint_data_to_kml(self, file_name: str, date_span: str = "7d", sensor: str = "noaa-20-viirs-c2", region: str = "usa_contiguous_and_hawaii") -> None:
         if date_span not in DATE_SPANS:
             raise ValueError("Invalid date_span")
         if sensor not in SENSORS:
@@ -55,5 +56,5 @@ class FIRMS:
         result = requests.get(area_url)
 
         # writes a keyhole markup language (kml) file, which can be opened in Google Maps
-        with open(f"{file_name}.kml", "w", errors="ignore") as f:
+        with open(f"{FOLDER}/{file_name}.kml", "w", errors="ignore") as f:
             f.write(result.text)

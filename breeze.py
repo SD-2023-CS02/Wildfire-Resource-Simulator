@@ -2,6 +2,9 @@ from configparser import ConfigParser
 import requests
 
 
+FOLDER = "test_output"
+
+
 class BREEZE:
     def __init__(self, config_file: str = "config.ini") -> None:
         config = ConfigParser()
@@ -16,5 +19,5 @@ class BREEZE:
 
         result = requests.get(area_url)
 
-        with open(f"{file_name}.csv", "w", errors="ignore") as f:
+        with open(f"{FOLDER}/{file_name}.json", "w", errors="ignore") as f:
             f.write(result.text)
