@@ -40,12 +40,12 @@ class DirectoryParser:
                 pages.append(current_page)  # excludes 'of 144' line
                 current_page = []
             else:
-                current_page.append(line)
-
+                current_page.append(line.strip())
+        
         for idx, page in enumerate(pages, start=1):
             base_info = self.process_page(page)
             print(f"Base {idx} Information:")
-
+            
             for key, value in base_info.items():
                 print(f"{key}: {value}")
-            print("\n")
+            print()
