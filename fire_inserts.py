@@ -21,7 +21,9 @@ with open(f'{OUT_FOLDER}/{OUT_FILE}.sql', 'w') as f:
     for i in range(len(fire_df)):
         row = fire_df.iloc[i]
 
-        s = f'  (\'{row["CreatedOnDateTime_dt"][:-6]}\', {row["Latitude"]}, {row["Longitude"]})'
+        s = (f'  (\'{row["CreatedOnDateTime_dt"][:-6]}\', {row["Latitude"]}, {row["Longitude"]}, ' +
+             f'\'{row["ContainmentDateTime"][:-6]}\', \'{row["FireOutDateTime"][:-6]}\', ' +
+             f'{row["DiscoveryAcres"]}, {row["IncidentSize"]})')
         s += (',' if i < (len(fire_df) - 1) else ';') + '\n'
         
         f.write(s)
