@@ -1,0 +1,147 @@
+WELLS SEAT–LWL
+Wells Municipal/Harriet Field–Elevation: 5,772’
+Airport: 41 06.90N/114 55.57W 
+Base Location on Field: SW Quadrant 
+GREAT BASIN
+Bureau of Land Management 
+3900 East Idaho Street 
+Elko, Nevada 89801
+FAX: (775) 752-2190 
+Email: mmichelsen@blm.gov
+FTR County: Elko
+BLM
+Base Operations Phone:
+(775) 752-2190
+Dispatch Office Phone:
+Dispatch Contact Frequency:
+SEAT Manager:
+Elko Dispatch 
+“Elko” 
+“Local FF” 
+Vacant
+(775) 748-4000 
+172.750 Tone: RX/TX 
+123.0 
+(775) 752-2190
+Alec Goicoechea
+(775) 748-4023
+UAM:
+Dual
+2S
+2D
+Single 
+25
+Runway Weight Limits 
+Runway  08-26 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+4
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+5,000
+Retardant Jettison Area(s) 
+Contact Base
+None
+Known 
+Hazards:
+Remarks:
+Base Operations–June 01 to September 30
+Shipping 
+Address:
+Last Revision: 2-15-2017
+NWCG Airtanker Base Directory
+141 of 144
+WINNEMUCCA SEAT–WMC
+Winnemucca Municipal Airport–Elevation: 4,308’
+Airport: 40 53.80N/117 48.35W 
+Base Location on Field: NW Quadrant 
+GREAT BASIN
+FAX: (775) 623-6726 
+Email: mloan@blm.gov
+Bureau of Land Management 
+Winnemucca Airport 
+5500 Jay’s Road 
+Winnemucca, Nevada 89445 
+FTR County: Humboldt
+BLM
+Base Operations Phone:
+Dispatch Office Phone:
+(775) 623-2397  
+(775) 623-1555 
+(775) 623-1558
+Dispatch Contact Frequency:
+169.0875 Tx/Rx Tn 114.8
+Central Nevada (CNIDC) 
+Aircraft Desk 
+Local Flight Following “Central 
+Nevada”
+Base Manager:
+Mary Loan
+Mary Loan
+(775) 623-2397 
+Cell (775) 304-1021 
+(775) 623-2397
+Zone UAM:
+2S
+Single 
+75
+Dual 
+125
+2D 
+200
+Runway Weight Limits 
+Runway  14-32 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+5
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+3,000
+Retardant Jettison Area(s) 
+Lat. 41º 01.12’ N 
+Long. 117º 46.48’ W (North side of Winnemucca Mtn.)
+Cautions:  General Aviation Traffic, Military SUA/ training routes in area
+Known 
+Hazards:
+Remarks:
+FBO (775) 623-5091/After-Hours Fuel: (775) 304-5885 
+Google Loon Project (balloon launching) at airport, just N of base
+Contact Base Manager
+Shipping 
+Address:
+Last Revision: 4-10-2018
+NWCG Airtanker Base Directory

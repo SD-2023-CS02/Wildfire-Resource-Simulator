@@ -10,5 +10,5 @@ from directory_parser import *
 # breezometer = BREEZE()
 # breezometer.write_wildfire_api("breezometer_areas")
 
-parser = DirectoryParser("data/air_tanker_base_directory.pdf")
-parser.parse_directory()
+parser = DirectoryParser()
+parser.parse_directory("output", "elements.txt")
