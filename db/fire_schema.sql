@@ -9,7 +9,7 @@ CREATE TABLE FirePoint (
     -- Non-Key Fire Data
     containment_date DATETIME,
     fireout_date DATETIME,
-    discovery_acres FLOAT(9,3),
-    incident_size_acres FLOAT(9, 3),
+    discovery_acres FLOAT(12,3),
+    incident_size_acres FLOAT(12, 3),
     PRIMARY KEY (create_date, latitude, longitude)
 );
