@@ -1,5 +1,6 @@
 from py_pdf_parser.loaders import load_file
 
+
 class DirectoryParser:
     """
     A class to parse information from a pdf file containing data related to air tanker bases.
@@ -17,7 +18,6 @@ class DirectoryParser:
         process_page(page_data): Processes each page and extracts relevant information such as base name, airport, etc.
         parse_directory(folder, fname): Parses the entire directory file and prints extracted information for each base.
     """
-
 
     def __init__(self):
         """
@@ -38,7 +38,7 @@ class DirectoryParser:
         doc = load_file(file_path)
         elements = doc.elements
 
-        with open(f"{folder}/elements.txt", "w", errors="ignore") as f:
+        with open(f"{folder}/elements.txt", "w", errors="ignore", encoding='utf8') as f:
             for element in elements:
                 f.write(element.text() + "\n")
 
@@ -140,6 +140,7 @@ class DirectoryParser:
                 break
         return load_limits
 
+
     def process_page(self, page_data):
         """
         Processes a page and extracts relevant information such as base name, airport, etc.
@@ -174,7 +175,7 @@ class DirectoryParser:
             folder (str): The folder where the file is located.
             fname (str): The name of the file to parse.
         """
-        with open(f'{folder}/{fname}', 'r') as file:
+        with open(f'{folder}/{fname}', 'r', encoding='utf8') as file:
             data = file.readlines()
 
         current_page = []
