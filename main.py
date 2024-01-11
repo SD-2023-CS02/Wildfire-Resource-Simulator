@@ -12,3 +12,4 @@ from directory_parser import *
 
 parser = DirectoryParser()
 parser.parse_directory("output", "elements.txt")
+parser.write_csv("tanker_bases.csv")

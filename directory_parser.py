@@ -1,5 +1,7 @@
 from py_pdf_parser.loaders import load_file
 
+import csv
+
 
 class DirectoryParser:
     """
@@ -17,6 +19,7 @@ class DirectoryParser:
         get_load_limits(table_label, page): Retrieves load limits information based on specific table labels.
         process_page(page_data): Processes each page and extracts relevant information such as base name, airport, etc.
         parse_directory(folder, fname): Parses the entire directory file and prints extracted information for each base.
+        write_csv(self, fname, folder="output"): Writes data stored in base_info to a csv file at a user-specified path.
     """
 
     def __init__(self):
@@ -24,7 +27,8 @@ class DirectoryParser:
         Constructor method initializing the DirectoryParser class. Initializes the 'pages' attribute as an empty list to 
         store parsed pages.
         """
-        self.pages = []
+        self.__base_info = []
+        self.__pages = []
 
 
     def load_data(self, file_path, folder="output"):
@@ -117,7 +121,7 @@ class DirectoryParser:
                     continue
                 
                 start_section_index, start_line = start_section
-                if start_line not in expected_yes_no:
+                if start_line.upper() not in expected_yes_no:
                     continue
                 load_limits[table_label[0]] = start_line # if the first value is 'YES' or 'NO', we can assume it matches the label and store it as such
 
@@ -133,8 +137,8 @@ class DirectoryParser:
                 if third_section is None:
                     continue
 
-                third_index, third_line = third_section
-                if third_line in expected_yes_no: # the third value should also be either 'YES' or 'NO'
+                __, third_line = third_section
+                if third_line.upper() in expected_yes_no: # the third value should also be either 'YES' or 'NO'
                     load_limits[table_label[2]] = third_line
                 
                 break
@@ -183,13 +187,25 @@ class DirectoryParser:
         for line in data: # break the txt file into pages based on our knowledge that the last line will have pg# 'of 144'
             current_page.append(line.strip())
             if 'of 144' in line:
-                self.pages.append(current_page)
+                self.__pages.append(current_page)
                 current_page = []
         
-        for idx, page in enumerate(self.pages, start=1): # print the collected information
-            base_info = self.process_page(page)
-            print(f"Base {idx} Information:")
+        for idx, page in enumerate(self.__pages, start=1): # print the collected information
+            self.__base_info.append(self.process_page(page))
+
+    def write_csv(self, fname, folder="output"):
+            """
+            Writes data stored in base_info to a csv file at a user-specified path
             
-            for key, value in base_info.items():
-                print(f"{key}: {value}")
-            print()
+            Args:
+                fname (str): The name of the file to write to.
+                folder (str): The folder where the csv file will be stored.
+            """
+            fields = ["Base Name", "Airport", "Latitude, Longitude", "Geographic Area", "Runway Weight Limits", 
+                      "VLATs", "LATs", "MAFFS"]  
+            
+            with open(folder+"/"+fname, 'w') as csvfile: 
+                writer = csv.DictWriter(csvfile, fieldnames = fields)  
+                writer.writeheader()  
+                writer.writerows(self.__base_info) 
+
