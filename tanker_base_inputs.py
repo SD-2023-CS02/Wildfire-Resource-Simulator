@@ -34,7 +34,7 @@ with open(f'{OUT_FILE}.sql', 'w') as f:
         lat_values = row["LATs"]
         maffs_values = row["MAFFS"]
 
-        s = (f' {base_name}, {airport}, {lat_long}, {geo_area}, {runway_wt_lim}, ' + 
+        s = (f' ({base_name}, {airport}, {lat_long}, {geo_area}, {runway_wt_lim}, ' + 
              f'{vlat_values}, {lat_values}, {maffs_values})')
         s += (',' if i < (len(base_df) - 1) else ';') + '\n'
 
