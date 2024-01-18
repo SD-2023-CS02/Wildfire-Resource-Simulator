@@ -9,7 +9,7 @@ IN_FILE = 'tanker_bases'
 
 OUT_FILE = 'base_data'
 
-TABLE = 'FirePoint'
+TABLE = 'TankerBase'
 
 NULL = 'NULL'
 KEYS = ["Base Name", "Airport", "Latitude, Longitude", "Geographic Area", "Runway Weight Limits", 
