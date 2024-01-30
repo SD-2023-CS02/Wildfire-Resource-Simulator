@@ -207,5 +207,42 @@ class DirectoryParser:
             with open(folder+"/"+fname, 'w') as csvfile: 
                 writer = csv.DictWriter(csvfile, fieldnames = fields)  
                 writer.writeheader()  
-                writer.writerows(self.__base_info) 
+                writer.writerows(self.__base_info)
+            
+            # New Version
+            bases = {}
 
+            for row in self.__base_info[1:-1]:
+                base = row['Base Name']
+                bases[base] = {}
+
+                for field in row:
+                    if field != 'Base Name':
+                        if type(row[field]) is dict:
+                            bases[base].update(row[field])
+                        else:
+                            bases[base][field] = row[field]
+            
+            fields = set()
+
+            for base in bases:
+                fields = fields | bases[base].keys()
+            
+            with open(f'{folder}/new_{fname}', 'w') as f:
+                f.write('Base Name')
+                
+                for field in fields:
+                    f.write(f',{field}')
+                
+                f.write('\n')
+
+                for base in bases:
+                    f.write(base)
+                
+                    for field in fields:
+                        if field in bases[base]:
+                            f.write(f',"{bases[base][field]}"')
+                        else:
+                            f.write(f',')
+                    
+                    f.write('\n')
