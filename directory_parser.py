@@ -19,6 +19,7 @@ class DirectoryParser:
         get_load_limits(table_label, page): Retrieves load limits information based on specific table labels.
         process_page(page_data): Processes each page and extracts relevant information such as base name, airport, etc.
         parse_directory(folder, fname): Parses the entire directory file and prints extracted information for each base.
+        print_parsed_data(self): Prints the parsed data
         write_csv(self, fname, folder="output"): Writes data stored in base_info to a csv file at a user-specified path.
     """
 
@@ -192,6 +193,13 @@ class DirectoryParser:
         
         for idx, page in enumerate(self.__pages, start=1): # print the collected information
             self.__base_info.append(self.process_page(page))
+
+    def print_parsed_data(self):
+        """
+        Prints the parsed data
+        """
+        for base in self.__base_info:
+            print("Base Information: " + str(base))
 
     def write_csv(self, fname, folder="output"):
             """
