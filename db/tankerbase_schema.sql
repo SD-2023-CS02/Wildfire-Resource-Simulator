@@ -1,7 +1,7 @@
 DROP TABLE IF EXISTS TankerBase;
 
 CREATE TABLE TankerBase (
-    base_code CHAR(3),
+    base_code CHAR(3), -- FAA ID
     base_name VARCHAR(50) NOT NULL,
     airport VARCHAR(50) NOT NULL,
     region VARCHAR(50) NOT NULL,
@@ -13,10 +13,10 @@ CREATE TABLE TankerBase (
     double_rwl FLOAT NOT NULL,
     2s_rwl FLOAT NOT NULL,
     2d_rwl FLOAT NOT NULL,
-    -- Allowed Plane Types
-    vlat ENUM('YES', 'NO') NOT NULL,
-    lat ENUM('YES', 'NO') NOT NULL,
-    seat ENUM('YES', 'NO') NOT NULL,
+    -- Allowed Airtanker Types
+    vlat ENUM('YES', 'NO') NOT NULL, -- very large
+    lat ENUM('YES', 'NO') NOT NULL, -- large
+    seat ENUM('YES', 'NO') NOT NULL, -- single engine
     -- Misc
     maffs ENUM('YES', 'NO', 'R', 'H', 'F', 'R/H/F', 'R/H', 'H/F', 'R/F') NOT NULL,
     hot_load ENUM('YES', 'NO') NOT NULL,
