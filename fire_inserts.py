@@ -44,7 +44,7 @@ with open(f'{OUT_FOLDER}/{OUT_FILE}.sql', 'w', errors='ignore') as f:
         initial_acres = row['InitialResponseAcres'] if str(row['InitialResponseAcres']) != NAN else NULL
 
         s = f'  (\'{fire_id}\', \'{incident_name}\','
-        s += f' \'{row["CreatedOnDateTime_dt"][:-6]}\', \'{row["FireDiscoveryDateTime"][:-6]}\','
+        s += f' \'{row["CreatedOnDateTime_dt"][:-6]}\', \'{row["FireDiscoveryDateTime"][:-3]}\','
         s += f' {row["Latitude"]}, {row["Longitude"]}, {initial_lat}, {initial_long}, {gacc},'
         s += f' {containment_date}, {fireout_date}, {control_date},'
         s += f' {discovery_acres}, {incident_size}, {final_acres}, {initial_acres})'
