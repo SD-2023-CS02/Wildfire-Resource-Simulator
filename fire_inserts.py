@@ -14,11 +14,9 @@ TABLE = 'FirePoint'
 
 NULL = 'NULL'
 NAN = 'nan'
-#KEYS = ['CreatedOnDateTime_dt', 'Latitude', 'Longitude']
 
 
 fire_df = pd.read_csv(f'{IN_FOLDER}/{IN_FILE}.csv')
-#fire_df.drop_duplicates(subset=KEYS, keep='first', inplace=True) # temporary solution for dropping duplicate incident locations+dates
 
 
 with open(f'{OUT_FOLDER}/{OUT_FILE}.sql', 'w', errors='ignore') as f:
