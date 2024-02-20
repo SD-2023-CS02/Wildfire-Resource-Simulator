@@ -39,7 +39,7 @@ with open(f'{OUT_FOLDER}/{OUT_FILE}.sql', 'w') as f:
         region = row['Region']
         elevation = row['Elevation']
         latitude = convert_coord(row['Latitude'])
-        longitude = convert_coord(row['Longitude'])
+        longitude = -1 * convert_coord(row['Longitude'])
         single_rwl = row['RWL: Single']
         double_rwl = row['RWL: Dual']
         twos_rwl = row['RWL: 2S']
