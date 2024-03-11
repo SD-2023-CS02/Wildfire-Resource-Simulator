@@ -1,2 +1,17 @@
 config.ini
 __pycache__
+.pytest_cache
+data/Wildland_Fire_Incident_Locations.csv
+
+# notebooks
+.ipynb_checkpoints
+
+# large output csv, geojson
+output/output_op_data_2020.csv
+output/output_op_data_2021.csv
+output/op_data_2020.geojson
+output/op_data_2021.geojson
+
+# large gdb raw data
+data/Public_EventDataArchive_2020.gdb
+data/Public_EventDataArchive_2021.gdb
