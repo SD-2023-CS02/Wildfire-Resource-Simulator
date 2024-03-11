@@ -55,7 +55,7 @@ INSERT INTO TankerBase VALUES
   ('PTV', 'PORTERVILLE', 'Porterville Municipal Airport', 'SOUTHERN CALFORNIA', 443, 36.0245, -119.05766666666666, 30.0, 70.0, 170, 110.0, 'NO', 'YES', 'YES', 'NO', 'YES', 'YES', 'NO', 'MVP FX', 5, 12, 5, 6000),
   ('PRC', 'PRESCOTT', 'Ernest A. Love Field', 'SOUTHWEST', 5034, 34.657, -112.41333333333333, 63.0, 80.0, 153, 100.0, 'NO', 'YES', 'YES', 'H', 'YES', 'YES', 'NO', 'LC 95A', 3, 7, 2, 5000),
   ('PUB', 'PUEBLO', 'Pueblo Memorial Airport', 'ROCKY MOUNTAIN', 4729, 38.284166666666664, -104.48783333333333, 93.0, 170.0, 250, 170.0, 'NO', 'YES', 'YES', 'R', 'YES', 'NO', 'NO', 'LC 95A', 1, 1, 1, 0),
-  ('RNM', 'RAMONA', 'Ramona Airport', 'SOUTHERN CALIFORNIA', 1395, 33.04, -116.91166666666666, 75.0, 95.0, 135, 0.0, 'NO', 'NO', 'YES', 'NO', 'YES', 'NO', 'NO', 'MVP FX', 3, 10, 3, 2000),
+  ('RNM', 'RAMONA', 'Ramona Airport', 'SOUTHERN CALIFORNIA', 1395, 30.04, -116.91166666666666, 75.0, 95.0, 135, 0.0, 'NO', 'NO', 'YES', 'NO', 'YES', 'NO', 'NO', 'MVP FX', 3, 10, 3, 2000),
   ('RAP', 'RAPID CITY', 'Rapid City Regional Airport', 'ROCKY MOUNTAIN', 3204, 44.0355, -103.05533333333334, 140.0, 190.0, 175, 300.0, 'NO', 'YES', 'YES', 'R', 'YES', 'YES', 'NO', 'LC 95A', 1, 5, 1, 5000),
   ('RDD', 'REDDING', 'Redding Municipal Airport', 'NORTHERN CALIFORNIA', 505, 40.519666666666666, -122.298, 98.0, 128.0, 0, 195.0, 'NO', 'YES', 'YES', 'YES', 'YES', 'YES', 'NO', 'MVP FX', 4, 5, 2, 9000),
   ('RDM', 'REDMOND', 'Roberts Field', 'NORTHWEST', 3080, 44.2595, -121.152, 68.0, 110.0, 0, 200.0, 'NO', 'YES', 'YES', 'NO', 'YES', 'YES', 'NO', 'LC 95A', 3, 7, 2, 5000),
