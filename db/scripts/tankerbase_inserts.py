@@ -6,7 +6,7 @@ import pandas as pd
 IN_FOLDER = 'data'
 IN_FILE = 'tankerbases'
 
-OUT_FOLDER = 'db'
+OUT_FOLDER = 'db/data'
 OUT_FILE = 'tankerbase_data'
 
 TABLE = 'TankerBase'

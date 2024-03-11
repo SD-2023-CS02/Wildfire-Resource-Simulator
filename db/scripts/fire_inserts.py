@@ -7,7 +7,7 @@ import numpy as np
 IN_FOLDER = 'output'
 IN_FILE = 'frontend_fire_data'
 
-OUT_FOLDER = 'db'
+OUT_FOLDER = 'db/data'
 OUT_FILE = 'fire_data'
 
 TABLE = 'FirePoint'
