@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS TankerBase;
-
 CREATE TABLE TankerBase (
     base_code CHAR(3), -- FAA ID
     base_name VARCHAR(50) NOT NULL,

@@ -1,7 +1,3 @@
--- Cleanup
-DROP TABLE IF EXISTS FirePoint;
-
--- Create Tables
 CREATE TABLE FirePoint (
     fire_id VARCHAR(50),
     incident_name VARCHAR(50) NOT NULL,
