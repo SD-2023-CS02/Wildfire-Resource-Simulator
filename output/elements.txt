@@ -1,0 +1,10096 @@
+Directory Format
+BASE NAME 
+FAA IDENTIFIER 
+Airport Name and Elevation 
+Airport  Latitude/Longitude 
+Base Location on Field 
+GEOGRAPHIC AREA
+Base Fax Number 
+Base Email Address
+Base Mailing Address 
+County for Travel Regulation
+Jurisdiction Agency Logo 
+Base physical address if 
+different than mailing
+Base Operations Phone:
+Airtanker Base office phone
+Dispatch Office Phone:
+Controlling Dispatch
+Controlling Dispatch Phone
+Dispatch Contact Frequency:
+“Controlling Dispatch Call Sign”
+Base Manager:
+Base Manager Name
+Controlling Dispatch Contact 
+Frequency 
+Base Manager Phone
+Asst. Base Manager:
+Asst. Base Manager Name
+Asst. Base Manager Phone
+ATB Technician:
+Airbase Technician Name
+Airbase Technician Phone
+Air Attack: 
+FAO or UAM:
+Air Attack Name 
+Name
+Air Attack Phone 
+Phone
+Single 
+X1000lbs
+Dual 
+X1000lbs
+2D 
+X1000lbs
+Runway Weight Limits 
+Weight Limits as Published by 
+Runway 
+Weight Limits per existing agreements
+2S 
+X1000lbs 
+Applies mainly to 
+MAFFS gear
+VLATs
+Pit Total
+Hot Loading
+How many loading 
+pits?
+Is hot loading 
+authorized?
+Are Very Large 
+airtankers 
+authorized?
+LATs
+Parking Total
+Fuel and Load
+Are large 
+airtankers 
+authorized?
+Total parking 
+capability for most 
+common aircraft?
+MAFFS
+Hot Refueling
+Load 
+Simultaneously
+What level of 
+MAFFS 
+certification?
+Can simultaneous 
+fueling and 
+loading be done 
+under any 
+circumstance? 
+Is hot refueling 
+allowed under 
+any 
+circumstance?
+SEATs
+Offload Capacity
+Reserved
+How many 
+airtankers can be 
+loaded at same 
+time? 
+Bases offload 
+capacity in gallons.
+Are SEATs 
+authorized?
+Retardant Jettison Area(s) 
+Name and coordinates of designated retardant jettison areas
+Caution: Any known hazards unique to the local area or base.
+Known 
+Hazards:
+Remarks:
+Remarks pertinent to published information or of significant nature.
+Shipping 
+Address: 
+Last Revision: Date that base information was last updated. 
+Note: Types of contacts may vary depending on the base and may include fire management, 
+aviation, or other contacts as desired.
+NWCG Airtanker Base Directory
+21 of 144
+Airtanker Bases
+ABILENE–ABI
+Abilene Regional Airport–Elevation: 1,791’ 
+Airport: 32 41.13N/99 68.19W 
+Base Location on Field: NE Quadrant 
+SOUTHERN
+FAX: (325) 928-4002 
+(Dispatch) 
+Email: 
+merkeldispatch@tfs.tamu.edu
+Texas A&M Forest Service 
+Abilene Regional Airport 
+Abilene, TX 
+FTR County: Taylor
+Base Operations Phone:
+Established upon activation
+Dispatch Office Phone:
+Merkel Dispatch 
+“Abilene Repeater”
+Dispatch Contact Frequency:
+(325) 261-3620
+RX 159.330, Tn 225.7 
+TX 151.385 Tn 173.8 
+155.370 tone 156.7 
+168.650 tone 110.9
+Base Manager:
+“Local FF” 
+“National FF” 
+As Assigned
+Asst. Base Manager:
+As Assigned
+Airtanker Contract COR:
+As Assigned
+As Assigned
+Air Attack:
+Cynthia Foster
+(979) 458-7308
+State Aviation Officer:
+Single 
+85.0
+Dual 
+160.0
+2S 
+160.0
+2D 
+160.0
+Runway Weight Limits 
+Runway 17-35
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+Yes
+6
+NO
+MAFFS
+Load Simultaneously
+NO
+2
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+LC 95A
+YES
+5,000
+Retardant Jettison Area
+Caution: Commercial Air Traffic
+Known 
+Hazards:
+Remarks:
+Base staffed and operational as needed.  http://txforestservice.tamu.edu/
+Shipping 
+Address:
+FBO–Abilene Aero 
+2850 Airport Blvd. 
+Abilene, TX 79602
+Last Revision: 3-23-2018
+NWCG Airtanker Base Directory
+22 of 144
+ALAMOGORDO–ALM
+White Sands Regional Airport–Elevation: 4,200’
+Airport: 32 50.27N/105 59.77 
+W Base Location on Field: NW Quadrant 
+SOUTHWEST
+FAX: (575) 439-6011 
+Email: bpearson@fs.fed.us
+Alamogordo Airtanker Base 
+3500 Airport Road 
+Alamogordo, NM 88310-8601 
+FTR County: Otero
+USFS
+Base Operations Phone:
+(575) 439-6010
+Dispatch Office Phone:
+Alamogordo Dispatch Center
+Dispatch Contact Frequency:
+“Alamogordo Dispatch”
+Base Manager:
+Brian Pearson
+(575) 437-0778 
+173.775 tx/rx 
+Tone 103.5 tx/rx 
+(575) 439-6012
+Asst. Base Manager:
+Scott Mitchell
+(575) 439-6013
+Brian Pearson
+(575) 439-6012
+Air Attack:
+David Bales
+(575) 434-7391
+Forest Aviation Officer:
+Single 
+54
+Dual 
+74
+2S 
+94
+2D 
+120
+Runway Weight Limits 
+Runway 03R-21L Published: 
+Overweight Agreement: 
+VLATs
+Pit Total
+Hot Loading
+NO
+3
+YES
+LATs
+Parking Total
+Fuel and Load
+1Pending
+YES
+8
+MAFFS
+Load Simultaneously
+NO
+1
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+MVP FX
+YES
+3,000
+Runways: 3/21–7,005’ x 150’ 
+Retardant Jettison Area 
+Lat. 32º 49.53’N  Long.105º 50.45’W
+Known 
+Hazards:
+Remarks:
+Shipping 
+Address:
+Caution: Unmanned aerial vehicle activity, restricted areas, and military ops in the 
+vicinity of airport. Holloman AFB contacts–Cherokee Control 126.95 or Holloman 
+Approach 120.6. 
+Overweight agreement in place with runway inspections. 
+National Flight Following 168.650 tone 110.9 
+1See ATBM for details. 
+Alamogordo Airtanker Base 
+PO Box 10 
+Alamogordo, NM
+Last Revision: 2-27-2018
+NWCG Airtanker Base Directory
+23 of 144
+ALBUQUERQUE–ABQ
+Albuquerque International Sunport Airport–Elevation: 5,355’
+Airport:  35 02.87N/106 36.45W 
+Base Location on Field–NE Quadrant
+SOUTHWEST
+FAX: (505) 846-7409 
+Email: rdbeal@fs.fed.us
+Cibola National Forest 
+2113 Osuna Road NE–Suite A 
+Albuquerque, NM 87113 
+FTR County: Bernallilo
+USFS
+Base Operations Phone:
+Base under construction. Best contact 
+is Cell Number.
+(505) 846-7408 
+Cell (505) 401-1242
+Dispatch Office Phone:
+Albuquerque Dispatch Center
+(505) 346-2660
+Dispatch Contact Frequency:
+“Albuquerque Dispatch”
+168.650 Tn 110.9
+Base Manager:
+Rick Beal
+(505) 846-7408 
+Cell(505) 401-1242
+Asst. Base Manager:
+Vacant
+ATB Technician:
+Air Attack:
+Single 
+100
+Dual 
+210
+2D 
+360
+2S 
+155
+100
+210
+360
+Runway Weight Limits 
+Runway 08-26 Published: 
+Overweight Agreement: 
+Runway 03-21 Published: 
+Airtanker Base Ramp Restriction:
+¹155
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+6+
+NO
+MAFFS
+Load Simultaneously
+R/²H/²F
+1
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+MVP FX
+YES
+4,000
+Runways: 
+8/26–13,793’ x 150’     3/21–10,000’ x 150’     12/30–6000’ x 150’ 
+Retardant Jettison Area(s) 
+Lat. 34º 58.03’ N Long. 106º 26.07’ W
+Caution: Balloons, Ultra Lights, and Gliders in the area.
+Known 
+Hazards:
+Remarks:
+¹Airtanker base ramp limited to ST155 (120K on a portion of M1. See STIF) for MAFFS 
+per agreement with Kirkland. ²8 MAFFS A/C Authorized, Co-located on Kirkland AFB. 
+Additional aircraft parking (over 8), coordinated through Air Force Base.
+Shipping 
+Address:
+Cibola National Forest 
+2113 Osuna Road NE-Suite A 
+Albuquerque, NM 87113
+Last Revision: 04-02-2018
+NWCG Airtanker Base Directory
+24 of 144
+BAKERSFIELD–BFL
+Meadows Field Airport–Elevation: 509’
+Airport: 35 25.705N/119 02.695 W 
+Base Location: NE Quadrant
+SOUTHERN CALIFORNIA
+FAX:
+Email: ricontreras@fs.fed.us
+USFS
+Base Operations Phone:
+TBD
+Dispatch Office Phone:
+Porterville Dispatch
+(559) 782-3120
+Dispatch Contact Frequency:
+“Porterville”
+168.650
+Base Manager:
+Raul Contreras
+(559) 288-3528
+Asst. Base Manager:
+Anne Johnson
+(559) 288-3528
+Air Attack:
+Forest Aviation Officer:
+Joel Lane
+(559) 789-0191
+Runway Weight Limits 
+Runway Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+YES
+Parking Total
+Fuel and Load
+YES
+LATs 
+MAFFS
+Load Simultaneously
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+Retardant Jettison Area(s)
+Known 
+Hazards:
+Remarks:
+*This base not operational yet. Planed to be operational during the 2018 field season.
+Shipping 
+Address:
+Last Revision: 3/19/2018+
+NWCG Airtanker Base Directory
+25 of 144
+BATTLE MOUNTAIN–BAM
+Battle Mountain Airport–Elevation: 4,532’
+Airport: 40 35.94N/116 52.46W 
+Base Location on Field–NE Quadrant 
+GREAT BASIN
+FAX: (775) 635-2260 
+Email:j4miller@blm.gov
+Battle Mountain District 
+Attn: Battle Mountain Airtanker Base 
+50 Bastian Rd 
+Battle Mountain, NV 89820 
+FTR County: Lander
+BLM
+Base Operations Phone:
+Dispatch Office Phone:
+CNIDC
+(775) 635-3034 
+(775) 635-3029 
+(775) 623-1555
+Dispatch Contact Frequency:
+“Central Nevada Dispatch”
+Base Manager:
+Joe Miller
+Asst. Base Manager:
+Vacant
+168.650 Tn 110.9 
+(775) 635-5160 
+Cell (775) 455-6047 
+(775) 635-3034
+Zone UAM:
+Mary Loan
+(775) 623-2397
+2D
+2S 
+65
+Single 
+30 
+94 
+30
+Dual 
+104 
+130 
+125
+175
+Runway Weight Limits 
+Runway 12-30 Published: 
+Overweight Agreement: 
+Runway 03-21 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+6
+NO
+MAFFS
+Load Simultaneously
+R
+1
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+LC 95A
+YES
+5,000
+Runways: 3/21–7,300’ x 150’   12/30–7,299’ x 150’ 
+Retardant Jettison Area(s) 
+40° 36.3 N X 116° 46.6 W
+Known 
+Hazards:
+General aviation activity on airport. 
+Military SUA/training routes in area 
+FBO: (775) 635-2245,  See Base Manager for details1. 
+MAFFS:
+Remarks:
+1.  Taxiway limit ST 157; Don’t use western-most TWY entry to GA ramp  
+2.  Park right side towards pits due to hose length, offset S of pit taxi lines for
+wingtip clearance.
+3.  ARFF coordination req’d for > 4 sorties/7 days
+Shipping 
+Address:
+(FedEx/ UPS) 1080 Airport Road 
+Battle Mountain, NV 89820
+Last Revision: 2-27-2018
+NWCG Airtanker Base Directory
+26 of 144
+BEMIDJI–BJI
+Bemidji Regional Airport–Elevation: 1,390’
+Airport: 47 30.17N/94 55.70W 
+Base Location on Field: SE Quadrant 
+EASTERN
+FAX: (218) 755-4379 
+Email: bemidjitb.dnr@state.mn.us
+DNR & BIA
+Minnesota  
+Dept. of Natural Resources 
+Bemidji Interagency Airtanker Base 
+3219 Gillett Dr. NW 
+Bemidji, MN 56601 
+FTR County: Beltrami
+Base Operations Phone:
+(218) 755-4380
+Dispatch Office Phone:
+(218) 327-4558
+Open April –June1 
+MN Interagency Coordination 
+Center
+Dispatch Contact Frequency:
+“Fire Center”
+Base Manager:
+Lee Schaar
+Air Net–151.370  
+Tn 136.5 
+(218) 755-4380
+Asst. Base Manager:
+BIA Contract COR:
+Greg Peterson
+(218) 751-2011 Ext. 408
+Paul Wannarka
+(218) 322-2728
+MN DNR Contract COR:
+2S
+2D
+Single 
+75
+Dual 
+200
+75
+200
+Runway Weight Limits 
+Runway 13-31 Published: 
+Overweight Agreement: 
+Runway 07-25 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+2YES
+NO
+2
+LATs
+Parking Total
+Fuel and Load
+YES
+3
+NO
+MAFFS
+Load Simultaneously
+NO
+1
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+YES
+NO 
+LC 
+95A
+Runways: 13/31–7,004’ x 150’   7/25–5,700’ x 150’ 
+ Retardant Jettison Area(s)
+Lat. 47
+22.35’ N Long. 95
+07.47’ W
+⁰
+⁰
+Known 
+Hazards:
+Remarks:
+1 Please call Fixed-Wing Operations Specialist during off season. Paul Wannarka. 
+(218) 322-2728. 
+2Hot Loading for SEATs only. 
+Contact base by radio for parking instructions (120.1250)
+Shipping 
+Address:
+Bemidji Airtanker Base 
+3219 Gillett Dr. NW 
+Bemidji, MN 56601
+Last Revision: 02-27-2018
+NWCG Airtanker Base Directory
+27 of 144
+BILLINGS–BIL
+Billings Logan International Airport–Elevation: 3,652’
+Airport: 45 48.38N/108 31.35W 
+Base Location on Field: NE Quadrant  
+NORTHERN ROCKIES
+FAX: (406) 896-2951 
+Email:jhassler@blm.gov
+Bureau of Land Management 
+1299 Rimtop Drive 
+Billings, MT 59105 
+FTR County: Yellowstone
+BLM
+Base Operations Phone:
+(406) 896-2910
+Dispatch Office Phone:
+Billings Dispatch Center
+(406) 896-2900
+Dispatch Contact Frequency:
+“Billings Dispatch”
+Base Manager:
+Jim Hassler
+Air Services Manager/SEMG:
+Henry Gilliland
+168.650 Tn 110.9 
+Office(406) 896-2962  
+Cell(406) 794-7377  
+(406) 896-2969
+Ramp Manager:
+Adam Edgington
+(406) 896-2883
+Chad Cullum
+(406) 896-2862
+Unit Aviation Manager:
+Single 
+130
+Dual 
+170
+2S 
+175
+2D 
+285
+Runway Weight Limits 
+Runway 10L-28R Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+6
+YES
+MAFFS
+Load Simultaneously
+R
+2
+YES
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+YES
+5,000
+LC 95A
+Runways: 10L/28R–10,518’ x 150’   7/25–5,501’ x 75’ 
+Retardant Jettison Area(s) 
+Lat. 45-57.9N  Long.108-41.0W
+Known 
+Hazards:
+Remarks:
+Shipping 
+Address:
+Billings Hazard map available at airtanker base and at Northern Rockies Coordination 
+Center website under aviation. Updated annually 
+Radio/Time Keeper (Hot Box) staffed only during flight operations (406) 896-2926 
+Fueling available in loading pits at the discretion of base manager. 
+Additional parking across field at Edwards Jet Center 
+Contact Billings Dispatch on National Flight Following. 
+MAFFS: 
+1) Offset approx. 10ft SW of pit taxi lines for prop clearance on 2 ½ ft. pit fence. 
+2) Distance between pits allows entry/exit with H or J model when other pit is occupied. 
+Use caution with prop blast if G/An aircraft are parked on ramp to NW of pits. 
+Bureau of Land Management 
+1299 Rimtop Drive 
+Billings, MT 59105
+Last Revision: 3-02-2018
+NWCG Airtanker Base Directory
+28 of 144
+BISHOP–BIH
+Eastern Sierra Regional Airport–Elevation: 4,124’
+Airport:  37 22.53N/118 22.48W 
+Base Location on Field–SW Quadrant
+SOUTHERN CALIFORNIA
+FAX: (760) 873-8403 
+Email: mingram@fs.fed.us
+Inyo National Forest  
+798 N. Main Street 
+Bishop, CA 93514 
+FTR County: Inyo
+USFS
+Base Operations Phone:
+(760) 873-8371
+Dispatch Office Phone:
+OVICC
+(760) 873-2405
+Rx168.125 Tx173.800
+Dispatch Contact Frequency:
+“Inyo”
+Tn 8
+Base Manager:
+Admin. contact:
+Mark Ingram
+(760) 873-2470       
+(760) 872-5007 
+Cell (760) 616-0006
+ATB Technician:
+Air Attack:
+2S
+Single 
+70
+Dual 
+110
+2D 
+200
+100
+140
+240
+Runway Weight Limits 
+Runway 12-30 Published: 
+Overweight Agreement: 
+Runway 16-34 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+6
+NO
+MAFFS
+Load Simultaneously
+NO
+1
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+MVP FX
+YES
+Runways: 12/30–7,498’ x 100’   16/34–5,600’ x 100’   7/25–5,567’ x 100’ 
+Retardant Jettison Area(s) 
+Contact Base
+Known 
+Hazards:
+Remarks:
+Shipping 
+Address:
+Bishop Reload Base 
+798 N. Main St. 
+Bishop, CA. 93514
+Last Revision: 02-28-2018
+NWCG Airtanker Base Directory
+29 of 144
+BOISE–BOI
+Boise Air Terminal/Gowen Field–Elevation: 2,871’
+Airport:  43 33.93N/116 12.87W 
+Base Location on Field–NE Quadrant
+GREAT BASIN
+FAX: (208) 387-5436 
+Email: ldixon@fs.fed.us
+Boise Airtanker Base 
+3833 S. Development Ave. 
+Boise, ID 83705 
+FTR County: Ada
+USFS
+Base Operations Phone:
+(208) 387-5664
+Dispatch Office Phone:
+Boise Dispatch Center
+Dispatch Contact Frequency:
+“Boise Dispatch”
+Base Manager:
+Les Dixon
+(208) 384-3398/3400 
+172.200 Tn 123.0 
+168.650 Tn 110.9 
+(208) 387-5664/5651
+Asst. Base Manager:
+Dave Perez
+(208) 387-5664
+Single 
+100
+Dual 
+210
+2S 
+175
+2D 
+446
+100
+210
+430
+Runway Weight Limits 
+Runway 10L-28R Published: 
+Overweight Agreement: 
+Runway 10R-28L Published: 
+Overweight Agreement: 
+VLATs
+Pit Total
+Hot Loading
+NO
+3
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+5+
+NO
+MAFFS
+Load Simultaneously
+R/¹H/¹F
+1
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+LC 95A
+YES
+3,000
+Runways: 10L/28R–10,000’ x 150’   10R/28L–9,763’ x 150’ 
+Retardant Jettison Area(s) 
+Lat. 43º 26.06’ N Long. 116º 06.54’ W  
+(3,000’ drop height, avoid livestock, vehicles, radio towers (2)
+Known 
+Hazards:
+Remarks:
+Shipping 
+Address:
+Caution: Class C airspace. Helicopter training ops on third runway. IDANG, LATN & MTR 
+routes and training outside of MOA’s with A-10 and C-130. MOA south of Snake River. 
+Backcountry air ops 122.9 between BOI, Salmon, McCall, and Frank Church Wilderness. 
+¹6 MAFFS A/C Authorized ³SEATs only 
+Numerous MTR’s in area. Consult hazard maps and sectional charts. Transitioning Owyhee or 
+Jarbidge MOA contact Mountain Home RAPCON on 124.8, Cowboy Control on 134.1. 
+Noise abatement: Unless otherwise instructed by ATC departing airtankers should fly runway 
+heading until 4,400 feet MSL before making turns. Pilots may request a southerly turn any time 
+after departure. 
+MAFFS: MOG of 2 for all J Model C-130’s in the Pits. 
+Atten: Boise Airtanker Base 
+3833 S. Development Ave.  
+Boise, ID 83705
+Last Revision: 3-2-2018
+NWCG Airtanker Base Directory
+30 of 144
+BROWN FIELD–SDM
+Brown Field Municipal Airport–Elevation: 526’
+Airport: 32 34.33 N/116 58.82 W 
+Base Location on Field: SW Quadrant  
+SOUTHERN CALIFORNIA
+FAX: (760) 788-9634 
+Email: 
+meaton@fs.fed.us 
+MVU.RamonaAirAttackBase@fire.ca.gov
+Brown Field 
+1421 Continental Street 
+San Diego, CA 92154 
+FTR County: San Diego
+USFS & CAL FIRE
+Base Operations Phone:
+(RNM AAB)
+(760) 789-1370
+Dispatch Office Phone:
+Cleveland Dispatch/ Monte Vista
+Dispatch Contact Frequency:
+“Cleveland”
+Base Contact:
+USFS: Mike Eaton FAO 
+Burke Kremensky RNM BC
+2S
+(619) 557-5262 
+168.650 
+Tn 100.9 
+(909) 383-2994 
+(760) 789-1370 
+2D
+Single 
+80
+Dual 
+110
+Runway Weight Limits 
+Runway 8L-26R Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+8
+NO
+MAFFS
+Load Simultaneously
+pending
+2
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+YES
+0
+MVP FX
+Runways: 8L/26R–7,692’ x 150’    8R/26L–3,180’ x 75’ 
+Retardant Jettison Area(s) 
+Orosco Ridge Lat. 33 06 00 N Long. 166 52 09 W
+Known 
+Hazards:
+Caution: Be alert to runway crossing clearances 
+Caution: Read back of all holding instruction required 
+Caution: Otay Mountain Range–6 miles east of runway.
+Remarks:
+This airport is used as a temporary addition. 
+Contact the dispatch center to find out the specific aviation information.
+Shipping 
+Address:
+Brown Reload Base 
+1421 Continental Street 
+San Diego, CA 92154
+NWCG Airtanker Base Directory
+31 of 144
+CASPER–CPR
+Casper/Natrona County Int’l Airport–Elevation: 5,350’
+Airport: 42 54.12N/106 24.60W 
+Base Location on Field–Southwest of terminal
+ROCKEY MOUNTAIN
+FAX: (307) 261-7646  
+Email: echapman@blm.gov
+Bureau of Land Management 
+Casper–Natrona County  
+International Airport 
+Casper, WY 
+FTR County: Natrona
+BLM
+Base Operations Phone:
+No dedicated line
+Dispatch Office Phone:
+Casper Dispatch Center
+(307) 233-1140
+Dispatch Contact Frequency:
+“Casper Dispatch”
+168.650 Tn 110.9
+Base Manager:
+TBD
+Asst. Base Manager:
+ATB Technician:
+Unit Aviation Manager:
+Eric Chapman
+(307) 261-7512
+ST
+Runway Weight Limits
+Single 
+130
+Dual 
+170
+DT 
+270
+85
+140
+260
+Runway 3-21 Published: 
+Overweight Agreement: 
+Runway 08-26 Published: 
+Overweight Agreement:
+Pit Total
+Hot Loading
+VLATs
+1YES
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+2
+NO
+MAFFS
+Load Simultaneously
+YES
+1
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+YES
+LC 95A
+Runways: 3/21–10,165’ x 150’ 
+Retardant Jettison Area(s) 
+Lat. 42 54.354’ N   Long. 106 38.354’ W 
+West of airport, Ridgeline south of Emerald Acres subdivision
+Caution: Wyoming Aerial Hazards Map available at the base.
+Known 
+Hazards:
+Remarks:
+•  Temporary LAT/VLAT Base-1DC-10 only. Primary Use is a SEAT Base 
+•  Unicom 122.95 
+•  CTAF 118.3  
+•  100LL, Jet A
+Shipping 
+Address:
+Casper Interagency Dispatch Center 
+3777 Airport Parkway 
+Casper, WY 82604
+Last Revision:  3-02-18
+NWCG Airtanker Base Directory
+32 of 144
+CASTLE–MER
+Castle Airport–Elevation:
+Airport: 37 22.49N/120 34.05W 
+Base Location on Field: NW Quadrant
+SOUTHERN CALIFORNIA
+FAX: (209) 725-1702 
+Email:  
+wflannery@fs.fed.us
+USFS
+Stanislaus National Forest 
+Castle Airport 
+Headway Drive Gate 29 
+Atwater, CA 95301 
+FTR County: Merced
+Base Operations Phone:
+USFS Castle ATB
+(209) 725-1700
+STF Dispatch Office Phone:
+Stanislaus Dispatch
+(209) 533-1130
+Dispatch Contact Frequency:
+“Stanislaus Dispatch/National FF”
+168.650 Tn 110.9
+ATB Base Manager:
+Vacant
+Chuck Duncan
+(951) 452-1355
+Phos-Chek Area Manager:
+Stanislaus NF FAO:
+Scott Malta
+(209) 385-7686 ext. 4180
+Castle Airport Manager:
+Harold “Dave” Updike
+(209) 532-3671
+Forest Fire Staff Officer:
+2S
+Runway Weight Limits
+Single 
+155
+Dual 
+200
+2D 
+415
+Runway 13-31 Published: 
+Overweight Agreement:
+Pit Total
+Hot Loading
+VLATs
+1YES
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+6
+NO
+MAFFS
+Load Simultaneously
+YES
+2
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+MVP FX
+YES
+12,000
+Runways: 13/31–11,802’ x 150’ 
+Retardant Jettison Area(s) 
+Grassy area north and centered with runway, between runway 13-31 and road/prison
+Known 
+Hazards:
+Remarks:
+Shipping 
+Address:
+Caution: Extensive student flight training activity on airport. Avoid fuel hydrant outlets 
+on north ramp area. 
+Civilian and military training may occasionally cause pattern congestion.  
+Fire aircraft will receive priority from Castle Tower on 118.175. 
+Castle Airtanker Base 
+1900 Airdrome Entry 
+Atwater, CA 95301
+Last Revision: 04-09-2018
+NWCG Airtanker Base Directory
+33 of 144
+CEDAR CITY–CDC
+Cedar City Regional Airport–Elevation: 5,622’
+Airport: 37 42.47N/113 05.35W 
+Base Location on Field: NE Quadrant  
+GREAT BASIN
+FAX: (435) 865-4629 
+Email: 
+rsorenson@blm.gov 
+cedarcityac@gmail.com
+Cedar City Interagency Air Center 
+Bureau of Land Management 
+1635 N. Airport Rd. 
+Cedar City, UT 84721 
+FTR County: Iron
+BLM
+Base Operations Phone:
+(435) 865-4620
+Dispatch Office Phone:
+CCIFC
+(435) 865-4600
+Dispatch Contact Frequency:
+“Color Country”
+168.650 Tn 110.9 
+(435) 865-4622
+Base Manager:
+Vacant
+Asst. Base Manager:
+Vacant
+Air Attack:
+Isaac Shinkle
+(435) 865-4645 
+Cell(435) 669-6869
+Vacant
+Unit Aviation Manager:
+2S
+Single 
+75
+Dual 
+100
+2D 
+150
+Runway Weight Limits 
+Runway 02-20 Published: 
+Overweight Agreement:
+175¹
+VLATs
+Pit Total
+Hot Loading
+NO
+3
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+5+
+YES
+MAFFS
+Load Simultaneously
+R
+2
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+YES
+5,000
+NO 
+LC 95A-
+Fx
+Runways: 2/20–8,653’ x 150’ 
+Retardant Jettison Area(s) 
+Lat. 37º 46.37’N  Long.113º 22.23’W
+Known 
+Hazards:
+Remarks:
+Caution: Extensive student flight training activity on airport. 
+Large airtankers exceed runway 08/26 bearing strength. 
+¹MAFFS approved to 2S175 per letter of agreement. 
+FBO Sphere One contact number: (435) 586-4504. Service: 122.85 Traffic: 123.0 
+VOR  CDC 252 @ 14nm 
+Additional parking in GA East of FBO
+Shipping 
+Address:
+Cedar City Air Center 
+1635 N Airport Road 
+Cedar City, UT 84721
+Last Revision: 3-19-2018
+NWCG Airtanker Base Directory
+34 of 144
+CHANNEL ISLANDS RELOAD–NTD
+Point Mugu Naval Station–Elevation 13’
+Airport: 34 07.82N/119 06.54W 
+Base Location on Field: NE Quadrant 
+SOUTHERN CALIFORNIA
+FAX: (TBD) 
+Email: 
+SLU.PasoRoblesAirAttack@ 
+fire.ca.gov@fire.ca.gov
+146th Airlift Wing CANG 
+106 Mulcahey Dr. 
+Port Hueneme, CA 93041 
+FTR County: Ventura
+CAL FIRE
+Base Operations Phone:
+TBD/Paso Robles AAB
+(805) 238-1878
+Dispatch Office Phone:
+San Luis Obispo Unit
+Dispatch Contact Frequency:
+“San Luis” Command 1 Tone 10
+Base Manager:
+Battalion Chief James Tully
+(805) 547-9331 
+Rx 151.355 
+Tx 159.300 
+Tn 107.2 
+(805) 903-3418
+Captain Matt Mihalco
+(805) 610-1469
+Captain Tom Swanson
+(805) 903-3481
+2D
+Single 
+150
+Dual 
+300
+2S 
+175
+Runway Weight Limits 
+Runway 3-21 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+YES
+NO
+3
+LATs
+Parking Total
+NO
+YES
+8
+MAFFS
+Load Simultaneously
+NO
+H/F
+2
+SEATs
+Offload Capacity
+MVP FX
+YES
+0
+Hot 
+Loading 
+Fuel and 
+Load 
+Hot 
+Refueling 
+Retardant 
+Type
+Known 
+Hazards:
+Remarks:
+Runways: 3/21–11,102’ x 200’    9/27–5,502’ x 200’ 
+Retardant Jettison Area(s) 
+Utilize the KSMX Jettison area, adjacent to RWY 02/22  N34 53.65 W120 27.89 
+Caution: Be alert to runway crossing clearances 
+Caution: Read back of all holding instruction required 
+Caution: Active Military Base (Navy and National Guard) 
+This airport is used as a temporary addition and works in conjunction with Paso Robles Air 
+Attack Base during peak fire conditions.  
+Contact Battalion Chief James Tully with all questions concerning Channel Islands and its 
+operations (805) 903-3418.
+Shipping 
+Address:
+146th Airlift Wing CANF 
+106 Mulcahey Dr.  
+Port Hueneme, CA 93041
+Last Revision: 3-1-2018
+NWCG Airtanker Base Directory
+35 of 144
+CHATTANOOGA–CHA
+Chattanooga Metropolitan Airport, Lovell Field–Elevation: 683’
+Airport: 35 02.22N/85 12.30W 
+Base Location on Field–NW Quadrant
+SOUTHERN
+FAX: (423) 892-1258 
+Email: doug_ivey@nps.gov
+Cherokee National Forest 
+1022 Jubilee Drive 
+Chattanooga, TN 37421 
+FTR County: Hamilton
+USFS
+Base Operations Phone:
+(423) 892-6861
+Dispatch Office Phone:
+Cherokee Dispatch
+(423) 476-9761
+Dispatch Contact Frequency:
+“Cherokee Dispatch”
+Base Manager:
+Doug Ivey
+169.295 Tn 103.5 
+(423) 892-6861 
+Cell(865) 712-0689
+Asst. Base Manager:
+Corey Smith
+ATB Technician:
+Air Attack:
+2S
+Single 
+120
+Dual 
+164
+2D 
+265
+120
+164
+265
+Runway Weight Limits 
+Runway 02-20 Published: 
+Overweight Agreement: 
+Runway 15-33 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+NO
+LATs
+Parking Total
+Fuel and Load
+YES
+4
+YES
+MAFFS
+Load Simultaneously
+NO
+1
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+MVP FX
+YES
+5,000
+Runways: 2/20–7,400’ x 150’   15/33–5,575’ x 150’ 
+Retardant Jettison Area(s) 
+Lat. 35º 16.33’ N Long. 084º 30.27’ W
+Caution: Large flocks of birds in vicinity of airport.
+Known 
+Hazards:
+Remarks:
+Transient aircraft avoid security zone within 300 ft. of terminal building. 
+Read back all hold short instructions required.
+Shipping 
+Address:
+Cherokee National Forest 
+1022 Jubilee Drive  
+Chattanooga, TN 37421
+Last Revision: 3-02-2018
+NWCG Airtanker Base Directory
+36 of 144
+CHESTER–O05
+Rogers Field Airport–Elevation: 4,528’
+Airport: 40 17.32N/121 14.65W 
+Base Location on Field–NE Quadrant
+NORTHERN CALIFORNIA
+FAX: (530) 258-5196 
+Email: talexander@fs.fed.us
+Lassen National Forest 
+901 E. Hwy 36 
+Chester, CA 96020 
+FTR County: Plumas
+USFS
+Base Operations Phone:
+(530) 258-5150 
+ (530) 258-5151
+Susanville Interagency Fire Center
+“Susanville”
+Dispatch Office Phone: 
+Dispatch Contact 
+Frequency: 
+Base Manager:
+Tammy Alexander
+(530) 257-5575 
+173.1875 
+164.8000 Tn 5  
+(530) 258-5428
+Assistant Base Mgr.:
+ATB Technicians:
+Lassen NF FAO :
+Vacant 
+Kirk Phillips 
+Jenna Peters 
+Brian Rogers
+(530) 258-5117 
+(530) 258-5420              
+(530) 258-5106
+Air Attack:
+Fred Brewster
+(530) 258-5108
+Single
+Dual
+2S
+2D
+Runway Weight Limits 
+Runway 16-34 Published: 
+Overweight Agreement:
+80,000
+135,000
+155,000
+165,000
+VLATs
+Pit Total
+Hot Loading
+NO
+3
+YES
+LATs
+Fuel and Load
+YES
+10
+NO
+Hot Refueling
+MAFFS
+3
+NO
+NO
+Parking Total 
+Load 
+Simultaneously
+Retardant Type
+SEATs
+MVP FX
+YES  Offload Capacity
+6,500
+Runways: 16/34–5,020’ x 100’ 
+Retardant Jettison Area(s) 
+“Prattville Plantation” Lat. 40º 12.26’ N Long. 121º 11.15’ W 
+From O05, 134° for 6 nm
+Known 
+Hazards:
+Remarks:
+No avgas truck, recip. Aircraft use commercial pump at FBO 
+Jet fuel truck available from FBO 
+AWOS frequency 118.275 or (530) 258-5860
+Shipping 
+Address:
+Lassen National Forest  
+Atten: Chester Airtanker Base 
+900 E. HWY 36 
+Chester, CA 96020
+Last Revision: 3-01-2018
+NWCG Airtanker Base Directory
+37 of 144
+CHICO–CIC
+Chico Municipal Airport–Elevation: 240’
+Airport: 39 48.13N/121 51.52W 
+Base Location on Field–NE Quadrant  
+NORTHERN CALIFORNIA
+FAX: (530) 895-6029 
+Email:  
+btu_chicoairattackbase@fire.ca.gov
+Chico Air Attack Base 
+1335 Fortress Street 
+Chico, CA 95973 
+FTR County: Butte
+CAL FIRE
+Base Operations Phone: 
+Dispatch Office Phone:
+Oroville ECC
+Dispatch Contact Frequency:
+“Oroville”
+(530) 895-6505 
+(530) 538-6460 
+Tx 159.375 
+Rx 151.400
+Base Manager:
+(530) 895-6505
+Captain Matt Davis 
+Captain Chris Vatcher
+Asst. Base Manager:
+ATB Technician:
+Air Attack:
+BC Shem Hawkins
+(530) 990-5128
+2S
+Single 
+63
+2D 
+170
+Runway Weight Limits 
+Runway 13L-31R Published: 
+Overweight Agreement:
+Dual 
+100 
+155¹
+165²
+VLATs
+Pit Total
+Hot Loading
+NO
+3
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+10+
+NO
+MAFFS
+Load Simultaneously
+R
+3
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+YES
+6000
+NO 
+MVP 
+FX
+Runways: 13L/31R–6,724’ x 150’ 
+Retardant Jettison Area(s) 
+Contact base on airtanker base frequency for jettison area locations and drop instructions
+Known 
+Hazards:
+Remarks:
+¹Waiver to exceed runway weight limit in effect for occasional use up to 155,000 
+lbs. See base manager for details. 
+²MAFFS approved to ST165 per letter of agreement on RWY 13L-31R, TWYs A, 
+B, E, H, and R. 
+For noise abatement a left turn to 080° is desirable when departing RW 13L. A left 
+270 is the usual pattern for westerly headings. 
+Avgas and Jet A both available. Single point fueling available.
+Shipping Address:
+Chico Air Attack Base 
+1335 Fortress Street 
+Chico, CA 95973
+Last Revision: 3-1-2018
+NWCG Airtanker Base Directory
+38 of 144
+COEUR d’ ALENE–COE
+Pappy Boyington Field–Elevation: 2,320’
+Airport: 47 46.55N/116 48.52W 
+Location on Field–NE Quadrant 
+NORTHERN ROCKIES
+Email: idcdcb2atbase@fs.fed.us
+Coeur d’Alene Wildland Fire Center 
+11569 Airport Drive 
+Hayden, Idaho 83835 
+FTR County: Kootenai
+USFS
+Base Operations Phone:
+Dispatch Office Phone:
+24hr Phone Number
+(208) 762-6912 
+Cell (208) 290-2540 
+(208) 772-3283
+Dispatch Contact Frequency:
+“Coeur d’ Alene Dispatch”
+168.650 Tn 110.9
+Base Manager:
+H. “Stan” Goode
+(208) 762-6901
+Asst. Base Manager:
+Pat “Pat” Montreuil
+(208) 762-6920
+Rick Sorenson
+(208) 762-6920
+Greg Loper
+(208) 762-6926
+ATB Tech: 
+Forest Aviation Officer/ BLM 
+UAM:
+2S
+2D 
+165
+Single 
+57 
+80
+Dual 
+95 
+120
+165
+Runway Weight Limits 
+Runway 06/24 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES1
+LATs
+Parking Total
+Fuel and Load
+YES
+5
+MAFFS
+Load Simultaneously
+NO
+1
+YES 
+YES2
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+LC 95A
+YES
+10,000
+Runways: 6/24–7,400’ x 100’   2/20–5,400’ x 75’ 
+Retardant Jettison Area(s) 
+47° 50.25’ N X 116° 37.25’ W3
+Aircraft maintain wing tip clearances taxiing in ramp area.
+Known 
+Hazards:
+Remarks:
+1 Hot Loading for SEATs common/LATs very uncommon. 
+2 Hot Refueling for equipped/approved aircraft only. 
+3Jettison area is approximately 7 miles northeast of the airport. 
+Jet A and 100LL both available on field.  Air card accepted 
+State SEATs based at COE
+Shipping 
+Address:
+Coeur d’ Alene Airtanker Base 
+11569 Airport Drive 
+Hayden, ID 83835
+Last Revision: 3-1-2018
+NWCG Airtanker Base Directory
+39 of 144
+COLORADO SPRINGS–COS
+Colorado Springs Municipal Airport–Elevation: 6,187’
+Airport: 38 48.80N/104 42.70W 
+Base Location on Field–SE Quadrant
+ROCKY MOUNTAIN
+FAX: TBD 
+Email:  
+CspringsATB@gmail.com
+USFS
+US Forest Service CWN  
+Army/Departure Airfield Control 
+Group Ramp 
+Colorado Springs, CO 
+FTR County: El Paso
+Base Operations Phone:
+TBD contact Dispatch
+Dispatch Office Phone:
+Pueblo Dispatch
+(719) 553-1600
+Dispatch Contact Frequency:
+“National FF”
+168.650
+Base Manager:
+William (Robby) Cline
+Cell (303) 941-6359
+Asst. Base Manager:
+ATB Technician:
+Air Attack:
+Single 
+120k 
+120K 
+120K
+Dual 
+250K 
+250K 
+171K
+ST 
+250K 
+250K 
+171K
+DT 
+550K 
+550K 
+279K
+Runway Weight Limits 
+Runway 35R-17L Published: 
+Runway 35L-17R Published: 
+Runway 31-13      Published: 
+Airtanker Base Ramp
+VLATs
+Pit Total
+Hot Loading
+YES
+2
+NO
+Fuel and Load
+LATs
+Parking Total
+YES
+YES
+6+1
+MAFFS
+Load Simultaneously
+Hot Refueling
+YES
+2
+NO
+SEATs
+Offload Capacity
+YES
+NO
+Retardant Jettison Area(s) 
+38-79.7299N,104-68.3611W 
+300 Ft East of runway 35R-17L
+None known at this time
+Known 
+Hazards:
+1Extra parking coordinated with ADEC ramp and/or COS airport.
+Remarks:
+TBD
+Shipping 
+Address:
+Last Revision: 3-22-18
+NWCG Airtanker Base Directory
+40 of 144
+COLUMBIA–O22
+Columbia Airport–Elevation: 2,118’
+Airport: 38 01.58N/120 24.78W 
+Base Location on Field–NE Quadrant
+NORTHERN CALIFORNIA
+FAX: (209) 532-8036 
+Email:  
+tcu.columbiaairattackbase@fire.ca.gov
+CAL FIRE 
+PO Box 390 
+Columbia, CA 95310 
+FTR County: TUOLOMNE
+CAL FIRE
+Base Operations Phone:
+(209) 532-2911
+Dispatch Office Phone:
+San Andreas ECC
+(209) 754-3831
+Dispatch Contact Frequency:
+“San Andreas”
+151.175
+Base Manager:
+BC Ken Warnock
+(209) 532-2911
+Asst. Base Manager:
+ATB Technician:
+Air Attack:
+Captain Stacey Hamilton
+Dual
+2S
+2D
+Single 
+30
+Runway Weight Limits 
+Runway 17-35 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+3
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+6
+NO
+MAFFS
+Load Simultaneously
+NO
+3
+NO
+SEATs
+Offload Capacity
+Hot Refueling 
+Retardant Type  MVP FX
+YES
+3,000
+Runways: 17/35–4,673’ x 75’ 
+Retardant Jettison Area(s) 
+“American Camp Lookout”  Lat 38° 05.11’N  Long 120° 23.07’W
+Known 
+Hazards:
+Remarks:
+As applicable, land on runway 35, and depart on runway 17 when conditions 
+permit.
+Shipping Address:
+10735 North Airport Road 
+Columbia, CA 95310
+Last Revision: 3-1-2018
+NWCG Airtanker Base Directory
+41 of 144
+DARWIN ANDERSON (BRAINERD)–BRD
+Brainerd Lakes Regional Airport–Elevation: 1,232’
+Airport: 46 23.83N/94 07.85W 
+Base Location on Field: SW Quadrant 
+EASTERN
+FAX: (218) 828-2707 
+Email: 
+brainerdtb.dnr@state.mn.us
+Minnesota DNR
+Minnesota  
+Dept. of Natural Resources 
+Brainerd DNR Airtanker Base 
+12834 Hwy 210 
+Brainerd, MN 56401 
+FTR County: Crow Wing
+Base Operations Phone:
+(218) 316-3820
+Dispatch Office Phone:
+(218) 327-4558
+Open April –June1 
+MN Interagency Coordination  
+Center
+Dispatch Contact Frequency:
+“Fire Center”
+Base Manager:
+Keith Riedel
+Air Net–151.370 
+Tn 136.5 
+(218) 316-3824
+Asst. Base Manager:
+2S
+2D
+Runway Weight Limits
+Single 
+75
+Dual 
+125
+75
+125
+Runway 16-34 Published: 
+Overweight Agreement: 
+Runway 05-23 Published: 
+Overweight Agreement
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+4
+NO
+MAFFS
+Load Simultaneously
+NO
+1
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+YES
+LC 95A
+Runways: 16/34–7,100’ x 150’   5/23–6,512’ x 150’ 
+Retardant Jettison Area(s) 
+37.27’ N Long. 94
+Lat. 46
+02.51’W
+Radio Tower (500 ft. tall) approximately 5 miles SW of runway.
+⁰
+⁰
+Known 
+Hazards:
+Remarks:
+1Please call Fixed-Wing Operations Specialist during off season. Paul Wannarka. 
+(218) 322-2728. 
+2Hot Loading for SEATs only. 
+Contact base by radio for parking instructions (120.1250)
+Shipping 
+Address:
+Darwin Anderson Airtanker Base 
+12834 Hwy 210 E. 
+Brainerd, MN 56401
+Last Revision: 3-01-2018
+NWCG Airtanker Base Directory
+42 of 144
+DELTA JUNCTION–PABI–BIG
+Fort Greely/Allen Army Airfield–Elevation: 1,277’
+Airport: 63 59.32N/145 43.30W 
+Base Location on Field–SE Quadrant 
+ALASKA
+FAX: (907) 895-2125 
+Email:  
+michael.goyette@alaska.gov
+State of Alaska Division of Forestry 
+PO Box 1149 
+Delta Junction, AK 99737 
+FTR County: Alaska
+State of Alaska
+Base Operations Phone:
+State of Alaska ,Delta Area Forestry
+Dispatch Office Phone:
+Delta Area Forestry
+Dispatch Contact Frequency:
+“Delta Forestry”
+Base Manager:
+Caleb Parker
+(907) 895-4225 
+(907) 895-2107 
+(907) 895-4225 
+132.450 
+ (907) 895-4225 
+Cell (907) 799-0365
+ATB Technician:
+Airfield Manager: US Military
+Burt Verhaar
+Airport Operations: US Military
+Fernando Elkins
+Dual
+(907) 873-7401        
+(907) 873-4171 
+(907) 873-4172  
+2D
+Runway Weight Limits
+2S 
+175
+137
+Single 
+PCN 54 
+N/A 
+PCN 20 
+N/A
+Runway 01-19 Published: 
+   Overweight Agreement: 
+Runway 10-28 Published: 
+   Overweight Agreement: 
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+NO
+LATs
+Parking Total
+Fuel and Load
+YES
+6
+NO
+MAFFS
+Load Simultaneously
+R
+2
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+YES
+3,000
+LC 95A
+Runways: 1/19–9,000’ x 150’   10/28–6,115’ x 150’    7/25–4,077’ x 90’  
+Retardant Jettison Area(s) 
+Lat. 63º 51.00’ N Long. 145º 22.00’ W
+Known 
+Hazards:
+Remarks:
+Class D Control Area, 6.0 mile radius of PABI. Active military base PPR required (contact Delta 
+Forestry to coordinate). Avoid flight over main base. Avoid flight over sensitive ammunition 
+storage area 1.5 miles SE of field. Avoid flight over National Missile Defense site 2.3 miles SE of 
+field. Contact tower/CTAF on 122.9 prior to landing (staffed M-F 08:00–24:00 local). Ground 
+Control 118.225 
+MAFFS: 
+1) Face West in pits; no pit taxilines.2) No RON/No Restricted Area 
+Pit MOG of 1 unless manifolds spread out.
+Shipping 
+Address:
+MP 267.5 Richardson HWY 
+Delta Junction, AK 99737 
+Contact Base For alternate Shipping Info.
+Last Revision: 03-2-2018
+NWCG Airtanker Base Directory
+43 of 144
+DURANGO–DRO
+Durango/La Plata County Airport–Elevation 6,685’
+Airport: 37 09.78N/107 44.82W 
+Base Location on Field: NW Quadrant  
+ROCKY MOUNTAIN
+FAX: (970) 382-8061 
+Email: cfrench01@fs.fed.us
+San Juan National Forest 
+100 CR 309A 
+Ignacio, CO. 81137 
+FTR County: LA PLATA
+USFS
+Base Operations Phone:
+(970) 375-3333
+Dispatch Office Phone:
+Durango Fire Dispatch
+(970) 385-1324
+Dispatch Contact Frequency:
+“Durango Dispatch”
+168.650 Tn 110.9
+Base Manager:
+Craig French
+(970) 375-3322
+Asst. Base Manager:
+Jayleen Vera
+(970) 375-3333
+Air Attack:
+Jarren Flinders
+(970) 375-3334
+Forest Aviation Officer:
+2S
+Single 
+95
+Dual 
+150
+2D 
+210
+Runway Weight Limits 
+Runway 03-21 Published: 
+Overweight Agreement:
+175¹
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Fuel and Load
+YES
+6
+YES
+Hot Refueling
+MAFFS
+1
+NO
+R
+Retardant Type
+SEATs
+Parking Total 
+Load 
+Simultaneously 
+Offload Capacity
+LC 95A
+YES
+6,500
+Runways: 3/21–9,201’ x 150’ 
+Retardant Jettison Area(s) 
+On Airport: Lat. 37º 09.47’ N  Long.107º 44.50’ W
+Known 
+Hazards:
+Remarks:
+¹Runway and all taxiways rated to ST175. 
+Hot Loading for Single Engine Airtankers only.
+Shipping 
+Address:
+San Juan National Forest 
+100 CR 309A 
+Ignacio, CO. 81137
+Last Revision: 3-02-2018
+NWCG Airtanker Base Directory
+44 of 144
+ELY–ELO
+Ely Municipal Airport–Elevation: 1,456’
+Airport: 47 49.67N/91 49.98W 
+Base Location on Field: SW Quadrant 
+EASTERN
+FAX: (218)365-5420 
+Email: elyairattack@gmail.com
+Ely Air Attack Base 
+1587 Hwy 1 
+Ely, MN 55731 
+FTR County: St. Louis
+USFS
+Base Operations Phone:
+(218) 365-4831
+Dispatch Office Phone:
+Superior NF
+(218) 327-4175
+Dispatch Contact Frequency:
+“MIFC Air Dispatch”
+168.650 Tn 110.9
+Base Manager:
+Blake Freking
+(218) 340-4878
+Alternate Base Manager:
+Jim Bertelsen
+(218) 349-0146
+Forest Aviation Officer:
+Rob Heavirland
+(218) 343-7995
+Mort Tome
+(218) 365-4831
+Mixmaster/Alternate Contact:
+2S
+2D
+Runway Weight Limits 
+Runway 12-30 Published: 
+Overweight Agreement:
+Single 
+60 
+80
+Dual 
+100 
+155
+155
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+5
+NO
+MAFFS
+Load Simultaneously
+NO
+1
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+LC 95A
+YES
+4,000
+Runways: 12/30–5,596’ x 100’  
+Retardant Jettison Area(s) 
+“August Lake” Lat 47 47.22’ N Long 91 37.20’W
+Known 
+Hazards:
+Caution: Radio Tower 500 Ft. AGL approx. 5 miles SW of Runway. Strong crosswinds. 
+Possible deer and moose on Runway
+Remarks:
+Hot Loading for SEAT’s only.
+Shipping 
+Address:
+Ely Air Attack Base 
+1587 Hwy 1 
+Ely, MN 55731
+Last Revision:3-02-2018
+NWCG Airtanker Base Directory
+45 of 144
+FAYETTEVILLE–FYV
+City of Fayetteville Drake Field Airport–Elevation: 1,251’
+Airport: 36 00.45N/94 09.98W 
+Base Location on Field
+SOUTHERN
+FAX: (479) 575-9554 
+Email: kpaxson@fs.fed.us
+Ozark–St. Francis National Forest 
+4211 McCollum 
+Fayetteville, AR 72701 
+FTR County: Washington
+USFS
+Base Operations Phone:
+(479) 575-0030
+Dispatch Office Phone:
+AOICC
+Dispatch Contact Frequency:
+“Hot Springs Dispatch”
+(501) 321-5232 
+Natl FF 168.650 Rx/Tx 
+110.9
+Base Manager:
+Asst. Base Manager:
+ATB Technician:
+Forest Aviation Officer:
+Kris Paxson
+(719) 660-8281
+2S
+2D 
+175
+Dual 
+150
+Single 
+90
+Runway Weight Limits 
+Runway 16-34 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+NO
+LATs
+Parking Total
+Fuel and Load
+YES
+2
+NO
+MAFFS
+Load Simultaneously
+NO
+1
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+MVP FX
+YES
+Runways: 6,005’ x 100’ 
+Retardant Jettison Area(s) 
+Contact Base
+Deer on and in vicinity of airport
+Known 
+Hazards:
+Remarks:
+Use runway 34 for departure to avoid populated areas if possible.
+Shipping 
+Address:
+4500 South School Road  
+Fayetteville, AR 72701
+Last Revision: 3-02-2018
+NWCG Airtanker Base Directory
+46 of 144
+FORT HUACHUCA–FHU
+Sierra Vista Municipal/Libby Army Airfield–Elevation: 4,719’
+Airport: 31 35.97N/110 20.88W 
+Base Location on Field–NW Quadrant 
+SOUTHWEST
+FAX: (520) 417-6916 
+Email: libbyatb@gmail.com
+USFS
+Coronado NFS 
+Ft. Huachuca ATB 
+4070 S. Avenida Saracino 
+Hereford, AZ 85615 
+FTR County: Cochise
+Base Operations Phone:
+Dispatch Office Phone:
+Tucson Interagency Fire Center
+(520) 202-2710
+Dispatch Contact Frequency:
+“Tucson Dispatch”
+169.600
+Base Manager:
+Cell(520) 559-3105
+Gilbert Gil 
+ggil@fs.fed.us
+Asst. Base Manager:
+Cell(520) 559-2792
+Eric Lathrop 
+eglathrop@fs.fed.us
+ATB Technician:
+Air Attack:
+2S
+Single 
+70
+Dual 
+200
+2D 
+400
+46
+106
+137
+Runway Weight Limits 
+Runway 08-26 Published: 
+Overweight Agreement: 
+Runway 12-30 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+3
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+6
+YES
+MAFFS
+Load Simultaneously
+NO
+1
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+YES
+3,000
+MVP FX
+The Ft. Huachuca Airtanker Base located on Libby Army Airfield has been relocated for the 2018 
+season. The temporary base is located on the North side across the airfield from Ft. Huachuca at the 
+Sierra Vista airport side.
+Runways: 16/34–6,005’ x 100’ 
+Retardant Jettison Area(s)
+CAUTION: Aerostat Balloon
+Jettison areas are between the main runway and the taxiway, or off the west end of the runway, and one 
+designated area in the Whetstone Mountains. See Base Manager for details  
+Known 
+Hazards:
+Remarks:
+Within Military Boundary
+Coronado NFS, Ft. Huachuca ATB, 4070 S. Avenida Saracino, Hereford, AZ 85615
+Shipping 
+Address:  
+Last Revision: 3-19-2018
+NWCG Airtanker Base Directory
+47 of 144
+FORTUNA–FOT
+Rohnerville Airport–Elevation: 392’
+Airport: 40 33.12N/124 07.58W 
+Base Location on Field–E Quadrant
+NORTHERN CALIFORNIA
+FAX: (707) 725-6752 
+Email:  
+Kurt.Dernedde@fire.ca.gov 
+HUUAirProgram@fire.ca.gov
+CAL FIRE/Rohnerville AAB 
+2420 Airport Way 
+Fortuna, CA 95540 
+FTR County: Humboldt
+CAL FIRE
+Base Operations Phone:
+Logan Kalfsbeek
+(707) 725-4572
+Dispatch Office Phone:
+Fortuna ECC
+Dispatch Contact Frequency:
+“Fortuna”
+Base Manager:
+Brian Renner
+(707) 726-1280 
+Tx 159.405 
+Rx 151.250 
+ (707) 725-4572
+Asst. Base Manager:
+Logan Kalfsbeek
+(707) 725-4572
+ATB Technician:
+Air Attack:
+Brian Renner/ Logan Kalfsbeek
+Dual
+2S
+2D
+Runway Weight Limits
+Runway 11-29 Published: 
+Overweight Agreement:
+Single 
+30 
+80
+155
+VLATs
+Pit Total
+Hot Loading
+NO
+3
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+4
+NO
+MAFFS
+Load Simultaneously
+NO
+3
+NO
+SEATs
+Offload Capacity
+Hot Refueling 
+Retardant Type  MVP FX
+YES
+3,000
+Runways: 11/29–4,005’ x 100’ 
+Retardant Jettison Area(s) 
+Jettison area is parallel and south of runway on RW-29 approach. Contact Base
+Known 
+Hazards:
+Caution: Runway length and weather conditions will dictate load carrying 
+capability. Pilot-in-Command should review POH for more information. 
+Caution: Downloading will be required as necessary for large airtankers. P2V 
+max 1,800 gallons.
+Remarks:
+Avoid operations over city. When applicable, right hand traffic RW-11, left hand 
+traffic RW-29. 
+Airtanker Base Manager will brief new pilots on procedures and hazards.
+Shipping Address:
+CAL FIRE/ Rohnerville AAB 
+2420 Airport Way  
+Fortuna, CA 95540
+Last Revision: 3-2-2018
+NWCG Airtanker Base Directory
+48 of 144
+FORT WAINWRIGHT–PAFB–FBK
+Ladd Army Airfield–Elevation: 460’
+Airport: 64 50.20N/147 36.97W 
+Base Location on Field–NE Quadrant
+ALASKA
+FAX: (907) 356-5527 
+Email: tplumlee@blm.gov
+Bureau of Land Management 
+Alaska Fire Center 
+PO Box 35005 
+Fort Wainwright, AK 99703 
+FTR County: Fairbanks
+BLM
+Base Operations Phone:
+(907) 356-5528
+Dispatch Office Phone:
+(907) 356-5670
+Dispatch Contact Frequency:
+Alaska Interagency Coordination 
+Center 
+“Fairbanks”
+161.175 Tx & Rx
+Base Manager:
+Ted Plumley
+(907) 356-5528
+Asst. Base Manager:
+Vacant
+ATB Technician:
+Air Attack:
+Rick Thompson
+(907) 356-5535
+Single
+Dual
+2D
+Runway Weight Limits
+2S 
+166
+PCN 130
+175
+Runway 07L-25R Published: 
+Overweight Agreement: 
+Runway 07R-25L Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+3
+NO
+LATs
+Parking Total
+Fuel and Load
+YES
+6
+NO
+MAFFS
+Load Simultaneously
+R
+1
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+LC 95A
+NO
+Runways: 7L/25R–8,575’ x 150’   7R/25L–7,280’ x 75’ 
+Retardant Jettison Area(s) 
+Lat. 64º 34.00’ N Long. 147º 20.00’ W
+Caution: Heavy bird activity
+Known 
+Hazards:
+Remarks:
+Shipping 
+Address:
+Avoid overflight of base hospital. 
+MAFFS: 
+1) Face West; Not room for consecutive C130Js (use Pit 1 & 3). 
+2) Offset approx. 10ft left due to fence. 
+Fort Wainwright Airtanker Base 
+1544 Gaffney Rd 
+Fort Wainwright, AK 99703
+Last Revision: 3-30-2018
+NWCG Airtanker Base Directory
+49 of 144
+FOX FIELD–WJF
+Gen. William J. Fox Airfield–Elevation: 2,351’
+Airport: 34 44.27N/118 13.07W 
+Base Location on Field: NE Quadrant 
+SOUTHERN CALIFORNIA
+FAX: (661) 723-2750 
+Email: cmyers@fs.fed.us
+Angeles National Forest 
+4341 William J. Barnes Avenue 
+Lancaster, California 93536 
+FTR County: Los Angeles
+USFS
+Base Operations Phone:
+Dispatch Office Phone:
+Dispatch Contact Frequency:
+Angeles ECC 
+“Angeles”
+Base Manager:
+Clay Myers
+Asst. Base Manager:
+Grant Bussard
+(661) 723-2740 
+(661) 723-2705 
+ER(661) 723-3620 
+172.375 Tn 103.5 
+(661) 723-2742 
+Cell(626) 253-1306 
+(661) 723-2743
+Darlene Hall
+Cell(661) 666-1005
+Forest Aviation Officer:
+2S
+Single 
+50
+Dual 
+ 68
+2D 
+ 117
+Runway Weight Limits 
+Runway 06-24 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+5
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+12+
+YES
+MAFFS
+Load Simultaneously
+R
+5
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+MVP FX
+YES
+2000
+Runways: 6/24–7,201’ x 150’  
+Retardant Jettison Area(s) 
+Lat. 34º 44.30’ N Long. 118º 13.00’ W (North and parallel to runway)
+Caution: Avoid prison 3 miles SW of Airfield. Solar Tower Plant 4 Miles SE of infield.
+Known 
+Hazards:
+Remarks:
+Night Air Attack & Type 2 Night Helicopter on base. 
+For after-hours dispatch, call ANF dispatch 661-723-2705. 
+MAFFS: 
+1) Use pit 4 and 5 only (MOG is 2 MAFFS). Pit 5 for MAFFS water loads. 
+2) Pits 1 and 2 are unsuitable due to concrete structures around loading equipment.
+Shipping 
+Address:
+Angeles National Forest 
+4341 William J. Barnes Ave 
+Lancaster, CA 93536
+Last Revision: 03-02-2018
+NWCG Airtanker Base Directory
+50 of 144
+FRESNO–FAT
+Fresno Yosemite International Airport–Elevation: 336’
+Airport: 36 46.27N/119 42.08W 
+Base Location on Field: SE Quadrant
+SOUTHERN CALFORNIA
+FAX: (559) 292-6927 
+Email: jharpain@fs.fed.us
+Sierra National Forest 
+2307 Clovis Avenue 
+Fresno, CA 93727 
+FTR County: Fresno
+USFS
+Base Operations Phone:
+John Harpain
+(559) 291-1875
+Dispatch Office Phone:
+Sierra National Forest ECC
+(559) 291-1877
+Dispatch Contact Frequency:
+“Sierra”
+Simplex 172.225
+Base Manager:
+John Harpain
+(559) 291-1875
+Asst. Base Manager:
+Ryan Stout
+(559) 291-1875
+ATB Technician:
+George Corvarrubio
+(559) 291-1875
+ATB Technician:
+Ben Castaneda
+(599) 291-1875
+Air Attack Officer:
+Mike Fralicks
+(559) 291-1875
+Air Attack Officer/FAO:
+Mark Bertuccelli
+(559) 291-1875
+2S
+Single 
+70
+Dual 
+170
+2D 
+250
+70
+125
+200
+Runway Weight Limits 
+Runway 11L-29R Published: 
+Overweight Agreement: 
+Runway 11R-29L Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+5
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+6
+YES
+MAFFS
+Load Simultaneously
+H
+2
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+YES
+5,000
+MVP FX
+Runways: 11L/29R–9,539’ x 150’   11R/29L–8,008’ x 150’ 
+Retardant Jettison Area(s) 
+Burrough Mountain: Lat. 37 00’00’N Long 119 20’ 07’W  (1000 AGL Drop Height)
+Known 
+Hazards:
+Caution: Numerous high voltage transmission lines in the area and on the Sierra NF. 
+Check with Air Operations for further hazards.
+Remarks:
+Plan for straight out departure. Class C airspace. Helitanker retardant operations
+Shipping 
+Address:
+Sierra National Forest 
+Fresno Air Attack Base 
+2307 Clovis Ave 
+Fresno, CA 93727
+Last Revision: 3-02-2018
+NWCG Airtanker Base Directory
+51 of 144
+GATEWAY–IWA
+Phoenix-Mesa Gateway–Elevation: 1,382’
+Airport: 33 18.47N/111 39.33W 
+Base Location on Field: SW Quadrant 
+SOUTHWEST
+FAX: (480) 279-3260 
+Email: aziwaatbase@fs.fed.us
+USFS
+Phoenix Interagency Fire Center 
+6335 S. Downwind 
+Suite 101 
+Mesa, AZ 85212 
+FTR County: Maricopa
+Base Operations Phone:
+(480) 457-1553/1554
+Dispatch Office Phone:
+Phoenix Dispatch
+Dispatch Contact Frequency:
+“Phoenix Dispatch”
+(480) 457-1551 
+164.125 TX 
+164.825 RX 
+Tn 123.0
+Base Manager:
+Vacant
+Asst. Base Manager:
+Chris Price “Lunch Box”
+(480) 457-1550
+Bryan Brazzael
+( 480) 457-1574
+Air Attack:
+Matt Huse
+(480) 457-1549
+Forest Aviation Officer:
+Single 
+75  
+55 
+55
+Dual 
+215  
+95 
+95
+2S 
+590 
+185 
+185
+2D 
+850  
+550 
+550
+Runway Weight Limits 
+Runway 12L-30R  
+Runway 12R-30L 
+Runway 12C-30C
+Pit Total
+Hot Loading
+VLATs
+1YES
+4
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+6
+YES
+MAFFS
+Load Simultaneously
+F
+2
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+LC 95A
+YES
+20,000
+Runways: 12R/30L–10,401’ x 150’  12C/30C–10,201’ x 150’  12L/30R–9,300’ x 150’ 
+Retardant Jettison Area(s) 
+Lat. 33º 29.3’ N  Long.111º 34.3’ W
+Known 
+Hazards:
+Remarks:
+Shipping 
+Address:
+Caution: Extensive student and military flight training activity on airport. Low level 
+military ops, aerial acrobatics activity, crop dusters in local area.  
+1VLAT Approved continual operations for DC-10. 747 VLAT operations are limited 
+for short duration, ongoing, or extended operations will require MRB at other location 
+on Airfield.  
+MAFFS Approved for Hub, VLATs approved. Additional parking can be arranged at 
+the FBO.   
+Jettison area is approximately 11 miles on a bearing of 21.8 degrees from the IWA 
+VOR.  
+Hot Loading for SEATs only. Pit total = 2 Heavy AT’s, 2 SEATs. 
+Phoenix Interagency Fire Center 
+6335 S. Downwind, Suite 101 
+Mesa, AZ 85212
+Last Revision: 4-09-2018
+NWCG Airtanker Base Directory
+52 of 144
+GRAND JUNCTION–GJT
+Grand Junction Regional Airport–Elevation: 4,858’
+Airport: 39 07.72N/108 32.33W 
+Base Location on Field–SW Quadrant
+ROCKY MOUNTAIN
+FAX: (970) 683-7720 
+Email: agoeden@blm.gov
+Bureau of Land Management 
+2774 Landing View Lane 
+Grand Junction, CO 81506 
+FTR County: Mesa
+Base Operations Phone:
+BLM 
+(970) 683-7712
+Dispatch Office Phone:
+Grand Junction Dispatch
+(970) 257-4800
+Dispatch Contact Frequency:
+“Grand Junction Dispatch”
+168.650 Tn 110.9
+Base Manager:
+Adam Goeden
+(970) 683-7710
+Asst. Base Manager:
+Jake Lloyd
+(970) 683-7711
+ATB Technician:
+Vacant
+Unit Aviation Manager:
+Sarah Culhane
+(970) 683-7701
+Air Attack:
+Single 
+110
+Dual 
+180
+2S 
+175
+2D 
+260
+Runway Weight Limits 
+Runway 11-29 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+6
+YES
+MAFFS
+Load Simultaneously
+R
+2
+YES
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+LC 95A
+YES
+5,000
+Runways: 11/29–10,501’ x 150’    4/22–5,502’ x 75’ 
+Retardant Jettison Area(s) 
+Lat. 39º 13.00’ N Long. 108º 33.00’ W
+Caution: Military activity on airport
+Known 
+Hazards:
+Remarks:
+Shipping 
+Address:
+MAFFS: 
+1) Txwy’s C,C2,C3,C4 non-wt bearing for C-130’s 
+2) Modified Centerlines in PITS–follow parking tender instructions 
+3) Elevated hose reels–pits have modified centerlines to keep clear 
+SEATS: 
+4)Hot Refueling is only when needed per local policy 
+LATS: 
+Limited parking for heavy aircraft maintenance on days off 
+Bureau of Land Management 
+2774 Kanding View Lane 
+Grand junction, CO 81506
+Last Revision: 3-30-2018
+NWCG Airtanker Base Directory
+53 of 144
+GRASS VALLEY–GOO
+Nevada County Air Park–Elevation: 3,152’
+Airport: 39 13.37N/121 00.07W 
+Base Location on Field: SE Quadrant
+CALFORNIA
+FAX: (530) 272-1112 
+Email: NEUGVAAB@fire.ca.gov
+Grass Valley Interagency  
+Air Attack Base 
+13120 Loma Rica Drive 
+Grass Valley, CA 95945 
+FTR County: Nevada
+CAL FIRE & USFS
+Base Operations Phone:
+CAL FIRE
+Dispatch Office Phone:
+Grass Valley ECC
+Dispatch Contact Frequency:
+“Grass Valley”
+(530) 272-4952 
+CAL FIRE(530) 477-0641 
+USFS (530) 477-7237 
+ Rx151.325 
+Tx 159.360 
+Tn 4 136.5
+Base Manager:
+Dan Hickey
+(530) 272-4952
+FS Rep:
+Les Becicka
+(530) 478-6113
+Air Attack: CAL FIRE
+Jake Sjolund
+(530) 272-4952
+Air Attack: TAHOE NF
+Todd White
+(530) 478-6116
+Dual
+2S
+2D
+Single 
+30
+Runway Weight Limits 
+Runway 07-25 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+3
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+7
+NO
+MAFFS
+Load Simultaneously
+NO
+3
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+MVP FX
+YES
+1,200
+Runways: 7/25–4,351’ x 75’ 
+Retardant Jettison Area(s) 
+Forest Service: “Buckeye” Lat. 39º 14.70’ N Long. 120º 53.00’ W  
+CAL FIRE: “Purdon” Lat. 39º 19.00’ N Long. 121º 02.00’ W
+Caution: S2’s airtankers only
+Known 
+Hazards:
+Remarks:
+USFS frequency Tahoe NF 168.775 
+Airport Unicom 122.725 
+When applicable, airtankers take off on runway 25, land on runway 07. 
+After takeoff turn to heading 225 as soon as safe to avoid flying over Grass Valley and 
+Nevada City whenever possible.
+Shipping 
+Address:
+Grass Valley Interagency Air Attack Base 
+13120 Loma Rica Drive 
+Grass Valley, CA 95945
+Last Revision: 3-19-2018
+NWCG Airtanker Base Directory
+54 of 144
+HELENA–HLN
+Helena Regional Airport–Elevation: 3,877’
+Airport: 46 36.52N/111 58.57W 
+Base Location on Field–NE Quadrant
+NORTHERN
+FAX: (406) 449-5010 
+Email:  
+jeffreyjackson@fs.fed.us
+Helena National Forest 
+3211 Skyway Drive 
+Helena, MT 59602 
+FTR County: Lewis & Clark
+USFS
+Base Operations Phone:
+(406) 449-5005
+Dispatch Office Phone:
+Helena Dispatch Center
+(406) 449-5475
+Dispatch Contact Frequency:
+“Helena Dispatch”
+166.225
+Base Manager:
+Jeffrey Jackson
+(406) 449-5005 
+(406) 439-9569
+Asst. Base Manager:
+ATB Technician:
+Air Attack:
+2S
+Single 
+100
+Dual 
+160
+2D 
+250
+Runway Weight Limits 
+Runway 09-27 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+4-6
+NO
+MAFFS
+Load Simultaneously
+R
+1
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+LC 95A
+YES
+6000
+Runways: 9/27–9,000’ x 150’ 
+Retardant Jettison Area(s) 
+Lat. 46º 47.06’ N Long. 111º 39.06’ W 
+Lat. 46º 44.30’ N Long. 111º 18.30’ W 
+Lat. 46º 39.00’ N Long. 112º 18.30’ W
+Caution: Very active Air Guard helicopter operations east side of the Airtanker base.
+Known 
+Hazards:
+Remarks:
+Shipping 
+Address:
+Airtanker base has additional airtanker parking available for emergency use. 
+MAFFS: 
+1) MAFFS non-wt. bearing areas: RWYs 5/23, 16/34, TWY B 
+2) Face W, right side to pits due to hose length 
+3) Distance between pits allows entry/exit with H or J model when other pit is occupied 
+Helena Airtanker Base 
+2880 Skyway Drive 
+Helena, MT 59602
+Last Revision: 3-30-2018
+NWCG Airtanker Base Directory
+55 of 144
+HEMET–HMT
+Hemet (Ryan Field) Elevation–1,512’
+Airport: 33 43.82N/117 01.30W 
+Base Location on Field: E Quadrant  
+SOUTHERN CALIFORNIA
+FAX:(951) 925-7174 (Tower) 
+(951) 652-2089 (Admin) 
+Email:rru.ryanairattack@fire.ca.gov
+Hemet-Ryan Air Attack Base 
+4710 W. Stetson Ave. 
+Hemet. Ca. 92645 
+FTR County: Riverside
+CAL FIRE
+Base Operations Phone:
+(951) 652-2066
+Dispatch Office Phone:
+Perris ECC
+1-800-228-9645
+Dispatch Contact Frequency:
+“Perris”
+151.385
+Base Manager:
+FC Tim Stepanovich
+(951) 652-2066
+Asst. Base Manager:
+FAE Mike Alarcon
+(951) 652-2066
+ATB Technician:
+(951) 652-2066
+(951) 652-2066
+Air Attack:
+FAE Fred Mata 
+BC Justin McGough/ FC Tim 
+Stepanovich
+2S
+2D
+Single 
+80
+Dual 
+130
+Runway Weight Limits 
+Runway 05-23 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+8
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+8
+NO
+MAFFS
+Load Simultaneously
+NO
+8
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+MVP FX
+YES
+2,500
+Runways: 5/23–4,314’ x 100’ 
+Retardant Jettison Area(s) 
+33˚50.00’ N/116˚56.70’ W
+Known 
+Hazards:
+Caution: Ultra Lights in area, skydiving 8 miles West. 
+Caution: General Aviation airport, no control tower.
+S2 and SEATS only.
+Remarks:
+Shipping 
+Address:
+Hemet-Ryan Air Attack Base 
+4710 W. Stetson Ave. 
+Hemet, CA 92645
+Last Revision: 3-02-2018
+NWCG Airtanker Base Directory
+56 of 144
+HIBBING–HIB
+Chisolm/Hibbing Range Regional Airport–Elevation: 1,354’
+Airport: 47 23.48N/92 50.08W 
+Base Location on Field: NC Quadrant   
+EASTERN
+Minnesota DNR
+Mail: Hibbing ATB 
+11038 Hwy 37 Ste 13 
+Hibbing, MN 55746 
+FAX: (218) 262-7327 
+Email: 
+Hibbingtb.dnr@state.mn.us
+Minnesota  
+Dept. of Natural Resources 
+Hibbing DNR Airtanker Base 
+10956 Hwy 37 
+Hibbing, MN 55746 
+FTR County: Itasca
+Base Operations Phone:
+(218) 231-8050
+Dispatch Office Phone:
+(218) 327-4558
+1Open April –October 
+MN Interagency Coordination 
+Center
+Dispatch Contact Frequency:
+“Fire Center”
+Base Manager:
+Kirk Johnson
+Air Net–151.370  
+Tn 136.5 
+(218) 231-8050
+Asst. Base Manager:
+2S
+2D
+Single 
+60
+Dual 
+100
+Runway Weight Limits 
+Runway 13-31 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+2YES
+NO
+1
+LATs
+Parking Total
+Fuel and Load
+YES
+3
+NO
+MAFFS
+Load Simultaneously
+NO
+1
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+LC 95A
+YES
+Runways: 13/31–6,758’ x 150’ 
+Retardant Jettison Area(s)
+Lat. 47
+13.51’ N Long. 92
+51.57’ W
+⁰
+⁰
+Known 
+Hazards:
+Remarks:
+1Please call Fixed-Wing Operations Specialist during off season. Paul Wannarka. 
+(218) 327-4530. 
+2Hot Loading for SEATs only. 
+Contact base by radio for parking instructions (120.1250)
+Shipping 
+Address:
+Hibbing Airtanker Base 
+10956 Hwy 37 
+Hibbing, MN 55746
+Last Revision: 3-02-2018
+NWCG Airtanker Base Directory
+57 of 144
+HILL–HIF
+FAX: (801) 777-3143 
+Email: jeffreymmiller@fs.fed.us
+USFS
+Hill Air Force Base–Elevation: 4,789’ 
+Airport: 41 08.05N/111 58.40W 
+Base Location on Field: NE Quadrant  
+GREAT BASIN  
+Uinta/Wasatch/ Cache NF. 
+Ogden Ranger District 
+507 25th Street 
+Ogden, UT 84401 
+FTR County: Davis
+Base Operations Phone:
+(801) 777-1469
+Dispatch Office Phone:
+(801) 495-7600
+Dispatch Contact Frequency:
+Northern Utah Interagency Dispatch 
+Center 
+“Northern Utah”
+168.650 Tn 110.9
+Base Manager:
+Jeff Miller
+(801) 777-1469 
+Cell(801) 866-5606
+Asst. Base Manager:
+Vacant
+ATB Technician:
+Dual
+2D
+Single 
+PCN 68
+2S 
+175
+Runway Weight Limits 
+Runway 14-32 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+5
+YES
+MAFFS
+Load Simultaneously
+R
+2
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+LC 95A
+YES
+4,000
+Runways: 14/32–13,500’ x 200’ 
+Retardant Jettison Area(s) 
+Lat. 40º 51’ 02” N Long. 112º 29’ 54” W 
+Promontory Point  
+(Private Property/Land Use Agreement) 
+South Ridge 
+Lat. 41º 16’ 59.6” N Long. 112º 28’ 24.5” W 
+Rock Gulch 
+Lat. 41º 17’ 27.1” N Long. 112º 27’ 50.5” W
+Known 
+Hazards:
+Caution: Arresting cables on end of runway. Airtanker base and airfield are under the 
+control of the Air Force.
+Remarks:
+Shipping 
+Address:
+Flight plan required for all arriving and departing aircraft. 
+VFR/IFR flight plans departing HIF must be filled through Hill AFB rather than FAA. See 
+ATBM for assistance. 
+Takeoff and landing not authorized when tower is closed. When closed contact dispatch 
+for alternate instructions. 
+Unita/ Wasatch/ Cache NF. 
+Ogden Ranger District 
+507 25th Street 
+Ogden, UT 84401
+Last Revision: 3-19-2018
+NWCG Airtanker Base Directory
+58 of 144
+HOLLISTER–CVH
+Hollister Municipal Airport–Elevation: 230’
+Airport: 36 53.20N/121 24.07W 
+Base Location on Field: SE Quadrant
+SOUTHERN CALIFORNIA
+FAX: (831) 637-6281 
+Email:
+CAL FIRE 
+2300 San Felipe Road 
+Hollister, CA 95023 
+FTR County: San Benito
+CAL FIRE
+Base Operations Phone:
+(831) 637-5456
+Dispatch Office Phone:
+Dispatch Contact Frequency:
+Base Manager:
+Monterey ECC 
+“Monterey” 
+“BEU EAST” 
+BC Joshua Nettles
+(831) 647-6241 
+Rx:151.250 
+Tx:159.405    
+(831) 637-5456
+Asst. Base Manager:
+FC Marc DiTullio
+ATB Technician:
+N/A
+Air Attack:
+BC Joshua Nettles/FC Marc Ditullio
+2S
+2D
+Single 
+30
+Dual 
+ 45
+Runway Weight Limits 
+Runway 13-31  Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+3
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+10
+NO
+MAFFS
+Load Simultaneously
+NO
+3
+NO
+SEATs
+Offload Capacity
+YES
+Hot Refueling 
+Retardant Type  MVP FX
+Runways: 13/31–6,350’ x 100’ 
+Retardant Jettison Area(s) 
+Off airport–Hills north of airport–Contact Base
+Known 
+Hazards:
+Caution: Radio controlled model aircraft 3 miles WNW.  
+Caution: Glider activity. 
+Caution: Parachute activity 8 miles SE.
+Remarks:
+S2 Only, conditions permitting use runway 31.
+Shipping Address:
+CAL Fire 
+2300 San Felipe Road 
+Hollister, CA 95023
+Last Revision: 3-30-2018
+NWCG Airtanker Base Directory
+59 of 144
+JEFFCO–BJC
+Rocky Mountain Metropolitan Airport–Elevation 5,673’
+Airport: 29 54.82N/105 07.23W 
+Base Location on Field: NW Quadrant 
+ROCKY MOUNTAIN
+Email: 
+jeffcoairtankerbase@gmail.com
+Jeffco Airtanker Base 
+10900 West 120th Ave. 
+Building D 
+Broomfield, CO 80021
+USFS
+Base Operations Phone:
+(303) 439-0332
+Dispatch Office Phone:
+Fort Collins Dispatch
+(303) 439-0332
+Dispatch Contact Frequency:
+“Fort Collins Dispatch”
+Base Manager:
+William (Robby) Cline wrcline@fs.fed.us
+Asst. Base Manager:
+Scott Headrick  scotteheadrick@fs.fed.us
+168.650 
+(720) 887-4769 
+Cell(303) 941-6359 
+(303) 439-0332
+Air Attack:
+Bryan Karchut
+(970) 295-6631
+Forest Aviation Officer:
+2S
+2D
+Single 
+55
+Dual 
+75
+Runway Weight Limits 
+Runway 11L-29R Published: 
+Overweight Agreement:
+144
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+6
+YES
+MAFFS
+Load Simultaneously
+R
+1
+YES
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+YES
+5,000
+LC 95A
+Runways: 12L/30R–9,000’ x 100’   12R/30L–7,002’ x 75’ 
+Retardant Jettison Area(s) 
+Coffin Top Mountain: Lat. 40º 11’ 55.48 N Long. 105º 21’ 21.13 W 
+330° @ 19nm off Jeffco VOR
+Caution: Noise abatement procedures in place. Contract helitanker on base.
+Known 
+Hazards:
+Remarks:
+Shipping 
+Address:
+Hot loading for SEATs and LATs. 
+MAFFS: 
+1)11L/29R, A, all A connectors approved to ST155K per letter of agreement and military 
+waiver. West GA (Stephens) ramp limited to ST125K. WBC Waiver for Fire use only–no 
+training. 
+2) ARFF Class A. Confirm ARFF. 
+3) Stay approx. 10’ south of taxi line in Pit 2 (western-most pit) due to fence on north side. 
+Room for 180 turn out of either pit but not room to pass other C-130 in pits. 
+(303) 439–0332 
+Jeffco Airtanker Base 
+10900 West 120th Ave. Building D 
+Broomfield, CO 80021
+Last Revision: 3-02-2018
+NWCG Airtanker Base Directory
+60 of 144
+KENAI–ENA
+Kenai Municipal Airport–Elevation: 99’
+Airport: 60 34.08N/151 14.67W 
+Location on Field: E Quadrant 
+ALASKA
+FAX: (907) 283-4816 
+Email: howard.kent@alaska.gov
+State of Alaska  
+Division of Forestry 
+42499 Sterling Highway 
+Soldotna, Alaska 99669 
+FTR County: Alaska
+State of Alaska
+Base Operations Phone:
+(907) 283-3816
+Dispatch Office Phone:
+KIDC
+(907) 260-4230
+Dispatch Contact Frequency:
+“KIDC”
+132.450
+Base Manager:
+Avery Hansen
+(907) 260-4241
+Asst. Base Manager:
+ATB Technician:
+Air Attack:
+2S
+Runway Weight Limits 
+Runway 1L-19R Published: 
+Overweight Agreement:
+Single 
+75 
+None
+Dual 
+150 
+None
+2D 
+250 
+None
+VLATs 
+LATs 
+MAFFS 
+SEATs
+Pit Total 
+Parking Total 
+Load Simultaneously 
+Offload Capacity
+Hot Loading 
+Fuel and Load 
+Hot Refueling 
+Retardant Type
+NO 
+YES 
+NO 
+YES
+1 
+3 
+1 
+5,000
+NO 
+NO 
+NO 
+LC 95A
+Runways: 2L/20R–7,855’ x 150’  
+Retardant Jettison Area(s) 
+Contact Soldotna Dispatch
+Known 
+Hazards:
+Caution: Occasional moose and caribou on runway. Flocks of migratory birds 10 nm 
+radius of runway Spring thru Fall. Seaplane base opposite side of runway from ATB
+Remarks:
+See warning in front of this directory for more information about runway limitations.
+Shipping 
+Address:
+State of Alaska Division of Forestry 
+42499 Sterling Highway 
+Soldotna, AK 99669
+Last Revision: 3-20-2018
+NWCG Airtanker Base Directory
+61 of 144
+KINSTON–ISO
+Kinston Regional Jetport/Stallings Field–Elevation: 93’
+Airport: 35 19.37N/77 36.95W 
+Base Location on Field: SE Quadrant   
+SOUTHERN
+FAX: (252) 522-1289 
+Email:  
+John.Willis@ncagr.gov
+North Carolina Forest Service NCDA-
+CS 
+2958 Rouse Road–Extension 
+Kinston, North Carolina 28504 
+FTR County: Lenoir
+North Carolina Forest 
+Service
+Base Operations Phone:
+Dispatch Office Phone:
+Dispatch Contact Frequency:
+Kinston Dispatch 
+Press “0”, “227”, or “228”, at auto-
+greeter 
+“Kinston”
+(252) 520-2402 x 227 
+(252) 520-2402 x 248 
+(252) 520-2402 
+(252) 520-2403 
+(252) 520-2404 
+122.925
+Base Manager:
+Robert Delleo
+(252) 560-1761
+Asst. Base Manager:
+Gail Bledsoe
+(919) 219-7917
+Air Attack:
+2S
+2D 
+806
+Runway Weight Limits 
+Runway 05-23 Published: 
+Overweight Agreement:
+Single 
+90 min. 
+Max not 
+calculated
+Dual 
+135 min. 
+Max not 
+calculated
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+YES
+10 SEATs  Fuel and Load
+NO
+MAFFS
+Load Simultaneously
+pending
+1
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+MVP FX
+YES
+20,000
+Runways: 5/23–11,500’ x 150’ 
+Retardant Jettison Area(s) 
+Contact Base: 122.925
+Caution: Multiple aircraft on ramp
+Known 
+Hazards:
+Remarks:
+NCFS aviation center. Numerous helicopters, SEATs, and spotter aircraft on field.
+Shipping 
+Address:
+North Carolina Forest Service NCDA-CS 
+2958 Rouse Road–Extension 
+Kinston, NC 28504
+Last Revision: 4-02-2018
+NWCG Airtanker Base Directory
+62 of 144
+KLAMATH FALLS–LMT
+Klamath Falls Airport–Elevation: 4,095’
+Airport: 42 10.25N/121 44.15W 
+Base Location on Field: NE Quadrant
+NORTHWEST
+FAX: (541) 273-1457 
+Email: dcavin@fs.fed.us
+Fremont/Winema  
+National Forest 
+6300 Summers Lane 
+Klamath Falls, Oregon 97603 
+FTR County: Klamath
+USFS
+Base Operations Phone:
+(541) 883-6853
+Dispatch Office Phone:
+Lakeview Interagency Fire Center
+(541) 947-6315
+Dispatch Contact Frequency:
+“Lakeview Dispatch”
+Base Manager:
+Don Cavin
+Asst. Base Manager:
+Wyatt Hefley
+168.650 Tn 110.9 
+(541) 883-6855 
+Cell(541) 891-1170 
+(541) 883-6854
+ATB Technician:
+Vacant
+(541) 883-6853
+Air Attack:
+Danny Williams
+(541) 883-6863
+Unit Aviation Officer:
+Chad Bergren
+(541) 947-6296
+2S
+Single 
+110
+Dual 
+145
+2D 
+230
+Runway Weight Limits 
+Runway 14-32 Published: 
+Overweight Agreement:
+164
+VLATs
+Pit Total
+Hot Loading
+NO
+4
+YES
+Parking Total
+Fuel and Load
+YES
+7³
+YES
+LATs 
+MAFFS1
+Load Simultaneously
+R/H²/F²
+2
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+YES
+5,000
+LC 95A
+Runways: 14/32–10,301’ x 150’ 
+Retardant Jettison Area(s) 
+Old Lone Pine Fire: Lat. 42º 35.15’ N Long. 121º 31.8’ W
+Caution: Birds, Military flight operations, Helicopters, Crop dusters.
+Known 
+Hazards:
+Remarks:
+¹ MAFFS approved to ST 164 per letter of agreement & military waiver. 
+² Restricted to 4 MAFFS Aircraft 
+³ Parking for 4 LATs on site, 3, or 4 off site 
+HOME OF THE TANKER 61 MEMORIAL–tanker61memorial.org
+Shipping 
+Address:
+Fremont/Winema National Forest 
+6300 Summers Lane 
+Klamath Falls, OR 97603
+Last Revision: 2-13-2018
+NWCG Airtanker Base Directory
+63 of 144
+LA GRANDE–LGD
+La Grande/Union County Airport–Elevation: 2,717’
+Airport: 45 17.41N/118 00.42W 
+Base Location on Field: E Quadrant
+NORTHWEST
+FAX: (541) 663-0824 
+Email: gewilliams@fs.fed.us
+USFS
+Wallowa-Whitman National Forest 
+Union County Airport 
+59973 Downs Road 
+La Grande, Oregon 97850 
+FTR County: Union
+Base Operations Phone:
+(541) 975-5492
+Dispatch Office Phone:
+Blue Mountain Dispatch Center
+(541) 963-7171
+Dispatch Contact Frequency:
+“La Grande Dispatch”
+Base Manager:
+Griffith Williams
+Asst. Base Manager:
+Darci Drinkwater
+164.150 Tn 123 
+(541) 975-5490 
+Cell(541) 263-0873        
+(541) 975-5492
+ATB Technician:
+(541) 975-5498
+Air Attack:
+Larry Aragon
+(541) 975-5417
+S2
+D2 
+130
+Runway Weight Limits 
+Runway 12-30  Published: 
+Overweight Agreement:
+Single 
+65 
+80
+Dual 
+90 
+150
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+6
+NO
+MAFFS
+Load Simultaneously
+NO
+1
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+YES
+5,000
+LC 95A
+Runways: 12/30–6,260’ x 100’ 
+Retardant Jettison Area(s) 
+Lat 45º 28.00’ N Long. 118º 13.00’ W
+Known 
+Hazards:
+Remarks:
+Shipping 
+Address:
+Caution: When applicable, large aircraft restricted from using RW-16/34 for taxi, takeoff, 
+or landing. 
+When applicable, make right turn ASAP from RW-30 to avoid flying over residential 
+areas. 
+Union County Airport 
+59973 Downs Road 
+La Grande, OR 97850
+Last Revision: 3-19-2018
+NWCG Airtanker Base Directory
+64 of 144
+LAKE CITY–LCQ
+Lake City Municipal Airport–Elevation: 201’
+Airport: 30 10.88N/82 35.45W 
+Base Location on Field: SW Quadrant  
+SOUTHERN
+FAX: (386) 752–8901 
+Email: rstaten@fs.fed.us
+National Forest in Florida 
+475 SE County Road 245 
+Lake City, Florida 32025 
+FTR County: Columbia
+USFS
+Base Operations Phone:
+(386) 758–9078
+Dispatch Office Phone:
+FICC
+(850) 523–8600
+Dispatch Contact Frequency:
+“FICC”
+168.650 Tn 110.9
+Base Manager:
+Robbie Staten
+(850) 559-2838
+Asst. Base Manager:
+Vacant
+Air Attack:
+Charlie Patterson
+(850) 523-8600
+Single 
+115,000
+Dual 
+170,000
+2D 
+100
+Forest Aviation Officer: 
+Runway Weight Limits 
+Runway  05/23–10/28 Published:
+S2 
+153¹
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+NO
+LATs
+Parking Total
+Fuel and Load
+YES
+4
+NO
+MAFFS
+Load Simultaneously
+NO
+1
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+MVP FX
+YES
+5,000
+Runways: 10/28–8,003’ x 150’ 
+Retardant Jettison Area(s) 
+Contact Base
+Caution: Check days and hours of airport control tower operation.
+Known 
+Hazards:
+Remarks:
+Shipping 
+Address:
+Osceola National Forest 
+Lake City Airtanker Base 
+24874 US Hwy 90 
+Sanderson, FL 32087
+Last Revision: 3-19-2018
+NWCG Airtanker Base Directory
+65 of 144
+McCALL–MYL
+McCall Municipal Airport–Elevation: 5,024’ 
+Unicom: 122.8/Back Country: 122.9
+Airport: 44 53.60N/116 06.28W 
+Base Location on Field: WNW Quadrant 
+GREAT BASIN
+FAX: (208) 634-0358 
+Email: mabassett@fs.fed.us
+USFS
+Payette National Forest 
+Attn. McCall Airtanker Base 
+605 S. Mission Street 
+McCall, Idaho 83638 
+FTR County: Valley County
+Base Operations Phone: 
+Dispatch Office Phone: 
+Dispatch Contact Frequency: 
+Payette Flight Following:
+Payette Dispatch  
+“FM” 
+“Victor”
+(208) 634-0357 
+(208) 634-2757 
+169.00;  TX/RX110.9 
+121.725
+AWOS
+(208) 634-7198
+Base Manager:
+Michael Bassett
+Asst. Base Manager:
+Denny Lewis
+119.925 
+(208) 634-0357 office 
+  (208) 634-6570 cell 
+(208) 634-0356 office 
+(208) 634-9419 cell 
+(208) 315-2899 cell
+2S
+Single 
+86.5
+Joel Rittenhouse 
+Dual 
+141
+2D 
+261.5
+Base Tech/RAMP & SEMG: 
+Runway Weight Limits 
+Runway 16-34 Published: 
+Overweight Agreement:
+165
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+6
+NO
+MAFFS
+Load Simultaneously
+NO
+2
+SEAT¹
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+LC 95A
+YES
+6000
+Runways: 16/34–6,108’ x 75’ 
+Retardant Jettison Area(s) 
+Lat. 44º 49.26’ N Long. 115º 57.12’ W
+Known 
+Hazards:
+Caution: Un-Controlled Airport with Summer-Long Active Aviation, i.e.: Smokejumper, 
+Helicopter, Helitanker, Back Country, Life-Flight, Charter, and General Aviation.
+Remarks:
+Shipping 
+Address:
+¹Only if approved. 
+Download as necessary for departures to the north and/or for periods of high density 
+altitude. 
+Payette National Forest 
+Attn. Mc Call Airtanker Base 
+605 S. Mission Street 
+McCall, ID 83638
+Last Revision: 4-02-2018
+NWCG Airtanker Base Directory
+66 of 144
+McCLELLAN–MCC
+McClellan Airfield–Elevation 77’
+Airport: 39 39.63N/121 23.53W 
+Base Location on Field: E Quadrant 
+NORTHERN CALIFORNIA
+FAX: (916) 426-1683 
+Email: 
+Aeu.mcclellanairtankerbase@fire.ca.gov
+McClellan Reload Base 
+5741 Price Ave. 
+McClellan, Ca. 95652 
+FTR County: Sacramento
+CAL FIRE
+Base Operations Phone:
+Dispatch Office Phone:
+Camino ECC
+Dispatch Contact Frequency:
+“Camino”
+Base Manager:
+FC Jon Grissom
+Base Manager:
+Dusty Martin
+(916) 426-1680 
+(916) 426-1681 
+(530) 647-5220 
+RX151.190 
+TX151.225 
+Cell (530) 317-
+8379 
+(916) 426-1680 
+(530) 919-2715
+ATB Technician:
+Air Attack:
+Dusty Martin
+Battalion Chief:
+Cell (530) 708-
+2719 
+(916) 426-1682
+Runway Weight Limits 
+Overweight Agreement:
+Single 
+155
+Dual 
+300
+2S 
+175
+2D 
+500
+VLATs
+Pit Total
+Hot Loading
+YES
+5
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+12
+YES
+MAFFS
+Load Simultaneously
+H/F
+5
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+YES
+25,000
+NO 
+MVP 
+FX
+Known 
+Hazards:
+Runways: 16/34–10,599’ x 150’ 
+Retardant Jettison Area(s) 
+Santa Rosa 38˚33.9N/122˚56.50W 
+Caution: Ultra Lights in area, skydiving 8 miles West. 
+Caution: General Aviation airport, no control tower.
+Remarks:
+CAL FIRE Airtanker Base 
+DC-10 & 747
+Shipping Address:
+McClellan Reload Base 
+5500 Price Ave. 
+McClellan, CA. 95652
+Last Revision: 3-19-2018
+NWCG Airtanker Base Directory
+67 of 144
+McGRATH–PAMC–MCG
+McGrath Airport–Elevation: 343’
+Airport: 62 56.73N/155 36.52W 
+Location on Field: S Quadrant 
+ALASKA
+FAX: (907) 524-3932 
+Email:norman.mcdonald@alaska.gov 
+matthew.snyder@alaska.gov
+State of Alaska 
+Southwest Area Forestry 
+PO Box 130 
+McGrath Alaska 99627 
+FTR County: Alaska
+State of Alaska
+Base Operations Phone:
+Matt Snyder
+(907) 524-0042
+Dispatch Office Phone:
+McGrath Dispatch
+(907) 524-0054
+Dispatch Contact Frequency:
+“McGrath Forestry”
+132.450
+Base Manager:
+Thomas “TR” Baumgartner
+(907) 524-0042
+Asst. Base Manager:
+(907) 524-3010
+ATB Technician:
+Tyler Samuelson
+(907) 524-3010
+Air Attack:
+2S
+Single 
+32
+Dual 
+80
+2D 
+120
+Runway Weight Limits 
+Runway 16-34 Published: 
+Overweight Agreement:
+2 
+3
+VLATs 
+LATs 
+MAFFS 
+SEATs
+Pit Total 
+Parking Total 
+Load Simultaneously 
+Offload Capacity
+Hot Loading 
+Fuel and Load 
+Hot Refueling 
+Retardant Type
+NO 
+YES 
+NO 
+YES
+NO 
+NO 
+NO 
+LC 95A
+Runways: 16/34–5,936’ x 100’ 
+Retardant Jettison Area(s) 
+Lat. 63º 08.00’ N Long. 155º 15.00’ W
+Known 
+Hazards:
+Cautions: All single-wheel airtankers exceed runway-bearing strength. 
+Some dual wheel airtankers exceed runway-bearing strength.  
+No overweight agreements exist. 
+Moose on airport 
+Migratory waterfowl on and in vicinity of airport. Spring thru Fall. 
+Pedestrians on runway
+Remarks:
+Shipping 
+Address:
+State of Alaska  
+Southwest Area Forestry 
+PO Box 130 
+McGrathm, AK 99627
+Last Revision: 3-20-2018
+NWCG Airtanker Base Directory
+68 of 144
+MEDFORD–MFR
+Rogue Valley International–Elevation: 1,335’ 
+Airport: 42 22.58N/122 52.78W 
+Base Location on Field: NW Quadrant  
+NORTHWEST
+FAX: (541) 779-3098 
+Email: jdbohannan@fs.fed.us
+USFS
+Rogue River–Siskiyou National Forest 
+Medford Airtanker Base 
+600 Nebula Way 
+Medford, Oregon 97504 
+FTR County: Jackson
+Base Operations Phone:
+(541) 779-0397
+Dispatch Office Phone:
+RVCC
+(541) 618-2505
+Dispatch Contact Frequency:
+“Rogue Dispatch”
+Base Manager:
+Justin Bohannan
+168.650 Tn 110.9 
+(541) 618-2121 
+Cell(541) 613-6112
+Asst. Base Manager:
+Benjamin Crittenden
+(541) 779-0397
+Base Technician: 
+Air Attack:
+Carol Adams 
+Mike Demello
+(541) 779-0397 
+(541) 779-0397
+Oregon Dept. of Forestry:
+Harry Kelley
+Cell(541) 621-4118
+Amanda Lucas-Rice
+(541) 255-6365
+Forest Aviation Officer:
+2S
+Single 
+200
+Dual 
+200
+2D 
+400
+Runway Weight Limits 
+Runway 14-32 Published: 
+Overweight Agreement:
+Pit Total
+Hot Loading
+VLATs
+2
+YES2
+YES1
+LATs
+Parking Total
+Fuel and Load
+YES
+8
+YES2
+MAFFS
+Load Simultaneously
+R
+2
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+LC 95A
+YES
+3,000
+Runways: 14/32–8,800’ x 150’  
+Retardant Jettison Area(s) 
+Sleepy Mine: Lat. 42º 13.05’ N Long. 122º 53.15’ W 
+On Airport:   Lat. 42º 22.21’ N Long. 122º 52.29’ W (East of 14/32)
+Known 
+Hazards:
+Remarks:
+Shipping 
+Address:
+“Fly Rogue” 
+See base operations upon arrival for jettison areas. 
+ 1VLAT Base utilizes Portable Retardant Base on east Cargo Ramp. 
+ 2See base manager for details. 
+MAFFS: 
+1) Normal Flow: enter Counter clockwise, right side to pits. 
+2) TWY B3 non-wt. bearing for C-130 
+Medford Airtanker Base 
+600 Nebula Way 
+Medford, OR 97504
+Last Revision: 3-19-2018
+NWCG Airtanker Base Directory
+69 of 144
+MISSOULA–MSO
+Missoula International Airport–Elevation: 3,206’
+Airport: 46 55.38N/114 05.50W 
+Base Location on Field: NW Quadrant   
+NORTHERN ROCKIES
+FAX: (406) 329-4789 
+Email: jbohrman@fs.fed.us
+USFS
+US Forest Service 
+Aerial Fire Depot 
+5765 West Broadway 
+Missoula, Montana 59808 
+FTR County: Missoula
+Base Operations Phone:
+(406) 829-7325
+Dispatch Office Phone:
+Missoula Aircraft Dispatch
+(406) 829-7060
+Dispatch Contact Frequency:
+“Missoula Dispatch”
+Base Manager:
+Jared Bohrman
+Asst. Base Manager:
+Steve Christiansen
+168.650 Tn 110.9 
+(406) 829-7328 
+Cell(406) 381-6167 
+(406) 329-4910
+Jared Bohrman
+(406) 381-6167
+Winter Contact:
+2S
+Single 
+95
+Dual 
+250
+2D 
+290
+Runway Weight Limits 
+Runway 11-29 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+6
+YES
+MAFFS
+Load Simultaneously
+NO
+1
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+MVP FX
+YES
+3,000
+Runways: 11/29–9,501’ x 150’ 
+Retardant Jettison Area(s)
+Sawmill Gulch: 
+Lat. 46º 47.00’ N Long. 114º 10.00’ W 
+Hellgate/Mt. Sentinel: 
+Lat. 46º 51.00’ N Long. 113º 56.45’ W 
+Deep Creek/Albert Creek: 
+Lat. 46º 56.00’ N Long. 114º 13.00’ W
+If Necessary–Parallel and South of Runway 11/29–Contact Tower
+Known 
+Hazards:
+Cautions: Taxiways have numerous weight restrictions; check with airtanker base ops for 
+specific information. No locked-wheel turns on the airport.
+Remarks:
+Shipping 
+Address:
+Flight Following/ (406) 829-7060 or FAX (406) 829-7083. 
+Hot loading for SEATs and LATs if qualified personnel on base. 
+Frank Castillo (winter contact) (406) 829-6929 or (406) 370-5891 
+Normal Season–April through September 
+Aerial Fire Depot 
+5765 West Broadway 
+Missoula, MT 59808
+Last Revision: 3-19-2018
+NWCG Airtanker Base Directory
+70 of 144
+MOSES LAKE–MWH
+Grant County International Airport–Elevation: 1,189’
+Airport: 47 11.53N/119 18.25W 
+Base Location on Field: SE Quadrant 
+NORTHWEST
+FAX: (509) 762-6186 
+Email: 
+eatoombs@fs.fed.us 
+scrawford@fs.fed.us
+USFS
+Okanogan/Wenatchee  
+National Forest 
+8868 Turner Road NE 
+Moses Lake, Washington 98837 
+FTR County: Grant
+Base Operations Phone:
+(509) 762-6184 
+(509) 762-6185
+Dispatch Office Phone:
+CWICC
+(509) 884-3473
+Dispatch Contact Frequency:
+“Wenatchee Dispatch” 
+“National FF”
+168.650 Tn 110.9 For 
+Tx and Rx
+Asst. Base Manager:
+Sherry Crawford
+(509) 762-6184
+Asst. Base Manager:
+Eric Toombs
+(509) 762-6184
+2S
+Single 
+85
+Dual 
+155
+2D 
+320
+75
+100
+175
+Runway Weight Limits 
+Runway 14L-32R Published: 
+Overweight Agreement: 
+Runway 04-22 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+YES¹
+4
+NO
+LATs
+Parking Total
+Fuel and Load
+YES
+8+
+YES3
+MAFFS
+R/H²/F²  Load Simultaneously
+2
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+LC 95A
+YES
+15,000
+Runways: 14L/32R–13,503’ x 200’   4/22–10,000’ x 100’ 
+Retardant Jettison Area(s)
+Saddle Mountain:  Lat. 46º 48.08’ N  Long.119º 37.31’ W 
+Moses Coulee:  Lat. 47º 23.04’ N  Long.119º 54.17’ W
+Entiat:  Lat. 47º 36.12’N  Long.120º 18.54’ W
+Known 
+Hazards:
+Remarks:
+Shipping 
+Address:
+Caution: Heavy jet training facility, wake turbulence. Spring & fall: large flocks 
+migratory birds. 
+¹DC-10 only 
+²8 MAFFS Aircraft authorized 
+3See Base Ops Plan for details 
+MAFFS: 
+1) Taxiway J non-wt. bearing   2) DC-10 Avoid Taxiway G until repaired. 
+Moses Lake Airtanker Base 
+8868 Turner Road NE 
+Moses Lake, WA 98837
+Last Revision: 2-13-2018
+NWCG Airtanker Base Directory
+71 of 144
+PALMER–PAAQ–PAQ
+Palmer Municipal Airport–Elevation: 242’
+Airport: 61 35.78N/149 05.52W 
+Base Location on field: NW Quadrant 
+ALASKA
+FAX: (907) 761-6327 
+Email: chris.olson@alaska.gov
+State of Alaska  
+Division of Forestry 
+101 Airport Road 
+Palmer, Alaska 99645 
+FTR County: Alaska
+State of Alaska
+Base Operations Phone:
+(907) 761-6326
+Dispatch Office Phone:
+Dispatch Contact Frequency:
+Mat-Su Area Forestry 
+“Mat-Su Dispatch” 
+“Flight Following”
+Base Manager:
+Ed Cruise
+(907) 761-6239 
+132.450 
+1(877) 684-5630 
+(907) 761-6326 
+Cell(907) 574-0340
+Asst. Base Manager:
+ATB Technician:
+Dual
+2D
+Single 
+180
+2S 
+175
+Runway Weight Limits 
+Runway 16-34 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+NO
+LATs
+Parking Total
+Fuel and Load
+YES
+4
+NO
+MAFFS
+Load Simultaneously
+R
+1
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+LC 95A
+YES
+Runways: 16/34–6,009’ x 100’ 
+Retardant Jettison Area(s) 
+Lat. 61º 44.00’ N Long. 148º 58.00’ W
+Known 
+Hazards:
+Remarks:
+Shipping 
+Address:
+CAUTION: Flocks of seagulls and ravens on airport. 
+Migratory waterfowl on airport from spring to fall. 
+Locally strong glacial winds. 
+Glider activity on and in vicinity of airport, April thru September 
+MAFFS: 
+1) Face East Pit 1, Face West Pit 2 (Right side towards pit) 
+2) Offset approx. 10ft outside standard pit taxi lines for wingtip clearance on other C-130’s 
+in pit 
+3) CFR Needs 2 hr. notice: 
+John McNutt : (907)761-1327 (Palmer Fire Chief) , 
+and/or SMSgt Mark Brauneis, (AK ANG (Elmendorf)) (907)249-6155 
+State Of Alaska Division of Forestry 
+101 Airport Road 
+Palmer, AK 99645
+Last Revision: 3-19-2018
+NWCG Airtanker Base Directory
+72 of 144
+PASO ROBLES–PRB
+Paso Robles Municipal Airport–Elevation: 840’ 
+Airport: 35 40.63N/120 38.02W 
+Base Location on Field: NW Quadrant
+SOUTHERN CALIFORNIA
+FAX: (805) 239-3129 
+Email:SLU.PasoRoblesAirAttack@fire.ca.gov 
+James.Tully@fire.ca.gov
+CAL FIRE 
+3403 Taxiway “A” 
+Paso Robles, CA  93446 
+FTR County:  
+San Luis Obispo
+CAL FIRE
+Base Operations Phone:
+(805) 238-1878
+Dispatch Office Phone:
+San Luis Obispo
+Dispatch Contact Frequency:
+“SLO County Fire”
+Battalion Chief/ATGS
+(805) 547-9331 
+Tx 156.030  
+Rx 154.385 
+Tn 82.5 
+(805) 903-3418
+Base Managers/ATGS
+(805) 238-1878
+James Tully 
+Matt Mihalco, FC 
+Steve Martin
+2S
+Single 
+60
+Dual 
+106
+2D 
+150
+ATB Technician: 
+Runway Weight Limits 
+Runway 01-19 Published: 
+Overweight Agreement:
+130¹
+VLATs
+Pit Total
+Hot Loading
+NO
+3
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+12+
+NO
+MAFFS
+Load Simultaneously
+R
+3
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+YES
+0
+NO 
+MVP 
+FX
+Runways: 1/19–6,008’ x 150’ 
+Retardant Jettison Area(s) 
+Contact Base
+Known 
+Hazards:
+Caution: Restricted area R-2504 is at 295 degrees, 6 miles from PRB VOR.  All 
+airtankers except S-2’s exceed runway 13/31 bearing strength.
+Remarks:
+¹MAFFS: 
+1) Approved to ST159 per letter of agreement. 
+2) Non-wt. bearing areas for C-130’s: RWY 13/31, TWY F, TANSIENT APRON 
+overweight waiver up to ST159 for all other areas. 
+3) Pits 2 & 3 are preferred for C-130. 
+Helicopter school and radio controlled model aircraft on the field. Contact base for 
+jettison area information. 
+CAL FIRE 
+3403 Taxiway “A”
+Shipping 
+Address:  
+Last Revision: 4-09-2018
+NWCG Airtanker Base Directory
+73 of 144
+POCATELLO–PIH
+Pocatello Regional Airport–Elevation: 4,452’
+Airport: 42 54.89N/112 34.60W 
+Base Location on Field: NE Quadrant
+GREAT BASIN
+FAX: (208) 235-4714 
+Email: rdauphin@blm.gov
+Bureau of Land Management 
+1433 Flightline 
+Pocatello, Idaho 83204 
+FTR County: Bannock
+Base Operations Phone:
+BLM 
+(208) 235-4700 
+(208) 235-4716
+Dispatch Office Phone:
+Eastern Idaho
+(208) 524-7600
+Dispatch Contact Frequency:
+“Eastern Idaho”
+168.650 Tn 110.9
+Base Manager:
+Robert Dauphinais
+(208) 235-4702
+Asst. Base Manager:
+Vacant
+(208) 235-4705
+SEAT Manager:
+Vacant
+(208) 235-4706
+UAM:
+Robert Barnes
+(208) 235-4701
+Air Attack:
+Greg Haxby
+(208) 235-4703
+2S
+Single 
+100
+Dual 
+160
+2D 
+265
+Runway Weight Limits 
+Runway 03-21 Published: 
+Overweight Agreement:
+175¹
+Pit Total
+Hot Loading
+VLATs
+2
+YES2
+YES3
+LATs
+Parking Total
+Fuel and Load
+YES
+10
+YES2
+MAFFS
+Load Simultaneously
+R
+2
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+LC 95A
+YES
+5,000
+Runways: 3/21–9,060’ x 150’ 17/35–7,150’ x 100’ 
+Retardant Jettison Area(s) 
+Lat. 43º 12.12’ N Long. 112º 51.36’ W
+Known 
+Hazards:
+Remarks:
+Shipping 
+Address:
+Caution: Flocks of waterfowl in vicinity of airport. 
+Radio controlled aircraft 1 mile east of airport below 400 ft. AGL 
+¹Runway 03/21 and all taxiways rated to ST175 
+TWY 'G' HAS NO EDGE LIGHTS OR REFLECTORS, RESTRICTED TO DAY USE 
+ONLY 
+MAFFS: Confirm CFR if more than 4 sorties/7 days. 
+2See Base Manager for details 
+3DC-10 only. 
+Bureau of Land Management 
+1433 Flight line 
+Pocatello, ID 83204
+Last Revision: 3-19-2018
+NWCG Airtanker Base Directory
+74 of 144
+PORTERVILLE–PTV
+Porterville Municipal Airport–Elevation: 443’
+Airport: 36 01.62N/119 03.23W 
+Base Location on Field: SE Quadrant
+SOUTHERN CALFORNIA
+FAX: (559) 789-0198 
+Email: 
+ricontreras@fs.fed.us 
+gratian.bidart@fire.ca.gov
+Sequoia N.F./CAL FIRE 
+2125 South Newcomb Street 
+Porterville, California 93257 
+FTR County: Tulare
+USFS & CAL FIRE
+Base Operations Phone:
+Dispatch Office Phone:
+Porterville Dispatch
+Dispatch Contact Frequency:
+Base Manager:
+Asst. Base Manager:
+“Porterville” 
+USFS: Raul Contreras 
+CAL FIRE BC: Gratian Bidart 
+USFS Anne Johnson 
+CAL FIRE Capt.: Clint Blackmon
+(559) 784-0828 
+(559) 782-3120 
+(559) 732-1196 
+169.150 
+(559) 789-0191 
+(559) 784-0828                    
+(559) 789-0191 
+(559) 784-0828
+Air Attack:
+FAO:
+Joel Lane
+(559) 784-0828
+2S
+Single 
+30
+Dual 
+70
+2D 
+110
+Runway Weight Limits 
+Runway 12-30 Published: 
+Overweight Agreement:
+170
+VLATs
+Pit Total
+Hot Loading
+NO
+5
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+12
+YES
+MAFFS
+Load Simultaneously
+NO
+5
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+MVP FX
+YES
+6000
+Runways: 12/30–5960’ x 150’  
+Retardant Jettison Area(s) 
+Contact Base: Lat. 36º 01.47’ N Long. 119º 03.46’ W
+Caution: Ultralight traffic on airport
+Known 
+Hazards:
+Remarks:
+Shipping 
+Address:
+Porterville Air Attack Base 
+2125 South Newcomb Street 
+Porterville, CA 93257
+Last Revision: 3-1-2018
+NWCG Airtanker Base Directory
+75 of 144
+PRESCOTT–PRC
+Ernest A. Love Field–Elevation: 5,034’
+Airport: 34 39.42N/112 24.80W 
+Base Location on Field: NE Quadrant 
+SOUTHWEST
+FAX: (928) 777-5609 
+Email: 
+cindyamatthews@fs.fed.us
+Prescott Fire Center 
+2400 Melville Road 
+Prescott, Arizona 86301 
+FTR County: Yavapai
+USFS
+Base Operations Phone:
+(928) 777-5690
+Dispatch Office Phone:
+Prescott Dispatch
+(928) 777-5700
+Dispatch Contact Frequency:
+“Prescott Dispatch”
+168.650
+Base Manager:
+Cindy Matthews
+(928) 777-5690
+Asst. Base Manager:
+Julie Podany
+(928) 777-5692
+Air Attack:
+Jeff Andrews
+(928) 777-5650
+Forest Aviation Officer:
+2S
+Single 
+63
+Dual 
+80
+2D 
+100
+Runway Weight Limits 
+Runway 03R-21L Published: 
+Overweight Agreement:
+153¹
+VLATs
+Pit Total
+Hot Loading
+NO
+3
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+7
+YES
+MAFFS
+Load Simultaneously
+H
+2
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+LC 95A
+YES
+5,000
+Runways: 3R/21L–7,619’ x 150’ 
+Retardant Jettison Area(s) 
+Woodchute Mountain Lat. 34º 44.5’N  Long.112º 14.8’W²
+Known 
+Hazards:
+Caution: Extensive student flight training activity on airport (both helicopter and fixed-
+wing).
+Remarks:
+¹MAFFS: 
+²Jettison area is approximately 6 miles east of the airport. 
+Base renovations were completed in late 2015 increasing the number of retardant loading 
+pits from two to three.
+Shipping 
+Address:
+Prescott Fire Center 
+2400 Melville Road 
+Prescott, AZ 86301
+Last Revision: 3-1-2018
+NWCG Airtanker Base Directory
+76 of 144
+PUEBLO–PUB
+Pueblo Memorial Airport–Elevation: 4,729’
+Airport: 38 17.05N/104 29.27W 
+Base Location on Field: E Quadrant  
+ROCKY MOUNTAIN
+FAX: (719) 948-5437 
+Email: wking@fs.fed.us
+US Forest Service CWN 
+Pueblo Memorial Airport 
+Pueblo, CO 
+FTR County: Pueblo
+USFS
+Base Operations Phone:
+(719) 948-5420
+Dispatch Office Phone:
+(719) 553-1600
+Dispatch Contact Frequency:
+168.650 Tn 110.9
+Base Manager:
+Pueblo Dispatch 
+“Pueblo Dispatch 
+National FF” 
+Bill King
+(719) 553-1632
+Asst. Base Manager:
+Bill King
+(719) 553-1414
+Forest Aviation Officer:
+Dual
+2D
+Single 
+20
+2S 
+40
+75
+250
+170
+93
+140
+170
+Runway Weight Limits 
+Runway 08L-26R Published: 
+Overweight Agreement: 
+Runway 08R-26L Published: 
+Overweight Agreement: 
+Runway 17-35 Published: 
+Overweight Agreement:
+110
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+1
+NO
+MAFFS
+Load Simultaneously
+R
+1
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+LC 95A
+YES
+Runways: 8R/26L–10,496’ x 150’   17/35–8310’ 150’ 
+Retardant Jettison Area(s) 
+See Map in Base Operations Trailer
+Known 
+Hazards:
+Caution: Be Alert: Intensive USAF Student Training in Vicinity of Colorado Springs and 
+Pueblo Colorado.
+Remarks:
+Shipping 
+Address:
+CWN Heavy Airtanker Base. RWY 8R right traffic. Sequencing for VFR aircraft 
+available. 100LL, Jet A 
+MAFFS: 
+1) RWY 8L/26R and B twys not suitable C-130’s. 
+2) PIT setup varies dependent on VLAT setup. Follow Parking Tenders, verify wingtip 
+clearance, and use wing walkers if needed. 
+Pueblo Airtanker Base 
+31201 Bryan Cir. 
+Pueblo, CO 81001
+Last Revision: 3-30-2018
+NWCG Airtanker Base Directory
+77 of 144
+RAMONA–RNM
+Ramona Airport–Elevation: 1,395’
+Airport: 30 02.40/116 54.70W 
+Base Location on Field: NW Quadrant   
+SOUTHERN CALIFORNIA
+FAX: (760) 788-9634 
+Email: 
+MVU.RamonaAirAttackBase 
+@fire.ca.gov
+Ramona Airport 
+2498 Montecito Road 
+Ramona, CA 9206 
+FTR County: San Diego
+CAL FIRE
+Base Operations Phone:
+(760) 789-1370
+Dispatch Office Phone:
+Monta Vista ECC
+Dispatch Contact Frequency:
+“Monta Vista”
+Base Manager:
+BC Burke Kremensky
+(619) 401-7787 
+Rx 151.190 T-131.8 
+ Tx 159.225 T-131.8 
+(760) 789-1370
+Air Tactical Group Supervisor:
+Captain Todd O’Carroll
+(760) 789-1370
+Air Tactical Group Supervisor:
+Captain Shane Montgomery
+(760) 789-1370
+Single 
+75
+Dual 
+95
+2S 
+135
+2D 
+-
+Runway Weight Limits 
+Runway 09-27 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+3
+YES
+LATs
+Parking Total
+Fuel and Load
+NO1
+10
+NO
+MAFFS
+Load Simultaneously
+NO
+3
+NO
+SEATs
+Offload Capacity
+Hot Refueling 
+Retardant Type  MVP FX
+YES
+2000
+Runways: 9/27–5,001’ x 150’ 
+Retardant Jettison Area(s) 
+Orosco Ridge Lat. N33.06.00 Long. W166.52.09²
+Known 
+Hazards:
+Remarks:
+Caution: Some airtankers exceed runway-bearing strength 
+Caution: Download restriction in place–see remarks 
+USFS contracted LATs are prohibited.  
+¹In addition to the S-2, the base can accommodate some large airtankers such as BAe-146–
+see base manager for further information. 
+²Jettison area is approximately 4 nautical miles north of the airport.  
+Pattern altitude 2395ft. MSL. No overrun on RW-09. FAA tower operation 0900-2000
+Shipping 
+Address:
+Ramona Airport 
+2498 Montecito Road 
+Ramona, CA 92065
+Last Revision: 3-01-2018
+NWCG Airtanker Base Directory
+78 of 144
+RAPID CITY–RAP
+Rapid City Regional Airport–Elevation: 3204’
+Airport: 44 02.13N/103 03.32W 
+Base Location on Field: SW Quadrant  
+ROCKY MOUNTAIN
+FAX: (605) 393-9935 
+Email: gjschafer@fs.fed.us
+USFS–Black Hills National Forest 
+4940 FAA Road 
+Rapid City South Dakota 57703 
+FTR County: Pennington
+USFS
+Base Operations Phone:
+Dispatch Office Phone:
+Great Plains Dispatch Center
+(605) 393-2533 
+(605) 393-9671 
+(605) 399-3160
+Dispatch Contact Frequency:
+“Great Plains”
+Base Manager:
+Gordon Schafer
+169.950 
+Cell(605) 673-8911 
+Alt Cell (541)297-6317
+Asst. Base Manager:
+Vacant
+Air Attack:
+Todd Pechota/Forest FMO
+(605) 673-9280
+Forest Aviation Officer:
+Single 
+140
+Dual 
+190
+2S 
+175
+2D 
+300
+Runway Weight Limits 
+Runway 14-32 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+5
+YES
+MAFFS
+Load Simultaneously
+R
+1
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+LC 95A
+YES
+5,000
+Runways: 14/32–8,701’ x 150’ 
+Retardant Jettison Area(s) 
+Contact Base
+Caution: Military activity within 5-mile radius. (SDANG and EAFB operations)
+Known 
+Hazards:
+Remarks:
+Shipping 
+Address:
+MAFFS: 
+1) Enter Counter clockwise, right side to pits due to hose length. 
+2) North loop taxi centerline gives 25’ clearance on TWR fence; Offset approx. 10ft N of 
+pit taxi lines for clearance on tanks/pit buildings. 
+Black Hill National Forest 
+4940 FAA Road 
+Rapid City, SD 57703
+Last Revision: 3-19-2018
+NWCG Airtanker Base Directory
+79 of 144
+REDDING–RDD
+Redding Municipal Airport–Elevation: 505’
+Airport: 40 31.18N/122 17.88W 
+Base Location on Field: NW Quadrant 
+NORTHERN CALIFORNIA
+FAX: (530) 224-2433 
+Email:  
+jridley@fs.fed.us 
+Chris.willson@fire.ca.gov
+USFS & CAL FIRE
+Shasta-Trinity National Forest   CAL 
+FIRE Shasta-Trinity Unit 
+Redding Air Attack Base 
+6101 Airport Road 
+Redding California 96002 
+FTR County: Shasta
+Base Operations Phone:
+Dispatch Office Phone:
+USFS: 
+CAL FIRE: 
+Redding ICC
+(530) 226-2745 
+(530) 226-2795 
+(530) 242-2400
+Dispatch Contact Frequency:
+Base Manager:
+Assistant ATBM:
+“Redding” 
+USFS: Jeff Ridley 
+CAL FIRE: Chris Willson (Detailed) 
+Justin Jeude
+171.575 
+(530) 226-2796 
+(530) 226-2794 
+(530) 226-2745
+ATB Technician:
+Brenda Giller
+(530) 226-2785
+2S
+Single 
+98
+Norman Baker 
+Dual 
+ 128
+(530) 226-2799 
+2D 
+195
+62
+72
+110
+Pit Total
+Hot Loading
+ATB Technician: 
+Runway Weight Limits 
+Runway 16-34 Published: 
+Overweight Agreement: 
+Runway 12-30 Published: 
+Overweight Agreement: 
+ATB Ramp Weight 
+Limitation:155,000 lbs. 
+VLATs 
+NO
+4
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+5
+YES
+MAFFS
+Load Simultaneously
+YES
+2
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+YES
+9,000
+MVP FX
+Runways: 16/34–7,003’ x 150’ 
+Retardant Jettison Area(s)
+Contact airbase–Multiple jettison areas on the SHF 
+On airport NE of runway 16/34–(emergency use only)
+Caution: Extensive student flight training and large flocks of migratory birds.
+Known 
+Hazards:
+Remarks:
+Shipping 
+Address:
+When applicable–Runway 16 departures to avoid populated areas. Climb runway heading 
+until approaching the Sacramento River, then turn left, or right to avoid the town of 
+Anderson. 
+Redding Air Attack Base 
+6101 Airport Road 
+Redding, CA 96002
+Last Revision: 3-1-2018
+NWCG Airtanker Base Directory
+80 of 144
+REDMOND–RDM
+Roberts Field–Elevation: 3,080’
+Airport: 44 15.57N/121 09.12W 
+Base Location on Field: NE Quadrant  
+NORTHWEST
+FAX: (541) 504-7223 
+Email: ergraff@fs.fed.us
+Deschutes National Forest 
+1740 SE Ochoco Way 
+Redmond, Oregon 97756 
+FTR County: Deschutes
+USFS
+Base Operations Phone:
+(541) 504-7220
+Dispatch Office Phone:
+(541) 316-7777
+Dispatch Contact Frequency:
+Central Oregon Fire Management 
+Dispatch  
+“Central Oregon Dispatch”
+169.875 Tn 103.5
+Base Manager:
+Eric  Graff
+(541) 504-7220
+Asst. Base Manager:
+Jennifer  Moore
+(541) 504-7222
+John Wood
+(541) 504-7225
+Air Attack:
+Scott Chehock
+(541) 416-6793
+Forest Aviation Officer:
+2S
+2D 
+200
+Single 
+ 68 
+28
+Dual 
+110  
+40
+Runway Weight Limits 
+Runway 11-29 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+3
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+7
+YES
+MAFFS
+Load Simultaneously
+NO
+2
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+YES
+5,000
+LC 95A
+Runways: 5/23–7,038’ x 150’   11/29–7,006’ x 100’ 
+Retardant Jettison Area(s)
+Primary: Lat. 44º 15.00’ N Long. 121º 07.00’ W 
+Secondary: Lat. 44º 07.00’ N Long. 121º 06.00’ W
+Secondary: Lat. 44º 16.00’ N Long. 121º 22.00’ W
+Known 
+Hazards:
+Caution: Be alert to runway crossing clearances. Read back of all runway holding 
+instructions is REQUIRED.
+Remarks:
+Shipping 
+Address:
+Redmond Airtanker Base 
+1740 SE Ochoco Way 
+Redmond, OR 97756
+Last Revision: 3-19-2018
+NWCG Airtanker Base Directory
+81 of 144
+ROSWELL–ROW
+Roswell Industrial Air Center–Elevation: 3,671’ 
+Airport: 33 18.32N/104 31.15W 
+Base Location on Field: E Quadrant  
+SOUTHWEST
+FAX: (575) 347-2369 
+Email: jking@blm.gov
+Bureau of Land Management  
+Roswell Industrial Air Center 
+2909 West 2nd Street 
+Roswell, New Mexico 88201 
+FTR County: Chaves
+Base Operations Phone:
+Alamogordo Interagency Dispatch
+Dispatch Office Phone:
+Dispatch Contact Frequency:
+Emergency 
+“Alamogordo Dispatch”
+Base Manager:
+Justin King
+BLM 
+(575) 347-0117 
+(575) 437-0778 
+(877) 695-1663 
+(575) 437-2286 
+168.500 
+(575) 627-0214 
+Cell(575) 626-8887
+Asst. Base Manager:
+UAM:
+Ty Bryson
+(575) 234-5690 
+Cell (575) 361-5960
+Single 
+100
+Dual 
+200
+2S 
+175
+2D 
+400
+77
+104
+128
+165
+Pit Total
+Hot Loading
+VLATs
+Runway Weight Limits 
+Runway 03-21 Published: 
+Overweight Agreement: 
+Runway 17-35 Published: 
+Overweight Agreement: 
+1YES
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+10+
+NO
+MAFFS
+Load Simultaneously
+R
+1
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+LC 95A
+YES
+Runways: 3/21–13,001’ x 150’    17/35–9,999’ x 100’  
+Retardant Jettison Area(s) 
+Contact Base
+Caution: 747 aircraft parked along TWY may present wingtip clearance hazard.
+Known 
+Hazards:
+Remarks:
+Shipping 
+Address:
+To activate the base contact FMO Ty Bryson at : (575) 234–5960 or Cell(575) 361–5960  
+Roswell Field Office: (575) 627-00272 
+Main Runway 13,000 ft. Alternate Runway 10,000 ft. 
+1DC-10 only 
+MAFFS: 
+1) Non-wt. bearing for C-130’s: Twy A. 
+2) Large aircraft (i.e., B-747) may be parked too close to pit area and must be removed to 
+provide adequate clearance. Contact Airtanker Base manager if large aircraft are near pit. 
+Roswell Airtanker Base 
+1 Jerry Smith Circle 
+Roswell, NM 88203
+Last Revision: 4-05-2018
+NWCG Airtanker Base Directory
+82 of 144
+SAN BERNARDINO–SBD
+San Bernardino International Airport–Elevation: 1,159’
+Airport: 34 06.35N/117 14.48W 
+Base Location on Field: NW Quadrant 
+SOUTHERN CALIFORNIA
+FAX: (909) 382-7993 
+Email: 
+casbd02airbase@fs.fed.us
+USFS
+San Bernardino National Forest 
+San Bernardino Airtanker Base 
+2065 E. Perimeter Rd 
+San Bernardino, California 92408 
+FTR County: San Bernardino
+Base Operations Phone:
+(909) 382-4974
+Dispatch Office Phone:
+FICC
+(909) 383-5654
+Dispatch Contact Frequency:
+“San Bernardino”
+Base Manager:
+Leslie Casavan
+Asst. Base Manager:
+Kelly Mathis
+Airbase Technician:
+Pablo Dominguez
+171.475  
+(909) 382-2992  
+Cell(909) 289-4195  
+(909) 382-2995 
+Cell(909) 844-6684 
+(909) 382-2993
+Vacant
+Air Attack:
+Mike Eaton
+Forest Aviation Officer:
+(909) 382-2994  
+Cell(951) 315-5847
+Single 
+97
+Dual 
+265
+2S 
+175
+2D 
+890
+Runway Weight Limits 
+Runway 06-24 Published: 
+Overweight Agreement:
+Pit Total
+VLATs
+6+VLAT  Hot Loading
+YES
+YES1
+LATs
+Parking Total
+Fuel and Load
+YES
+12+
+YES
+MAFFS
+Load Simultaneously
+R/H/F
+NO
+4+VLAT  Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+MVP FX
+YES
+10,000
+Runways: 6/24–10,000’ x 200’ 
+Retardant Jettison Area(s) 
+Lat. 34º 11.00’ N  Long.117º 12.00’ W
+Known 
+Hazards:
+Caution: Maintain traffic pattern west of I-30 when using runway 24. Departures under 
+IFR may require zero retardant load to meet minimum climb requirements. Class “D” 
+Airspace.  Hang Glider area to North of base.
+Remarks:
+1Can handle DC-10 and 747
+Shipping 
+Address:
+San Bernardino Airtanker Base 
+2065 East Perimeter Road 
+San Bernardino, CA 92408
+Last Revision: 3-1-2018
+NWCG Airtanker Base Directory
+83 of 144
+SANTA MARIA–SMX
+Santa Maria/Capt. G Allen Hancock Field–Elevation: 261’
+Airport: 34 53.50N/120 27.35W 
+Base Location on Field: NE Quadrant  
+SOUTHERN CALIFORNIA
+FAX: (805) 937-5248 
+Email:  
+smxtankerbase@gmail.com
+Los Padres National Forest 
+1211 Citation Court 
+Santa Maria, CA 93455 
+FTR County: Santa Barbara
+USFS
+Base Operations Phone:
+(805) 937-5059 X 205
+Dispatch Office Phone:
+Los Padres Dispatch
+Dispatch Contact Frequency:
+“Los Padres”
+Base Manager:
+Andrea Helming
+(805) 938-9142 X 0 
+Rx170.550 Tx169.900 
+Tn131.8 
+(805) 722-2508
+Asst. Base Manager:
+Dave Sewell
+(805) 729-7674
+Mark Nunez
+(805) 895-6620
+Air Attack:
+Brian Sexton
+(805) 961-5775
+Forest Aviation Officer:
+Runway Weight Limits 
+Runway 12-30 
+Runway 02-20
+Single 
+75 
+70
+Dual 
+181 
+90
+2S 
+175 
+112
+2D 
+400 
+150
+VLATs
+Pit Total
+Hot Loading
+YES1
+3
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+10+
+YES2
+MAFFS
+Load Simultaneously
+R
+3
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+MVP FX
+YES
+12,500
+Runways: 12/30–8,004’ x 150’ 
+Retardant Jettison Area(s) 
+On field: Lat. 34 53.38’ N/Long. 120 27.53’ W 
+Adjacent and parallel to runway 2/20, no agreement, or EA
+Helicopter Parking is located west of Jet Center and Trailers.
+Known 
+Hazards:
+Remarks:
+1DC-10 only 
+On-site hotel and car rental. 
+24 hr. on-site ARFF 
+2See Base Manager for details, select A/C only
+Shipping 
+Address:
+Santa Maria Airtanker Base 
+1211 Citation Court 
+Santa Maria, CA 93455
+Last Revision: 3-1-2018
+NWCG Airtanker Base Directory
+84 of 144
+SANTA ROSA–STS
+Charles M. Shultz–Sonoma County Airport–Elevation: 128’
+Airport: 38 30.32N/122 49.32W 
+Base Location on Field: NE Quadrant
+NORTHERN CALIFORNIA
+FAX: (707) 576-2587 
+Email: lnu.sonomaairattack@fire.ca.gov  
+chris.jurasek@fire.ca.gov
+CAL FIRE 
+2235 Airport Blvd. 
+Santa Rosa, California 95403 
+FTR County: Sonoma
+CAL FIRE
+Base Operations Phone:
+(707) 576-2586
+Dispatch Office Phone:
+St. Helena Dispatch
+(707) 963-4112
+Dispatch Contact Frequency:
+“St. Helena”
+151.460
+Base Manager:
+Chris Jurasek
+(707) 889-4184
+ATB Captain:
+Nick Welch
+(707) 576-2586
+Air Attack:
+2S
+Single 
+120
+Dual 
+184
+2D 
+300
+109
+154
+254
+Runway Weight Limits 
+Runway 14-32 Published: 
+Overweight Agreement: 
+Runway 01-19 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+4
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+10
+NO
+MAFFS
+Load Simultaneously
+NO
+4
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+YES
+5,000
+MVP FX
+Runways: 14/32–6000’ x 150’ 
+Retardant Jettison Area(s) 
+Off airport–Hills west of airport–From STS–280º 7nm
+Known 
+Hazards:
+Remarks:
+Noise abatement for all runways.  
+Avoid low flight over houses and ranches north and south.  
+Depart straight out from RW-19 past houses and ranches before turning. Turn as 
+needed to avoid houses from RW-14/32 and climb AFAP within safe operating 
+limits. Avoid flat approaches to all runways.
+Shipping 
+Address:
+CAL FIRE 
+2235 Airport Blvd. 
+Santa Rosa, CA 95403
+Last Revision: 3-30-2018
+NWCG Airtanker Base Directory
+85 of 144
+SILVER CITY–SVC
+Grant County Airport–Elevation: 5,446’
+Airport: 32 37.87N/109 08.97W 
+Base Location on Field: SE Quadrant 
+SOUTHWEST
+FAX: (575) 388-8622 
+Email: bogomez@fs.fed.us
+Gila National Forest 
+PO Box 931 
+Hurley, New Mexico 88043 
+FTR County: Grant
+USFS
+Base Operations Phone:
+(575) 538-2702
+Dispatch Office Phone:
+Silver City Dispatch
+Dispatch Contact Frequency:
+“Silver City Dispatch”
+Base Manager:
+Buck Gomez
+(575) 538-5371 
+(Rx) 169.900 
+(Tx) 164.150 
+(Tx Cg) 103.5 
+(575) 538-2702
+Asst. Base Manager:
+Sergio Ochoa
+(575) 534-7835
+Air Attack:
+Vacant
+Forest Aviation Officer:
+2S
+2D
+Single 
+ 75
+Dual 
+100
+Runway Weight Limits 
+Runway 08-26 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+5
+NO
+MAFFS
+Load Simultaneously
+NO
+1
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+MVP FX
+YES
+Runways: 8/26–6,802’ x 100’ 
+Retardant Jettison Area(s) 
+Contact Base
+Known 
+Hazards:
+Remarks:
+Shipping 
+Address:
+Silver City Airtanker Base  
+158 Airport Road 
+Hurley, NM 88043
+Last Revision: 3-01-2018
+NWCG Airtanker Base Directory
+86 of 144
+SISKIYOU COUNTY–SIY
+Siskiyou County Airport–Elevation: 2,651’
+Airport: 41 46.72N/122 28.28W 
+Base Location on Field: SC Quadrant 
+NORTHERN CALIFORNIA
+FAX: (530) 842-6953 (dispatch) 
+Email: jkeiser@fs.fed.us 
+cayicc@gmail.com
+Klamath National Forest 
+1312 Fairlane Road 
+Yreka, California 96097 
+FTR County: Siskiyou
+USFS
+Base Operations Phone:
+(530) 459-5116
+Dispatch Office Phone:
+YICC
+Dispatch Contact Frequency:
+“Yreka”
+Base Manager:
+Jim Davis
+(530) 842-3380 
+Tx 165.4125 Rx 171.5250  
+Tn 127.3 
+ (530) 842-1103 
+Cell (530) 643-3072
+Asst. Base Manager:
+Matt Libby
+Derek Wheeler
+Air Attack:
+Jeff Keiser
+Forest Aviation Officer:
+(530) 841-4402   
+(530) 841-4619 
+Cell (530) 355-3274   
+(530) 841-4430 
+Cell (530) 598-1590
+Single 
+ 60
+Dual 
+180
+2S 
+175
+2D 
+270
+Runway Weight Limits 
+Runway 17-35 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+5+
+NO
+MAFFS
+Load Simultaneously
+NO
+1
+YES
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+LC 95A
+YES
+NO
+Runways: 17/35–7,490’ x 150’ 
+Retardant Jettison Area(s) 
+Lat. 41º 46.40’ N Long. 122º 27.34’ W
+Known 
+Hazards:
+•  Deer/Antelope on/near runways 
+•  Vegetation Maintenance adjacent to runways and taxiways.
+Remarks:
+100LL and Jet A fuel card lock and fuel truck on airport. Check NOTAM’s
+Shipping 
+Address:
+Klamath National Forest 
+1711 South Main 
+Yreka, CA 96097
+Last Revision: 2-13-2018
+NWCG Airtanker Base Directory
+87 of 144
+STEAD/RENO–RTS
+Reno/Stead Airport–Elevation: 5,050 
+Airport: 39 39.58N/119 52.15W 
+Base Location on Field: SE Quadrant
+GREAT BASIN
+FAX: (775) 972-9200 
+Email: mkidwell@blm.gov
+Bureau of Land Management 
+14600 Maryland Street 
+Reno, Nevada 89506 
+FTR County: Washoe
+BLM
+Base Operations Phone:
+Stead Air Attack Base
+(775) 972-9201
+Dispatch Office Phone:
+Sierra Front Dispatch (SFIDC)
+Dispatch Contact Frequency:
+Local FF: 168.425 Toned 114.8 Rx/Tx
+Base Manager:
+Michael Kidwell
+Asst. Base Manager:
+Kim Hartweg
+(775) 883-5995 
+NFF: 168.650 Toned 
+110.9 Tx & Rx 
+(775) 972-9201 
+Cell (775) 721-6298 
+(775) 972-9201
+SEAT Manager:
+Andy Garrell
+(775) 997-9011
+Air Attack:
+Scott Morrow
+(775) 434-4065
+Runway Weight Limits 
+Runway 14-32 Published: 
+Overweight Agreement: 
+Runway 08-26 Published: 
+Overweight Agreement:
+Single 
+75 
+N/A 
+60 
+N/A
+Dual 
+200 
+N/A 
+100 
+N/A
+2S 
+N/A 
+155 
+N/A 
+155
+2D 
+320 
+N/A 
+150 
+N/A
+VLATs
+Pit Total
+Hot Loading
+No
+2
+Yes
+LATs
+Fuel and Load
+Yes  Parking Total
+Yes
+MAFFS
+Load Simultaneously
+Yes
+R
+12 
+21
+Hot Refueling 
+Retardant Type
+SEATs
+LC 95A
+Yes  Offload Capacity
+5,000
+Runways: 14/32–9,000’ x 150’   8/26–7,608’ x 150’ 
+Retardant Jettison Area(s) 
+39o 51.0’  x  119o 50.0’  (11 miles NNW at Bedell Flat)
+Skydivers and National Guard helicopters in area, extensive training on weekends.
+Known 
+Hazards:
+Remarks:
+Obtain briefing on NV SUA from Unit Aviation Manager.  Smokejumper Operations.  
+Base Operations–June 01 to September 30.  Unicom 122.7 
+1NOT MAFFS
+Shipping 
+Address:
+Bureau of Land Management 
+14600 Maryland Street 
+Reno, NV 89506
+Last Revision: 2-14-2018
+NWCG Airtanker Base Directory
+88 of 144
+TANACROSS–TSG
+Tanacross Airport–Elevation: 1,549’
+Airport: 63 22.30N/143 20.38W 
+Location on Field: E Quadrant
+ALASKA
+FAX: (907) 883-5135 
+Email: peter.taulus@alaska.gov
+State of Alaska 
+Division of Forestry 
+Box 10 
+Tok, Alaska 99780 
+FTR County: Alaska
+State of Alaska
+Base Operations Phone:
+(907) 883-5845
+Dispatch Office Phone:
+Tok Area Forestry
+(907) 883-5681
+Dispatch Contact Frequency:
+“Tok Forestry Dispatch”
+Base Manager:
+Chris Cook
+132.450 
+(907) 883-5845 
+Cell (907) 940-6701
+Asst. Base Manager:
+ATB Technician:
+James Wright
+Air Attack:
+Single 
+¹
+Dual 
+¹
+2S 
+¹
+2D 
+¹
+Runway Weight Limits 
+Runway 06-24 Published: 
+Overweight Agreement:
+3 
+3
+VLATs 
+LATs 
+MAFFS 
+SEATs
+Pit Total 
+Parking Total 
+Load Simultaneously 
+Offload Capacity
+Hot Loading 
+Fuel and Load 
+Hot Refueling 
+Retardant Type
+NO 
+YES 
+NO 
+YES
+NO 
+NO 
+NO 
+LC95A
+Runways: 6/24–4,963’ x 150’   12/30–4,871’ x 150’ 
+Retardant Jettison Area(s) 
+Lat. 63º 25.00’ N Long. 142º 45.00’ W
+Caution: Rocks up to 2” on taxiway approaching runway 06.
+Known 
+Hazards:
+Remarks:
+¹Published only as “asphalt in poor condition” 
+One-hour notice is required to activate this airtanker base.  
+Fire crews and air operations during summer adjacent to runway 12
+Shipping 
+Address:
+State of Alaska Division of Forestry 
+Box 10 
+Tok, AK 99780
+Last Revision: 3-19-2018
+NWCG Airtanker Base Directory
+89 of 144
+TWIN FALLS–TWF
+Joslin Field/Magic Valley Regional Airport–Elevation: 4,154’
+Airport: 42 28.98N/114 28.65W 
+Base Location on Field: W Quadrant
+GREAT BASIN
+FAX: (208) 735-6516 
+Email: bmartens@blm.gov
+Bureau of Land Management 
+371 Joslin Way   Box 10 
+Twin Falls, Idaho 83301 
+FTR County: Twin Falls
+BLM
+Base Operations Phone:
+Dispatch Office Phone:
+South Idaho
+Dispatch Contact 
+Frequency:
+“South Idaho Dispatch” 
+“Local Flight Following”
+(208) 735-6505 
+(208) 732-7247 
+(208) 886-2373 
+RX: 170.100 
+TX: 164.800 
+T:107.2
+Base Manager:
+SEAT Manager:
+Jasper Lloyd
+(208) 735-6505
+ATB Technician:
+Matt James
+(208) 735-6514
+Air Attack:
+Shayler Sorensen
+(208) 559-6291
+Unit Aviation Manager:
+J. Erich Gleckler
+(208) 451-0396
+Single 
+75
+Dual 
+200
+2S 
+175
+2D 
+250
+Runway Weight Limits 
+Runway 08-26 Published: 
+Overweight Agreement:
+VLATs
+Hot Loading
+NO  Pit Total
+2
+YES
+LATs
+Fuel and Load
+YES  Parking Total
+6+
+YES
+MAFFS
+Load Simultaneously
+R
+1
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+LC 95A
+YES  Offload Capacity
+10,000
+Runways: 8/26–8,703’ x 150’Retardant Jettison Area(s) 
+Lat. 42º 26.27’N Long. 114º 39.08’ W   
+( 1 Mile NW of Berger Butte–TWF VOR 237 @ 8nm)
+Known 
+Hazards:
+Remarks:
+Shipping Address:
+Water only loading available and Scooper wash-down at +200° 
+MAFFS: 
+1) PITS Bi-Directional, West facing preferred, Airtanker Base will advise 
+Twin Falls Airtanker Base 
+371 Joslin Way Box 10 
+Twin Falls, ID 83301
+Last Revision: 3-19-2018
+NWCG Airtanker Base Directory
+90 of 144
+UKIAH–UKI
+Ukiah Municipal Airport–Elevation: 617’
+Airport: 39 07.60N/123 12.18W 
+Base Location on Field: NW Quadrant
+NORTHERN CALIFORNIA
+FAX: (707) 462-6539 
+Email: meu.ukiahairattackbase@fire.ca.gov
+CAL FIRE 
+1475 South State Street 
+Ukiah, California 95482 
+FTR County: Mendocino
+CAL FIRE
+Base Operations Phone:
+(707) 462-6102
+Dispatch Office Phone:
+Howard Forest Dispatch
+(707) 459-7403
+Dispatch Contact Frequency:
+“Howard Forest”
+151.385
+Base Manager:
+Ray Taglio
+(707) 462-6102
+Asst. Base Manager:
+Matt McElhnny
+ATB Technician:
+Air Attack:
+Taglio/ McElhnny
+Dual
+2S
+2D
+Single 
+28
+Runway Weight Limits 
+Runway 15-33 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+3
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+6
+NO
+MAFFS
+Load Simultaneously
+NO
+3
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+NO
+2,500
+P-100
+Runways: 15/33–4,423’ x 150’ 
+Retardant Jettison Area(s) 
+Off Airport–Cow Mountain From UKI–058º 7nm
+Known 
+Hazards:
+Remarks:
+S-2 only. 
+Noise abatement procedure when applicable for RW-33: 15 degree right turn at 1500 feet, 
+then parallel railroad to freeway. 
+Noise abatement procedure when applicable for RW-15: 20 degree left turn at 4,000 foot 
+marker, climb straight out.
+Shipping 
+Address:
+CAL FIRE 
+1475 South State Street 
+Ukiah, CA 95482
+Last Revision: 4-10-2018
+NWCG Airtanker Base Directory
+91 of 144
+WEST YELLOWSTONE–WYS
+Yellowstone Airport–Elevation: 6,649’
+Airport: 44 41.75N/111 06.42W 
+Base Location on Field: NE Quadrant 
+NORTHERN ROCKIES
+FAX: (406) 646-9598 
+Email: billyben@charter.net
+Gallatin National Forest 
+Box 610 
+West Yellowstone, MT 59758 
+FTR County: Gallatin
+USFS
+Base Operations Phone:
+(406) 646-7691
+Dispatch Office Phone:
+Bozeman Dispatch Center
+(406) 587-6719
+Dispatch Contact Frequency:
+“Bozeman Dispatch”
+168.650 Tn 110.9
+Base Manager:
+Billy Bennett
+(864) 426-5941
+Asst. Base Manager:
+Air Attack:
+2S
+Single 
+90
+Dual 
+150
+2D 
+280
+Runway Weight Limits 
+Runway 01-19 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+4
+YES
+MAFFS
+Load Simultaneously
+NO
+1
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+MVP FX
+YES
+10,000
+Runways: 1/19–8,400’ x 150’ 
+Retardant Jettison Area(s) 
+Lat. 44º 41.18’ N Long. 111º 07.04’ W (West Side of Runway)
+Known 
+Hazards:
+Remarks:
+Shipping 
+Address:
+Air Idaho Medical helicopter @ terminal 
+Car rental service @ terminal 
+Commercial airline regional jet service–2 flights daily June-September 
+Smokejumper Base @ Airtanker Base-several practice jump spots within 5 miles 
+of base. 
+Letter of Authorization from Montana Department of Transportation, Yellowstone 
+Airport, for C-130 operations. 
+AWOS: 118.1 
+West Yellowstone Airtanker Base 
+670 Aircenter Rd.  
+West Yellowstone, MT 59758
+Last Revision: 4-02-2018
+NWCG Airtanker Base Directory
+92 of 144
+WINSLOW–INW
+Winslow/Lindberg Regional Airport–Elevation: 4,941’
+Airport: 35 01.27N/110 43.12W 
+Base Location on Field: NE Quadrant 
+SOUTHWEST
+FAX: (928) 289-2535 
+Email: jsullivan01@fs.fed.us
+Apache-Sitgreaves National Forest 
+542 Barrigan Road 
+Winslow, Arizona 86047 
+FTR County: Navajo
+USFS
+Base Operations Phone:
+(928) 289-8810
+Pilot Lounge:
+(928) 289-8813
+Dispatch Office Phone:
+Show Low Dispatch
+(928) 532-2700
+Dispatch Contact Frequency:
+“Show Low”
+169.950
+Base Manager:
+Jerry Sullivan
+(928) 289-8811
+Asst. Base Manager:
+Enrique Pacheco
+(928) 289-8812
+Air Attack:
+Mark Empey
+(928) 532-2712
+2S
+Dual 
+70
+2D 
+110
+80
+125
+Interagency Aviation Officer: 
+Runway Weight Limits 
+Runway 11-29 Published: 
+Overweight Agreement: 
+Runway 04-22 Published: 
+Overweight Agreement:
+Single 
+60  
+Yes 
+50  
+Yes
+VLATs
+Pit Total
+Hot Loading
+NO
+3
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+5
+NO
+MAFFS
+Load Simultaneously
+NO
+1
+NO
+Hot Refueling 
+Retardant Type
+SEATs
+Offload Capacity
+LC 95A
+YES
+3,000
+Runways: 11/29–7,100’ x 150’   4/22–7,499’ x 150’ 
+Retardant Jettison Area(s) 
+Lat. 34º 57.72’ N long. 110º 51.15’ W
+Known 
+Hazards:
+Caution: Aircraft with wingspan over 79ft. should back taxi on that portion of runway 29 
+near terminal building and fuel farm.
+Remarks:
+Unicom 122.800 
+AWOS 118.875 
+FBO 928-289-0100
+Shipping 
+Address:
+Winslow Airtanker Base 
+542 Barrigan Road 
+Winslow, AZ 86047
+Last Revision: 3-20-18
+NWCG Airtanker Base Directory
+93 of 144
+TEMPORARY AIRTANKER BASE:
+TEMPORARY AIRTANKER BASE:
+Airport:
+FAX: 
+Email:
+Base Operations Phone:
+Pilot Lounge:
+Base Contact Frequency:
+Dispatch Office Phone:
+Dispatch Contact Frequency:
+Base Manager:
+Asst. Base Manager:
+Airtanker Contract COR:
+Air Attack:
+Forest Aviation Officer:
+Single
+Dual
+2S
+2D
+Runway Weight Limits 
+Runway Published: 
+Overweight Agreement: 
+Runway Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+LATs
+Parking Total
+Fuel and Load
+MAFFS
+Load Simultaneously
+Hot Refueling
+SEATs
+Offload Capacity
+Retardant Jettison Area(s)
+Known 
+Hazards:
+Remarks:
+Unicom  
+AWOS  
+FBO
+Last Revision:
+NWCG Airtanker Base Directory
+94 of 144
+Single Engine Airtanker Bases
+ALLIANCE SEAT–AIA
+Alliance Municipal–Elevation: 3,931’
+Airport: 42 03.32N/120 48.38W 
+Base Location on field: NW Quadrant 
+ROCKY MOUNTAIN
+Nebraska Forest Service 
+430 E 2nd St 
+Chadron, NE 69337-2433
+FAX: (308) 432-6187 
+Email: sethpeterson@unl.edu
+FTR County: Box Butte
+Nebraska State
+Base Operations Phone:
+(402) 366-3540
+Dispatch Office Phone:
+Great Plains Dispatch
+Dispatch Contact Frequency:
+(605) 399-3161 
+F.N. 169.175 Tx  
+Tn 103.5
+SEAT Manager:
+Seth Peterson
+(402) 366-3540
+2S
+2D 
+80.0
+Single 
+36.0 
+24.0
+Dual 
+48.0 
+30.0
+Runway Weight Limits 
+Runway: 8/26–12/30 
+17/35 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+3
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+YES
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+Adjacent or Parallel to the Runway.
+Cautions:  General Aviation and Commercial Aviation.
+Known 
+Hazards:
+Remarks:
+100 LL and Jet A available through FBO 
+Unicom 123.00 
+1Contracted Vender may Hot Refuel.
+Alliance SEAT Base/Airport 
+5631 Sarpy Rd 
+Alliance, NE 69301
+Shipping 
+Address:
+Last Revision: 2-14-2018
+NWCG Airtanker Base Directory
+95 of 144
+AMARILLO SEAT–AMA
+Rick Husband International Airport–Elevation–3,607’
+Airport: 35 13.16N/101 42.35W 
+Base Location on Field: NE Quadrant
+SOUTHERN
+FAX: (325) 928-4002 
+(Dispatch) 
+Email: 
+merkeldispatch@tfs.tamu.edu
+Texas A&M Forest Service 
+Rick Husband Amarillo 
+International Airport 
+Amarillo, TX 
+FTR County: Taylor
+Base Operations Phone:
+Established upon activation
+Dispatch Office Phone:
+Merkel Dispatch 
+“Abilene Repeater”
+Dispatch Contact Frequency
+(325) 261-3620 
+RX 159.330, tn 225.7 
+TX 151.385 tn 173.8 
+155.370 tone 156.7 
+168.650 tone 110.9
+Base Manager:
+“Local FF” 
+“National FF” 
+As Assigned
+Asst. Base Manager:
+As Assigned
+Airtanker Contract COR:
+As Assigned
+As Assigned
+Air Attack:
+Cynthia Foster
+(979) 458-7308
+State Aviation Officer:
+2S 
+200.0
+Single 
+100.0  
+100.0
+Dual 
+200.0 
+200.0
+2D 
+400.0  
+400.0
+Runway Weight Limits 
+Runway 4-22 
+Runway 13-31
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+YES
+6
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+2
+NO
+SEATs
+Offload Capacity
+YES
+5,000
+Retardant Jettison Area 
+Bearing 296 Magnetic 6.8 miles from AMA 
+35 17.123 N  101 48.664 W
+Caution: Commercial Air Traffic, multiple in, and around area.
+Known 
+Hazards:
+Remarks:
+Base staffed and operational as needed.  http://txforestservice.tamu.edu
+Shipping 
+Address:
+FBO-TAC Air 
+10610 American Dr.  
+Amarillo, TX 79111
+Last Revision: 3-23-2018
+NWCG Airtanker Base Directory
+96 of 144
+BUFFALO SEAT–9D2
+Harding County Airport–Elevation: 2,573’
+Airport: 45 55.17N/102 06.55W 
+Base Location on Field: South end of the ramp  
+ROCKY MOUNTAIN
+FAX: (605) 393-8044 
+Email: 
+winston.cadotte@state.sd.us
+South Dakota Wildland Fire
+Contact: 
+South Dakota Wildland Fire Div. 
+3305 West South Street 
+Rapid City, South Dakota 57702 
+FTR County: Harding County
+Base Operations Phone:
+SEMG cell
+Dispatch Office Phone:
+Miles City Interagency
+(605) 399-3161
+Dispatch Contact Frequency:
+“Miles City”
+168.650 Rx/Tx 110.9
+Base Manager:
+Winston Cadotte
+(605) 381-7267
+Asst. Base Manager:
+Air Attack:
+Winston Cadotte
+(605) 381-7267
+Aviation Operations:
+Dual
+2S
+2D
+Single 
+12.5
+Runway Weight Limits 
+Runway 12-30 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+3
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+YES*
+SEATs
+Offload Capacity
+YES
+800
+Retardant Jettison Area(s) 
+Northeast edge parallel to main Runway  12-30
+Caution: Birds, other wildlife
+Known 
+Hazards:
+Remarks:
+100LL 
+Category II SEAT base 
+*Vendor carded hot fuel only
+Shipping 
+Address:
+South Dakota Wildland Fire Div.  
+3305 West South Street 
+Rapid City, SD 57702
+Last Revision: 3-20-2018
+NWCG Airtanker Base Directory
+97 of 144
+BURNS SEAT–BNO
+Burns Municipal Airport–Elevation: 4,148’
+Airport: 43 35.22N/118 57.38W 
+Base Location on Field: SW Quadrant 
+NORTHWEST
+FAX: (541) 573-3600 
+Email: jlsherwood@blm.gov
+Burns District Bureau of Land 
+Management 
+28910 Hwy 20 West  
+Hines, Or. 97738 
+FTR County: Harney
+BLM
+Base Operations Phone:
+Main Airbase Line–(541)-573-3244
+Dispatch Office Phone:
+SEAT Operations  
+(541) 573-5113 
+(541) 573-4549
+Dispatch Contact Frequency:
+SEAT Base Manager:
+Burns Dispatch–Aircraft Desk 
+“Burns Dispatch” 
+“Flight Follow Direct” 
+Josh Fulton (Detail)
+172.500 Tn 77.0 
+(775) 525-4668
+Unit Aviation Officer:
+Jessica Sherwood
+(541) 589-0004
+Albert Linch
+(208) 830-1101
+Air Attack:
+2S
+Dual 
+50
+2D 
+90
+Runway Weight Limits 
+Runway Published: 12-30 
+Runway Published: 03-21
+Single 
+30 
+30
+VLATs
+Pit Total
+Hot Loading
+NO
+1-2
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+4-8
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO 
+YES if 
+vendor is 
+carded
+SEATs
+Offload Capacity
+YES
+800-1600
+Retardant Jettison Area
+Lat: 43°  40.4     x       Long: 119° 1.7 
+SEAT Base 
+Lat: 43° 35.2  Long:  110° 57.5
+Known 
+Hazards:
+Remarks:
+Shipping 
+Address:
+Caution:  
+Birds: Feb–May, Sep–Oct     Ultralights 
+SEAT Base is located in same area as Helibase near end of runway 03 
+Fuel: 100LL Low-Lead, Jet A–FBO/SEMG will arrange additional AC 
+FBO:541-573-6139 or 541-620-4188–Parking when SEAT ramp is full at 4 
+Burns SEAT Base 
+70342 Heliport Way 
+Burns, OR 97720
+Last Revision: 02-13-2018
+NWCG Airtanker Base Directory
+98 of 144
+CANON CITY SEAT–1V6
+Canon City/Fremont County Airport–Elevation: 5,439’
+Airport: 38 25.82N/105 06.22W 
+Base Location on Field: NE Quadrant 
+ROCKY MOUNTAIN
+FAX: (719) 784-4062 
+Email: c1hammon@blm.gov
+Bureau of Land Management 
+Fremont County Airport 
+Canon City, CO  81240 
+FTR County: Fremont
+BLM
+Base Operations Phone:
+(719) 784-4499
+Dispatch Office Phone:
+Pueblo Dispatch
+(719) 553-1600
+Dispatch Contact Frequency:
+“Pueblo Dispatch”
+168.650 Tn 110.9
+Base Manager:
+(719) 269-8561
+Ed Skerjanec
+2S
+2D
+Single 
+26
+Dual 
+26
+Runway Weight Limits 
+Runway  11-29 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+4
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+See map posted in the Base Operations Trailer.
+Known 
+Hazards:
+Cautions: Parachute jumping and military operations on and in vicinity of airport. Glider 
+towing and operations Be Alert: Intensive USAF student training in vicinity of Colorado 
+Springs and Pueblo Colorado
+Remarks:
+Category 1 SEAT base 
+Unicom 122.8 
+100LL, Jet A
+Shipping 
+Address:
+Canon City SEAT Base 
+Fremont County Airport 
+Canon City, CO 81240
+Last Revision: 2-13-2018
+NWCG Airtanker Base Directory
+99 of 144
+CHADRON SEAT–CDR
+Chadron Municipal–Elevation: 3,297’
+Airport: 42 50.42N/103 06.22W 
+Base Location on field: NW Quadrant 
+Rocky Mountain
+FAX: (308) 432-6187 
+Email: sethpeterson@unl.edu
+Nebraska Forest Service 
+430 E 2nd St 
+Chadron, NE 69337-2433 
+FTR County: Dawes
+Nebraska State
+Base Operations Phone:
+(402) 366-3540
+Dispatch Office Phone:
+(605) 399-3161
+Dispatch Contact Frequency:
+169.175 Tx Tn 103.5
+SEAT Manager:
+Great Plains Dispatch 
+“Great Plains” 
+“Forest Net” 
+Seth Peterson
+(402) 366-3540
+2S
+2D 
+90.0
+Single 
+30.0 
+21.0
+Dual 
+55.0 
+30.0
+Runway Weight Limits 
+Runway: 2/20 
+11/29 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+3
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+YES
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+Adjacent or Parallel to the Runway.
+Cautions:  General Aviation and Commercial Aviation.
+Known 
+Hazards:
+Remarks:
+100 LL and Jet A available through FBO/Self-service 
+Contracted Vender may Hot Refuel 
+Unicom 122.8
+Shipping 
+Address:
+Chadron SEAT Base/ Airport 
+90 Airport Rd, 
+Chadron, NE 69337
+Last Revision: 3-21-2018
+NWCG Airtanker Base Directory
+100 of 144
+CORTEZ SEAT–CEZ
+Cortez/Montezuma County–Elevation: 5,909’
+Airport: 37 18.15N/108 37.88W 
+Base Location on Field: NW Quadrant 
+ROCKY MOUNTAIN
+FAX:  
+Email: c1hammon@blm.gov
+Bureau of Land Management 
+Montezuma County Airport 
+Craig, CO  
+FTR County: Montezuma
+BLM
+Base Operations Phone:
+(970) 769-1023
+Dispatch Office Phone:
+Durango Dispatch
+(970) 385-1324
+Dispatch Contact Frequency:
+“Durango”
+168.650 Tn110.9
+Base Manager:
+(970) 375-3322
+Craig French
+2S
+2D
+Single 
+4
+Dual 
+56
+Runway Weight Limits 
+Runway  03-21 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+4
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+See map posted in the Base Operations Trailer.
+Known 
+Hazards:
+Cautions: Migratory birds on and in vicinity of airport, spring, and fall. 
+Ultralight and soaring operations in area.
+Remarks:
+Unicom 122.8 
+100LL, Jet A
+Shipping 
+Address:
+Cortez SEAT Base 
+22894 County Rd F 
+Cortez, CO 81321
+Last Revision: 3-21-2018
+NWCG Airtanker Base Directory
+101 of 144
+CRAIG SEAT–CAG
+Craig/Moffat County–Elevation: 6,393’
+Airport: 40 29.58N/107 32.28W 
+Base Location on Field: SE Quadrant 
+ROCKY MOUNTAIN
+FAX:  
+Email: c1hammon@blm.gov
+Bureau of Land Management 
+Moffat County Airport 
+Craig, CO  81625 
+FTR County: Moffat
+BLM
+Base Operations Phone:
+SEMG cell
+Dispatch Office Phone:
+Craig Dispatch
+(970) 826-5037
+Dispatch Contact Frequency:
+“Craig Dispatch”
+168.650 Tn 110.9
+Base Manager:
+(970) 826-5012
+James Michels
+2S
+2D
+Single 
+35
+Dual 
+40
+Runway Weight Limits 
+Runway 07-25  Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+4
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+Primary:  Mayberry Fire scar (28 nm. NW of Craig) at 40 47.47’ X 107 59.28’ 
+Secondary:  Chief Fire scar (14nm. SW of Craig) at 40 23.04 X 107 47.59’
+Cautions: RWY 25 has +75 ft. trees 4,000 ft. from threshold.
+Known 
+Hazards:
+Remarks:
+Category 1 SEAT base. 
+Unicom 122.8 
+100LL, Jet A
+Shipping 
+Address:
+Criag SEAT Base 
+Moffat County Airport 
+Craig, CO 81625
+Last Revision: 4-02-2018
+NWCG Airtanker Base Directory
+102 of 144
+EUREKA SEAT–05U
+Eureka Airport–Elevation: 5,958’
+Airport: 39 36.23N/116 00.22W 
+Base Location on Field: SW Quadrant  
+GREAT BASIN
+FAX:  
+Email: mloan@blm.gov
+Battle Mountain District 
+P.O. Box 206 
+Eureka, NV 89316 
+FTR County: Eureka
+BLM
+Base Operations Phone:
+Dispatch Office Phone:
+CNIDC Aircraft Desk
+Dispatch Contact Frequency:
+“National Flight Following (NFF)”
+(775) 623-1555
+(775) 623-1558
+168.650   Tn 110.9
+Base Manager:
+Mary Loan
+(775) 623-2397
+UAM:
+Dual
+2S
+2D
+Single 
+12.5
+Runway Weight Limits 
+Runway  13-31 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+3-4
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+1500
+Retardant Jettison Area(s)
+Contact Base.
+Caution:  Military SUA/training routes in area
+Known 
+Hazards:
+Remarks:
+Base set up seasonal as determined by area conditions. 
+Contact UAM Mary Loan 775-623-2397 for more information.
+Shipping 
+Address:
+Battle Mountain District 
+P.O.Box 206 
+Eureka, NV 89316
+Last Revision: 3-23-2018
+NWCG Airtanker Base Directory
+103 of 144
+FILLMORE SEAT–U19
+Fillmore Municipal Airport–Elevation: 4,988’
+Airport: 38 57.73N/112 21.27W 
+Base Location on Field: N Quadrant 
+GREAT BASIN
+FAX: (435) 743-3135 
+Email: jseng@blm.gov
+Bureau of Land Management 
+35 East 500 North 
+Fillmore, UT 84631 
+FTR County: Millard
+BLM
+Base Operations Phone:
+Dispatch Office Phone:
+Richfield Interagency Dispatch
+(435) 896-8404
+Dispatch Contact Frequency:
+“Richfield Dispatch”
+Base Manager:
+(801) 503-8337
+Carol Adam
+Jeremy Seng
+(602) 361-4753
+UAM:
+2S
+2D
+Dual
+Single 
+12.5
+Runway Weight Limits 
+Runway  04-22 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+3
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+Contact Base:
+Known 
+Hazards:
+Caution:  Mountains to east. 
+RAMP is currently under construction–NO SEAT Ops until further notice.
+Remarks:
+Runway length 5,050’,   CTAF 122.8, 100LL, and Jet A
+Shipping 
+Address:
+Fillmore BLM 
+Jeremy Seng 
+95 East 500 North 
+Fillmore, UT 84631
+Last Revision: 3-21-2018
+NWCG Airtanker Base Directory
+104 of 144
+FORT COLLINS SEAT-FNL
+Fort Collins /Loveland Municipal Airport–Elevation 5,016’
+Airport: 40 26.78N/105 00.45W 
+Base Location on Field: SW Quadrant  
+ROCKY MOUNTAIN
+FAX: N/A 
+Email: vince.welbaum@state.co.us
+Colorado Division of Fire 
+Prevention and Control 
+FTR County: Larimar County
+Colorado State
+Base Operations Phone:
+(970) 829-7413
+Dispatch Office Phone:
+Ft. Collins Dispatch
+(970) 295-6800
+Dispatch Contact Frequency:
+“Ft. Collins”
+Base Manager:
+Allyn Herrington
+(970) 829-7413
+Asst. Base Manager:
+Air Attack:
+2S
+2D
+Single 
+50
+Dual 
+65
+Runway Weight Limits 
+Runway 15-33 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+Fuel and Load
+LATs
+Parking Total
+NO
+NO
+21
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+2
+NO
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+West of runway 33—15 Depending on Crosswind
+Caution: Birds, other wildlife//Daily Helicopter Training (flight school).
+Known 
+Hazards:
+Remarks:
+100LL //Jet A 
+1Anchored Tie Downs At FBO and 2 at SEAT Base 
+Water Enhancer Available
+Shipping Address:
+Please Contact Base Manager
+Last Revision: 4-02-18
+NWCG Airtanker Base Directory
+105 of 144
+FORT STOCKTON SEAT–FST
+Fort Stockton-Pecos County Airport–Elevation: 3,011’
+Airport: 30 54.92N/102 54.77W 
+Base Location on Field: NW Quadrant 
+SOUTHERN
+FAX: (830) 997-3763 
+Email: 
+dispatch@tfs.tamu.edu
+Texas Forest Service 
+Fort Stockton-Pecos County 
+Airport 
+Fort Stockton, TX 
+FTR County: Pecos
+Base Operations Phone:
+Established upon activation
+Dispatch Office Phone:
+Fredericksburg Dispatch 
+“Fredericksburg Repeater”
+(830) 997-5426 Ext. 6
+Rx 159.330 Tx 151.2125 Tn 
+127.3
+Dispatch Contact Frequency:
+155.370 Tn 156.7 
+168.650 Tn 110.9
+Base Manager:
+“Local FF/” 
+“National FF” 
+As Assigned
+Asst. Base Manager:
+As Assigned
+As Assigned
+Air Attack:
+Cynthia Foster
+(979) 458-7308
+Forest Aviation Officer:
+Dual
+2S
+2D
+Single 
+24.0
+Runway Weight Limits 
+Runway 12-30 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+6
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+5,000
+Retardant Jettison Area(s) 
+Any grassy area on the airport. 
+30 54.55 N/102 54.46 W
+Caution: 3,210 Ft Tower 2 mi NE.
+Known 
+Hazards:
+Remarks:
+http://txforestservice.tamu.edu
+Shipping 
+Address:
+Fort Stockton SEAT Base 
+1523 Airport Dr. 
+Fort Stockton, TX 76067
+Last Revision: 3-23-2018
+NWCG Airtanker Base Directory
+106 of 144
+FREDERICKSBURG SEAT–T82
+Gillespie County Airport–Elevation: 1,695’
+Airport: 30 14.59N/98 54.55W 
+Base Location on Field: SE Quadrant
+SOUTHERN
+FAX: (830) 997-3763 
+(Dispatch) 
+Email:  
+Fredericksburg 
+dispatch@tfs.tamu.edu
+Texas A&M Forest Service 
+Fredericksburg, Gillespie County 
+Airport 
+Fredericksburg, TX 
+FTR County: Gillespie
+Base Operations Phone:
+Established upon activation
+Dispatch Office Phone:
+Fredericksburg Dispatch 
+“Fredericksburg Repeater”
+Dispatch Contact Frequency:
+(830) 997-5426 ext. 6
+RX 159.330 TX 151.2125 Tn 
+127.3 
+155.370 tone 156.7 
+168.650 tone 110.9
+Base Manager:
+“Local FF/” 
+“National FF” 
+As Assigned
+Asst. Base Manager:
+As Assigned
+Airtanker Contract COR:
+As Assigned
+As Assigned
+Air Attack:
+Cynthia Foster
+(979) 458-7308
+State Aviation Officer:
+Dual
+2S
+2D
+Single 
+30.0
+Runway Weight Limits 
+Runway 14-32 Published
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+6
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+2
+NO
+SEATs
+Offload Capacity
+YES
+5,000
+Retardant Jettison Area(s) 
+Any grassy area on airport. 
+Lat: 30 14 35 N   Long: 98 54 33 W
+Caution: Power distribution lines, buildings, and developed areas.
+Known 
+Hazards:
+Remarks:
+Base staffed and operational as needed.  http://txforestservice.tamu.edu
+Shipping 
+Address:
+Fredericksburg FBO 
+217 Airport Road 
+Fredericksburg, TX
+Last Revision: 3-23-2018
+NWCG Airtanker Base Directory
+107 of 144
+GIDDINGS SEAT–GYB
+Lee County Airport–Elevation: 484’
+Airport: 30 10.15N/96 58.80W 
+Base Location on Field: NE Quadrant
+SOUTHERN
+Texas A&M Forest Service 
+Giddings, Lee County Airport 
+Giddings, TX 
+FTR County: Lee
+FAX: (979) 968-5113 
+(Dispatch) 
+Email: 
+lagrangedispatch@tfs.tamu.edu
+Base Operations Phone:
+Established upon activation
+Dispatch Office Phone:
+Lagrange Dispatch 
+“Lagrange Repeater”
+Dispatch Contact Frequency:
+(979) 968-5555 
+Rx 159.330 Tn 186.2 
+Tx151.310, Tn 179.9 
+155.370 tone 156.7 
+168.650 tone 110.9
+Base Manager:
+“Local FF/” 
+“National FF” 
+As Assigned
+Asst. Base Manager:
+As Assigned
+Airtanker Contract COR:
+As Assigned
+As Assigned
+Air Attack:
+Cynthia Foster
+(979) 458-7308
+State Aviation Officer:
+Dual
+2S
+2D
+Single 
+12.5
+Runway Weight Limits 
+Runway 17-35 Published: overweight 
+agreement
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+6
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+5,000
+Retardant Jettison Area(s) 
+West end of the runway. 
+30 10.16N  96  58.80W
+None
+Known 
+Hazards:
+Remarks:
+Base staffed and operational as needed.
+Contact Base Management for address
+Shipping 
+Address:
+Last Revision: 3-23-2018
+NWCG Airtanker Base Directory
+108 of 144
+GRANGEVILLE SEAT–GIC
+Idaho County Airport–Elevation: 3,310’
+Airport: 45 56.45N/116 07.20W 
+Base Location on Field: SE Quadrant  
+NORTHERN ROCKIES
+FAX: (208) 983-9587 
+Email: dvankomen@fs.fed.us
+Nez Perce National Forest 
+104 Airport Road 
+Grangeville, Idaho 83530 
+FTR County: Idaho
+USFS
+Base Operations Phone:
+(208) 983-1964
+Dispatch Office Phone:
+(208) 983-6800
+Dispatch Contact Frequency:
+168.650 Tn 110.9
+Base Manager:
+(208) 983-9577
+Grangeville Dispatch Center  
+“Grangeville Dispatch” 
+“National Flight Following (NFF)” 
+Donnie Van Komen
+Willy Acton
+(208) 983 9571
+Unit Aviation Officer:
+2S
+Single 
+75
+Dual 
+95
+2D 
+145
+Runway Weight Limits 
+Runway  07-25 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+5
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+YES
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+45 51.38/116 10.68
+Known 
+Hazards:
+Caution: Significant crosswind routinely encountered in afternoons. Deer on runway, 
+airport not fenced.
+Remarks:
+Shipping 
+Address:
+Grangeville SEAT Base 
+104 Airport Road 
+Grangeville, ID 83530
+Last Revision: 3-21-18
+NWCG Airtanker Base Directory
+109 of 144
+GREYBULL SEAT–GEY
+South Big Horn County Airport–Elevation: 3,941’
+Airport: 44 31.07N/108 04.97W 
+Base Location on Field–South end of ramp
+ROCKY MOUNTAIN
+Bureau of Land Management 
+South Big Horn Airport  
+Greybull, WY
+FAX: (307) 578-5759 
+Cody Dispatch 
+Email: rzimmerl@blm.gov
+FTR County: Big Horn
+BLM
+Base Operations Phone:
+SEMG Cell
+Dispatch Office Phone:
+Cody Dispatch
+(800) 295-9954
+Dispatch Contact Frequency:
+“Cody Dispatch”
+168.650 TX Tn 110.9
+SEAT Manager:
+No permanent management
+Unit Aviation Manager:
+Rich Zimmerlee
+(307) 347–5188
+ST
+DT
+Single 
+85
+Dual 
+150
+Runway Weight Limits 
+Runway 16/34 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+4
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+44 32’ 07 X 108 05’ 10       North of GEY 
+44 29’ 55 X 108 04’ 40       South of GEY
+Caution: Aerial Hazards Map posted at Base.
+Known 
+Hazards:
+Remarks:
+•  Unicom/CTAF: 122.9. 
+•  For aircraft/fuel services 0800-1700 call 307-431-1464 (after-hours same). 
+•  Terrain 1,066’ above airport elevation 4-5 miles North & NE of Airport. 
+•  Potential for wildlife in and around runway area.
+Shipping 
+Address:
+Cody BLM Field Office 
+1002 Blackburn Street 
+Cody, WY 82414
+Last Revision:  4-04-18
+NWCG Airtanker Base Directory
+110 of 144
+HAMILTON SEAT–6S5
+Ravalli County Airport–Elevation: 3,642’
+Airport: 46 15.12N/114 07.58W 
+Base Location on Field: NW Quadrant  
+NORTHERN ROCKIES
+FAX: (406) 363-7131 
+Email: dbitterman@fs.fed.us
+Bitterroot National Forest 
+1801 N. First Street 
+Hamilton, MT 59840 
+FTR County: Ravalli
+USFS
+Base Operations Phone:
+TBD
+Dispatch Office Phone:
+Hamilton Dispatch
+(406) 363-7133
+Dispatch Contact Frequency:
+“Hamilton Dispatch”
+169.625 Tn 146.2
+SEAT Manager:
+(406) 363-7162
+Dean Bitterman
+Forest Aviation Officer:
+2S
+2D
+Single 
+17
+Dual 
+25
+Runway Weight Limits 
+Runway 16-34 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1-2
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+1-5
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+Adjacent to airstrip—between airstrip and fence/ditch along East side of airstrip.
+Known 
+Hazards:
+Cautions: Rising terrain on North departure from airport RWY 34.  Private residences 
+within ½ mile on South departure RWY 16.  Vehicular traffic crossing SEAT base ramp 
+entry/departure area. Helibase North of SEAT base.
+Remarks:
+Airport Manager Page Gough: Phone 406-375-9149 
+May be set up as reload base or full service, depending on need.
+Shipping 
+Address:
+Hamilton SEAT Base 
+533 Airport Rd 
+Hamilton, MT 59840
+Last Revision: 3-21-2018
+NWCG Airtanker Base Directory
+111 of 144
+HOT SPRINGS SEAT–HSR
+Hot Springs Municipal–Elevation: 3,150’
+Airport: 43 22.17N/103 23.50W 
+Base Location on Field: South end of the ramp 
+ROCKY MOUNTAIN
+FAX: (605) 393-8044 
+Base FAX: (605)745-4973 
+Email: 
+winston.cadotte@state.sd.us
+South Dakota Wildland Fire
+Contact: 
+South Dakota Wildland Fire Div. 
+3305 West South Street 
+Rapid City, South Dakota 57702 
+FTR County: Fall River
+Base Operations Phone:
+(605) 745-4972
+Dispatch Office Phone:
+(605) 399-3161
+Dispatch Contact Frequency:
+169.175 Tx Tn103.5
+Base Manager:
+Great Plains Dispatch 
+“Great Plains” 
+“Forest Net” 
+Winston Cadotte
+(605) 381-7267
+Asst. Base Manager:
+Air Attack:
+Winston Cadotte
+(605) 381-7267
+Aviation Operations:
+Dual
+2S
+2D
+Single 
+12.5
+Runway Weight Limits 
+Runway 1-19 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+3
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO 
+1YES
+NO
+1
+SEATs
+Offload Capacity
+YES
+800
+Retardant Jettison Area(s) 
+East side parallel to main Runway 1-19
+Caution: Skydiving, gliders, National Guard Blackhawks train in the area.
+Known 
+Hazards:
+Remarks:
+100LL only.  
+Category II SEAT base 
+Contact base manager for recommended flight pattern.  
+Nearest Jet A Custer, SD. Next Chadron, Neb. 
+1Vendor carded hot fuel only`
+Shipping 
+Address:
+South Dakota Wildland Fire Div. 
+3305 West South Street 
+Rapid City, SD 57702
+Last Revision: 3-23-2018
+NWCG Airtanker Base Directory
+112 of 144
+JEAN SEAT–0L7
+Jean Airport–Elevation: 2,832’
+Airport: 35 46.37N/115 19.75W 
+Base Location on Field: NW Quadrant  
+GREAT BASIN
+FAX: (702) 874-2364 
+Email: r50johns@blm.gov
+Bureau of Land Management 
+Jean Airport Road 
+Jean, Nevada 89019 
+FTR County: Clark
+Base Operations Phone:
+Dispatch Office Phone:
+Las Vegas Interagency Center
+BLM 
+ (702) 874-2363 
+Cell  (702) 467-4437 
+(702) 515-5300
+Dispatch Contact Frequency:
+“ Las Vegas” 
+“Potosi Repeater”
+173.050 CG/Rx 114.8 
+164.475 CG/ Tx 136.5
+Base Manager:
+(702) 874-2363
+Steve McClintock AD/EFF
+SND AV Mgr.:
+Randy Johnson
+Cell (775) 296-0814
+State Aviation Manager:
+Alec Goicoechea (acting)
+(775) 748-4059
+Dual
+2S
+2D
+Single 
+ 12.5
+12.5
+Runway Weight Limits 
+Runway  02L-20R Published: 
+Overweight Agreement: 
+Runway  02R-20L Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+3
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+1 mile east of airport
+Known 
+Hazards:
+Cautions:  Extensive glider activity in vicinity up to 12,000 ft. msl.  
+Ultralight activity on airport. Skydiving drop zone 4 miles south. 
+Aerobatic activities 2 miles west
+Remarks:
+Glider parking east side of field.  
+Power aircraft use traffic pattern west of runway; make entry from west.  
+Power aircraft parking west side of field.  
+* Base Operations–Memorial Day to Labor Day
+Shipping 
+Address:
+Jean SEAT Base 
+Jean Airport Road 
+Jean, NV89019
+Last Revision: 4-04-2018
+NWCG Airtanker Base Directory
+113 of 144
+JOHN DAY SEAT–GCD
+Grant County Regional/Ogilvie Field–Elevation: 3,697’
+Airport: 44 24.40N/118 57.70W 
+Base Location on Field: NE Quadrant 
+NORTHWEST
+FAX: (541) 575-3382 
+Email: 
+johndayseat@gmail.com
+Malheur National Forest 
+Grant County Regional Airport 
+72000 Airport Road 
+John Day, Oregon 97845 
+FTR County: Grant
+USFS
+Base Operations Phone:
+(541) 575-3384
+Dispatch Office Phone:
+John Day Dispatch
+(541) 575-3110
+Dispatch Contact Frequency:
+“ John Day Dispatch”
+172.400
+SEAT Manager:
+Chuck Howe
+(541) 575-3377
+Anthony Hernandez
+(541) 575-3371
+Unit Aviation Officer:
+Dual
+2S
+2D
+Single 
+12.5
+12.5
+Runway Weight Limits 
+Runway  17-35 Published: 
+Overweight Agreement: 
+Runway  09-27 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+4
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+Lat. 44° 18.35’ N Long. 119° 06.5’ W
+Cautions: Active Helibase
+Known 
+Hazards:
+Remarks:
+Shipping 
+Address:
+Shut down on initial load if first time at John Day base. 
+Loading Ramp Location on northeast end of airport. 
+24hr self-service Jet A, 100LL. 
+John Day SEAT Base 
+Grant County Regional Airport 
+72000 Airport Road 
+John Day, OR 97845
+Last Revision: 4-10-2018
+NWCG Airtanker Base Directory
+114 of 144
+KINGMAN SEAT–IGM
+Kingman Airport–Elevation: 3,449’
+Airport: 35 15.95N/113 56.33W 
+Base Location on Field: NW Quadrant 
+SOUTHWEST
+FAX: (928) 692-695 
+Email:
+Bureau of Land Management 
+Kingman Municipal Airport 
+Kingman, AZ 86401 
+FTR County: Mojave
+BLM
+Base Operations Phone:
+(928) 692-6982
+Dispatch Office Phone:
+Prescott Dispatch Center
+(928) 777-5700 
+168.650 Tn 110.9
+Dispatch Contact Frequency:
+“Prescott Dispatch”
+Base Manager:
+2S
+Single 
+45
+Dual 
+85
+2D 
+125
+22
+60
+Runway Weight Limits 
+Runway  03-21 Published: 
+Overweight Agreement: 
+Runway  17-35 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+6
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+Lat. 35° 14.24’ N Long. 113° 51.42’ W
+Cautions:  Ultralight activity to the SW. Frequent Military Helicopter traffic.
+Known 
+Hazards:
+Remarks:
+Unicom 122.8, Can load up to 7 SEAT’s safely with 3 pits
+Shipping 
+Address:
+Kingman SEAT Base 
+Kingman Municipal Airport 
+Kingman, AZ 86401
+Last Revision: 4-02-2018
+NWCG Airtanker Base Directory
+115 of 144
+LAKEVIEW SEAT–LKV
+Lake County Airport–Elevation: 4,733’
+Airport: 42 09.35N/120 24.50W 
+Base Location on Field: SW Quadrant 
+NORTHWEST
+FAX: (541) 947-6191 
+Email: jlsherwood@blm.gov
+Lakeview BLM 
+Lake County Airport 
+Lakeview, Oregon 97630 
+FTR County: Lake
+BLM
+Base Operations Phone:
+(541) 947-6190
+Dispatch Office Phone:
+Lakeview Dispatch
+(541) 947-6315
+Dispatch Contact Frequency:
+“Lakeview”
+167.175
+Base Manager:
+Vacant
+Chad Bergren
+(541) 947-6296
+Unit Aviation Officer:
+2S
+2D
+Single 
+74
+Dual 
+86
+Runway Weight Limits 
+Runway  16-34 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+3
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+Lat. 42° 05.1’ N Long. 120° 37.0’ W
+Known 
+Hazards:
+Cautions:  Birds, Hang Gliders, Ultra Lights, Crop dusters,  
+Firefighting aircraft summers. 
+NE–SW taxiway useable in emergency as X-wind runway
+Remarks:
+Shipping 
+Address:
+Lakeview Airtanker Base 
+1000 South 9th Street 
+Lakeview, OR 97630
+Last Revision: 4-02-2018
+NWCG Airtanker Base Directory
+116 of 144
+LEMMON SEAT–LEM
+Lemmon Municipal–Elevation: 2,573’
+Airport: 45 55.17N/102 06.55W 
+Base Location on Field: South end of the ramp 
+ROCKY MOUNTAIN
+FAX: (605) 393-8044 
+Email: 
+winston.cadotte@state.sd.us
+South Dakota Wildland Fire
+Contact: 
+South Dakota Wildland Fire Div. 
+3305 West South Street 
+Rapid City, South Dakota 57702 
+FTR County: Perkins
+Base Operations Phone:
+SEMG cell
+Dispatch Office Phone:
+Great Plains Dispatch
+(605) 399-3161
+Dispatch Contact Frequency:
+“Forest Net”
+169.175 Tx Tn 103.5
+Base Manager:
+Winston Cadotte
+(605) 381-7267
+Asst. Base Manager:
+Air Attack:
+Winston Cadotte
+(605) 381-7267
+Aviation Operations:
+Dual
+2S
+2D
+Single 
+12.5
+Runway Weight Limits 
+Runway 11-29 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+3
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO 
+1YES
+SEATs
+Offload Capacity
+YES
+800
+Retardant Jettison Area(s) 
+Northeast edge parallel to main Runway  11-29
+Caution: Birds, Spray Operations
+Known 
+Hazards:
+Remarks:
+100LL, Jet A  
+Category II SEAT base 
+Call for fuel service  
+1Vendor carded hot fuel only
+Shipping 
+Address:
+South Dakota Wildland Fire Div. 
+3305 West South St. 
+Rapid City, SD 57702
+Last Revision: 3-23-2018
+NWCG Airtanker Base Directory
+117 of 144
+LEWISTOWN SEAT–LWT
+Lewistown Municipal–Elevation: 4,167’
+Airport: 47 02.00N/109 27.37W 
+Base Location on Field:  Quadrant 
+NORTHERN ROCKIES
+FAX: (406) 538-1062 
+Email: blm_mt_lec@blm.gov
+North Central MT Fire District 
+Mailing: 920 NE Main St 
+Physical: 303 E Aztec Dr. 
+Lewistown, MT 59457 
+FTR County: Fergus
+BLM
+Base Operations Phone:
+Manager/Pilot Office
+(406) 538-1072
+Dispatch Office Phone:
+(406) 538-1072
+Dispatch Contact Frequency:
+168.650 Rx/Tx 110.9
+Base Manager:
+Lewistown Dispatch 
+“Lewiston Dispatch” 
+“National FF” 
+Bob Farrell
+(406) 538-1072
+2S
+Single 
+ 40
+Dual 
+55
+2D 
+ 95
+12
+80
+120
+Runway Weight Limits 
+Runway  08-26 Published: 
+Overweight Agreement: 
+Runway  03-21 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+5
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+Lat: 47º  02.00’ N Long 109º 28.00’ W
+Known 
+Hazards:
+Cautions:  Rwy. 2/20 Poor surface.  
+Ag and Frequent Military Helicopter traffic.
+Remarks:
+FBO–Skyline Aviation (406) 538-8150  100LL & Jet A available 
+Jerry Moline Airport Manager (406) 350-3264
+Shipping 
+Address:
+North Central MT Fire District 
+920 NE Main St 
+Lewiston, MT 59457
+Last Revision: 3-23-2018
+NWCG Airtanker Base Directory
+118 of 144
+McDERMITT SEAT–26U
+McDermitt State Airport (OR/NV) - Elevation: 4,478’
+Airport: 42 00.62N/117 43.63W 
+Base Location on Field: SE Quadrant 
+GREAT BASIN
+FAX: (541) 522-8702 
+Email: mloan@blm.gov
+Bureau of Land Management 
+Winnemucca District 
+5100 E. Winnemucca Blvd 
+Winnemucca, NV 89445 
+FTR County: Humboldt, NV
+BLM
+Base Operations Phone:
+(541) 522-8701
+Dispatch Office Phone:
+(775) 623-1555
+Dispatch Contact Frequency:
+Central Nevada Interagency Dispatch 
+Center 
+Local Flight Following “Central 
+Nevada”
+Base Manager:
+169.0875 Tx/Rx  
+Tn 114.8 
+(541) 522-8701
+Mary Loan
+(775) 623-2397
+UAM:
+Dual
+2S
+2D
+Single 
+125
+Runway Weight Limits 
+Runway  16-34 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+3
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+1500
+Retardant Jettison Area(s) 
+Contact Base
+Known 
+Hazards:
+Cautions:  Pit area directly adjacent to tie downs-may need to maneuver around GA aircraft; 
+Runway surface cracked with some vegetation in cracks; Military SUA/training routes in area
+Remarks:
+NO FUEL.  Base is located just N of NV/OR state line in Malheur County, OR; lodging 
+in McDermitt, NV, or Winnemucca, NV (Humboldt County, NV).
+Shipping 
+Address:
+Winnemucca District BLM 
+5100 E. Winnemucca Blvd. 
+Winnemucca, NV 89445
+Last Revision:3-23-2018
+NWCG Airtanker Base Directory
+119 of 144
+MESQUITE SEAT–67L
+Mesquite Airport–Elevation: 1975’
+Airport: 36 49.97N/114 03.52W 
+Base Location on Field: SW Quadrant 
+GREAT BASIN
+Bureau of Land Management 
+Mesquite Airport 
+Mesquite, NV 89027
+FAX: (702) 346-7405 
+Email: 
+ mesquiteseatbase@yahoo.com
+BLM
+FTR County: Clark
+Base Operations Phone:
+(702) 346-7404 
+Cell  (702) 274-3279
+Dispatch Office Phone:
+(702) 515-5300
+Dispatch Contact Frequency:
+Base Manager:
+Las Vegas Interagency Dispatch 
+Center 
+“Las Vegas Dispatch” 
+“West Mountain repeater” 
+Bryan or Dave
+173.050 CG/Rx 114.8 
+164.475 CG/Tx 156.7 
+(702) 540-2245
+SND Av. Mgr.:
+Randy Johnson
+Cell (775) 296-0814
+State Aviation Manager:
+Alec Goicoechea (Acting)
+(775) 748-4059
+Dual
+2S
+2D
+Single 
+30
+Runway Weight Limits 
+Runway  01-19 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+3
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+Contact Base
+Cautions:  Mountains to east. Sky Diving and Glider operations
+Known 
+Hazards:
+Remarks:
+Runway length 5,100’,  CTAF 122.8, 100LL & Jet A
+Shipping 
+Address:
+Mesquite SEAT Base 
+Mesquite Airport 
+Mesquite, NV 89027
+Last Revision: 4-04-2018
+NWCG Airtanker Base Directory
+120 of 144
+MILES CITY SEAT–MLS
+Frank Wiley Field Airport–Elevation: 2,630’
+Airport: 46 25.57N/105 52.62W 
+Base Location on Field: NE Quadrant 
+NORTHERN ROCKIES
+FAX: (406) 234-5470 
+Email: elespito@blm.gov
+BLM
+Eastern Montana/Dakotas District 
+(EMDD) 
+Eastern Montana Fire Zone 
+111 Garryowen Road 
+Miles City, MT  59301 
+FTR County: Custer
+Base Operations Phone:
+(406) 234-7592
+Dispatch Office Phone:
+Miles City Dispatch
+(406) 233-2900
+Dispatch Contact Frequency:
+Miles City Dispatch
+Unit Aviation Manager:
+Rick Lang
+168.650 Rx/Tx 110.9 
+(406) 234-7592 
+Cell (406) 853-0285
+2S
+2D
+Single 
+24
+Dual 
+24
+38
+55
+85
+Runway Weight Limits 
+Runway  04-22 Published: 
+Overweight Agreement: 
+Runway  12-30 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+4-6
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+Contact Base: (NW area of airport on north side of runway 12) 
+Lat. 46° 25.98N, Long. 105° 53.33W. 
+Diagram in unit SEAT supplement.
+Cautions: Airline commuter and Ag/Spray aircraft. Other fire aircraft common
+Known 
+Hazards:
+Remarks:
+FBO available, AV Gas, and Jet A, evening call out for fuel. Self-serve AV gas also.  
+Airbase hosts SMJ spike base, helicopters, and air attack platforms.
+Shipping 
+Address:
+Last Revision: 2-21-2017
+NWCG Airtanker Base Directory
+121 of 144
+MINDEN-TAHOE SEAT–MEV
+Minden-Tahoe Airport–Elevation: 4,722’
+Airport: 39 00.58N/119 45.30W 
+Base Location on Field: NW Quadrant 
+GREAT BASIN
+FAX:  
+Email: scharley@blm.gov
+BLM Carson City District 
+& 
+Humboldt Toiyabe NF 
+FTR County: Douglas
+USFS & BLM & NDF
+Base Operations Phone:
+Admin. Contact Shane Charley
+Dispatch Office Phone:
+Dispatch Contact Frequency:
+Base Manager:
+(775) 885-6182 
+(775) 720-3411 
+(775) 782-1401 
+169.9875 Rx/Tx  
+Tone: Rx/Tx 110.9 
+(775) 721-7401
+Project Inspectors:
+Minden Dispatch 
+“Minden Dispatch” 
+ “on Local” 
+Andy Garrell 
+Shane Charley (775) 720-3411 
+Andy Garrell (775) 721-7401
+2S
+2D
+Single 
+50.0
+Dual 
+75.0
+50.0
+Runway Weight Limits 
+Runway  16-34 Published: 
+Overweight Agreement: 
+Runway  12-30 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+4-6
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+2
+NO
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+LAT: 39 04’ 34”    LONG: 119 40’ 34”
+Cautions: Sailplane and parachute activity on/in vicinity of airport.
+Known 
+Hazards:
+Remarks:
+FBO available, AV Gas, and Jet A. 
+Airbase can host T1, T2, T3 helicopters, and air attack platforms. 
+CWN Base with 10K LC tank in place, activated when needed.
+Shipping 
+Address:
+Last Revision: 4-15-2018
+NWCG Airtanker Base Directory
+122 of 144
+MOUNTAIN HOME SEAT–U76
+Mountain Home Municipal Airport–Elevation: 3,164’
+Airport: 43 07.70N/115 43.73W 
+Base Location on Field: SE Quadrant 
+GREAT BASIN
+FAX: (208) 587-9752 
+Email: 
+nstrohme@blm.gov
+2620 Airbase Road 
+Mountain Home, ID 83647 
+FTR County: Elmore
+BLM
+Base Operations Phone:
+(208) 587-5281
+Dispatch Office Phone:
+Boise Interagency Dispatch Center
+(208) 384-3398
+Dispatch Contact Frequency:
+“Boise Dispatch”
+168.425
+Base Manager:
+Miguel Bilbao
+(208) 871-7549
+2S
+2D
+Single 
+42
+Dual 
+ 53
+Runway Weight Limits 
+Runway  10-28 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+6
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+2
+YES
+SEATs
+Offload Capacity
+YES
+N/A
+Retardant Jettison Area(s) 
+Lockman Butte N. side of I-84: Lat. 43º 12. 51’ N Long. 115º 43.30’ W
+Known 
+Hazards:
+Cautions:  Air Force Base (Class D Airspace), 7 Miles SW of airport.  AFB approach 124.8, 
+NDB 333 STI, 3.3nm east of AFB. High performance military aircraft operations in area. 2 
+Restricted  areas  nearby:  R-3202  and  R-3202.  All  airspace  south  of  the  Snake  River  is 
+classified as MOA. Extensive agriculture operations to/from airport. Marked power lines ¼ 
+mile east of RWY 28 threshold. Power lines along the Snake River crossing the canyon, 
+some marked some not. Numerous cell phone towers along I-84.
+Remarks:
+Aircraft parking at GA ramp, loading at east end of runway 28. FBO lounge available, 
+100LL fuel, bulk jet fuel available in Boise or Gooding. 
+FBO (208) 587-3585, Alt FBO# 208-598-1653 (airport manager cell)
+Shipping 
+Address:
+Boise District BLM 
+3948 S. Development Ave. 
+Boise, ID 83705
+Last Revision: 4-04-2018
+NWCG Airtanker Base Directory
+123 of 144
+OMAK SEAT–OMK
+Omak Airport–Elevation: 1,305’
+Airport: 48 27.53N/119 31.07W 
+Base Location on Field: Quadrant 
+NORTHWEST
+FAX: (509) 826-5966 Base 
+FAX: (509) 634-3149 
+Email: omak.airbase@gmail.com
+Colville Indian Reservation 
+P.O. Box 325 
+Keller, WA 99140 
+FTR County: Okanogan
+BIA
+Base Operations Phone:
+(509) 826-1609
+Dispatch Office Phone:
+Mt. Tolman Dispatch Center
+(509) 634-3105
+Dispatch Contact Frequency:
+“Mt. Tolman”
+172.300
+Base Manager:
+2S
+Runway Weight Limits
+Single 
+75
+Debra Tonasket 
+Dual 
+200
+(509) 634-3114 
+2D 
+400
+Runway  17-35 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+4
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s)
+Cautions:
+Known 
+Hazards:
+Remarks:
+Shipping 
+Address:
+102J Omak Airport Rd 
+Omak, WA 98841
+Last Revision: 3-2-2018
+NWCG Airtanker Base Directory
+124 of 144
+ONTARIO SEAT–ONO
+Ontario Municipal–Elevation: 2,193’
+Airport: 44 01.32N/117 00.62W 
+Base Location on Field: NE Quadrant 
+NORTHWEST
+Email: brindlis@blm.gov
+Vale District Bureau of Land 
+Management 
+581 SW 33rd ST. Suite# 104 
+Ontario, Oregon 97914 
+FTR County: Malheur
+BLM
+Base Operations Phone:
+(541) 889-4267
+Dispatch Office Phone:
+(541) 473-6295
+Dispatch Contact Frequency:
+172.1125 RX & TX
+SEAT Base Manager:
+Vale Dispatch 
+“Vale” 
+“Jordan Direct” 
+Brian R. Rindlisbacher
+(208) 741-0723
+Unit Aviation Officer:
+Jessica Sherwood
+(541) 589-0004
+Albert Linch
+(208) 830-1101
+Air Attack:
+2S
+2D
+Single 
+30
+Dual 
+50
+Runway Weight Limits 
+Runway 03R-21L Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+8
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+YES
+SEATs
+Offload Capacity
+YES
+800
+Retardant Jettison Area(s) 
+Contact Base
+Known 
+Hazards:
+Remarks:
+Caution: 2 crop spraying operations working out of airport from early April into late 
+October.  Birds  RC  Models  
+ Fuel: 100LL Low-Lead, Jet A 
+Frazier Aviation  
+ Hours: Mon–Sat, 8:00 AM–6:00 PM 
+ Phone Number: 541-889-9197
+Shipping 
+Address:
+Ontario SEAT Base 
+3200 SW 4th Ave.  
+Ontario, OR 97914
+Last Revision: 4-10-2018
+NWCG Airtanker Base Directory
+125 of 144
+PANACA SEAT–1L1
+Lincoln County Airport–Elevation: 2,193’
+Airport: 37 47.53N/114 25.18W 
+Base Location on Field: SE Quadrant 
+GREAT BASIN
+FAX: (775) 728-4511 
+Email: r50johns@blm.gov
+Bureau of Land Management 
+Airport Road 
+Panaca, Nevada 89042 
+FTR County: Lincoln
+BLM
+Base Operations Phone:
+Dispatch Office Phone:
+ELY Interagency Comm. Center
+Dispatch Contact Frequency:
+“Ely Dispatch”
+Base Manager:
+As assigned
+ELD Av. Mgr.:
+Randy Johnson
+(775) 728-4204 
+Cell (775) 293-3291 
+(775) 289-1925 
+170.025 CG Tx/Rx 
+123.0 
+(775) 728-4204 
+Cell (775) 293-3291 
+Cell (775) 296-0814
+State aviation Manager:
+Alec Giocoehea (acting)
+(775) 748-4059
+Dual
+2S
+2D
+Single 
+12.5
+Runway Weight Limits 
+Runway  17-35 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+3
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+1 Mile west of airport
+Known 
+Hazards:
+Cautions:  High volume Military training activity.  
+Special Use Airspace–Desert MOA
+Remarks:
+Base Operations–Mid May to early September  
+Local Unicom 122.8
+Shipping 
+Address:
+Bureau of Land Management 
+585 Panaca, NV 89042
+Last Revision: 4-04-2018
+NWCG Airtanker Base Directory
+126 of 144
+PIERRE SEAT–PIR
+Pierre Regional–Elevation: 1,744’
+Airport: 44 03.53N/101 36.55W 
+Base Location on Field: SW edge of ramp 
+ROCKY MOUNTAIN
+FAX: (605) 393-8044 
+Email: 
+winston.cadotte@state.sd.us
+South Dakota Wildland Fire
+Contact: 
+South Dakota Wildland Fire Div. 
+3305 West South Street 
+Rapid City, South Dakota 57702 
+FTR County: Hughes
+Base Operations Phone:
+SEMG cell
+Dispatch Office Phone:
+(605) 399-3161
+Dispatch Contact Frequency:
+169.175 Tx Tn 103.5
+Base Manager:
+Great Plains Dispatch 
+“Great Plains” 
+“Forest Net” 
+Winston Cadotte
+(605) 381-7267
+Asst. Base Manager:
+Air Attack:
+Winston Cadotte
+(605) 381-7267
+Aviation Operations:
+Single 
+91 
+91
+Dual 
+108 
+114
+2D 
+168  
+180
+Runway Weight Limits 
+Runway 13-31 Published: 
+Runway 7-25 Published:
+2S 
+137 
+145
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+1
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO 
+YES1
+SEATs
+Offload Capacity
+YES
+800
+Retardant Jettison Area(s) 
+Northeast edge parallel to main Runway  13-31
+Caution: No line of sight on ends of runway, aircraft w/o radios.
+Known 
+Hazards:
+Remarks:
+100LL, Jet A  
+Category II SEAT base 
+Spray plane operations 
+1Vendor Carded Hot fuel only
+Shipping 
+Address:
+South Dakota Wildland Fire Div. 
+3305 West South Street 
+Rapid City SD 57702
+Last Revision: 3-23-2018
+NWCG Airtanker Base Directory
+127 of 144
+PLAINS SEAT–S34
+Plains Airport–Elevation: 2,462’
+Airport: 47 28.45N/114 54.30W 
+Base Location on Field:  Quadrant 
+NORTHERN ROCKIES
+FAX: (406) 826-4044 
+Email: bbennett02@fs.fed.us
+Lolo National Forest 
+Building 24 Fort Missoula 
+Missoula, MT 59804 
+FTR County: Sanders
+USFS
+Base Operations Phone:
+(406) 826-3061
+Dispatch Office Phone:
+Plains Dispatch
+(406) 826-3061
+Dispatch Contact Frequency:
+“Plains Dispatch”
+164.9125 Tn 123.0
+SEAT Manager:
+Bobbie Bennett
+(406) 826-3061
+Beau Dobberstien
+(406) 329-1075
+Forest Aviation Officer:
+Jesse Best
+(406) 751-2243
+MT-DNRC NWLO AFMO:
+2S
+2D
+Single 
+12.5
+Dual 
+18
+Runway Weight Limits 
+Runway  13-31 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+1-5
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+LAT: N 47 36.821   LONG: W 115 04.069
+Known 
+Hazards:
+Remarks:
+The jettison area is a ridgetop 11 miles northwest of Plains airport. The area is on top of an 
+old wildfire and the retardant would cause no environmental concerns.  
+Runway Length: 4,650 ft.
+Shipping 
+Address:
+Montana DNRC NWLO 
+655 Timberwolf Parkway Ste 1  
+Plains, MT 59901
+Last Revision: 3-23-2018
+NWCG Airtanker Base Directory
+128 of 144
+PRINCETON SEAT–PNM
+Princeton Municipal Airport–Elevation: 979’
+Airport: 45 33.65N/93 36.37W 
+Base Location on Field: E Quadrant 
+EASTERN
+FAX: (218) 327-4528 
+Email: 
+matthew.woodwick@state.mn.us
+Minnesota DNR
+Princeton Airport 
+Minnesota  
+Dept. of Natural Resources 
+402 SE 11th St. 
+Grand Rapids, MN 55744 
+FTR County: Mille Lacs
+Base Operations Phone:
+(763) 389-7845
+Dispatch Office Phone:
+(218) 327-4582
+Open as needed1 
+MN Interagency Coordination 
+Center
+Dispatch Contact Frequency:
+“Fire Center”
+Air Net–151.370  
+Tn 136.5
+Base Manager:
+Asst. Base Manager:
+Single
+Dual
+2S
+2D
+Runway Weight Limits 
+Runway 15-33 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES2
+LATs
+Parking Total
+Fuel and Load
+NO
+3
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+Lat: 45° 25' 39.660" N 
+Long: 93° 43' 12.180" W
+Known 
+Hazards:
+Remarks:
+1Please call Fixed-Wing Operations Specialist for status. Paul Wannarka. 
+(218)322-2728. 
+2Hot Loading for SEATs only. 
+Contact base by radio for parking instructions (120.1250) 
+No cross wind runway.
+Shipping 
+Address:
+Last Revision: 02-14-2017
+NWCG Airtanker Base Directory
+129 of 144
+RAWLINS SEAT–RWL
+Rawlins Municipal Airport–Elevation: 6,813’
+Airport: 41 47.98N/107 12.42W 
+Base Location on Field: E Quadrant 
+ROCKY MOUNTAIN
+FAX: (307) 328-7107 
+Email: mrandall@blm.gov
+Bureau of Land Management 
+Rawlins Municipal Airport 
+Rawlins, WY  
+FTR County: Carbon
+BLM
+Base Operations Phone:
+(307) 328-7106
+Dispatch Office Phone:
+Rawlins Dispatch
+(800) 295-9953
+Dispatch Contact Frequency:
+“Rawlins Dispatch”
+168.650 Tn 110.9
+Base Manager:
+Vacant
+Unit Aviation Manager:
+Mark Randall
+(307) 367-5350
+2S
+2D
+Single 
+30
+Dual 
+60
+Runway Weight Limits 
+Runway  04-22 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+4
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEAT
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+41° 54.28’ N x 107° 11.7’ W  (7 miles N of RWL) 
+41° 50.06’  N x 107° 23.55’ W (11 miles WNW of RWL)
+Cautions:  Runway 10/28 Large Cracks–Sloughing Edges
+Known 
+Hazards:
+Birds Feb-May, Sep-Oct  
+Runway 10/28 Crane often parked 1,452 ft. from approach, 64 ft. above runway end. 
+7,800’ Mt. 3 miles W. 7200’ Mt. 3 miles SW. 7200’ Mt. 3 miles NE. 
+Runway 10/28 limited to aircraft less than 12,000 lbs. GWT.
+Remarks:
+•  Unicom 123.0 
+•  100 LL, Jet A
+Shipping 
+Address:
+High Desert District 
+1300 N. Airport Road 
+Rawlins, WY 82301
+Last Revision: 4-04-2018
+NWCG Airtanker Base Directory
+130 of 144
+RIFLE SEAT–RIL
+Rifle/Garfield County Regional Airport–Elevation: 6,813’
+Airport: 39 31.43N/107 43.15W 
+Base Location on Field: West end of ramp, N of the fuel station. 
+ROCKY MOUNTAIN
+FAX:  
+Email:  
+c1hammon@blm.gov 
+vince.welbaum@state.co.us
+Bureau of Land Management 
+Garfield County Regional 
+Rifle, CO  
+FTR County: Garfield
+BLM
+Base Operations Phone:
+SEMG cell
+Dispatch Office Phone:
+Grand Junction Dispatch
+(970) 257-4800
+Dispatch Contact Frequency:
+Base Manager:
+2S
+“Grand Junction Dispatch” 
+Adam Goeden 
+Clinton Bellinger 
+Dual 
+200
+Single 
+ 90
+168.650 Tn 110.9 
+(970) 683-7710 
+(303) 880-0169 
+2D 
+250
+Runway Weight Limits 
+Runway  08-26 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+4+
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+39 36.00N/170 42.00W
+Cautions:  Parachuting on and in vicinity of airport.  Runway slick when wet.
+Known 
+Hazards:
+Remarks:
+•  RWY 26 right traffic. 
+•  Fuel available 24 hours, self-service. 
+•  100LL, Jet A. 
+•  Category 1 SEAT Base. 
+•  Water Enhancer available.
+Shipping 
+Address:
+Last Revision: 2-13-2018
+NWCG Airtanker Base Directory
+131 of 144
+RIVERTON SEAT–RIW
+Riverton Regional Airport–Elevation: 5,528’
+Airport: 43 03.85N/108 27.58W  
+Base Location on Field–South end of ramp
+ROCKY MOUNTAIN
+Bureau of Land Management 
+Riverton Regional Airport 
+Riverton, WY 
+FTR County: Fremont
+FAX: (307) 578-5759 
+Cody Dispatch 
+Email: 
+rzimmerl@blm.gov
+BLM
+Base Operations Phone:
+SEMG Cell
+Dispatch Office Phone:
+Cody Dispatch
+(800) 295-9954
+Dispatch Contact Frequency:
+“Cody Dispatch”
+168.650 TX Tn 110.9
+SEAT Manager:
+No permanent management
+Unit Aviation Manager:
+Rich Zimmerlee
+(307) 347-5188
+ST
+DT
+Single 
+85
+Dual 
+110
+Runway Weight Limits 
+Runway 10-28 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+4
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+43 55’47.26” N 107 56’ 33.14” W (approx. 2.5 miles South of the airport)
+Caution: Aerial Hazards Map posted at Base.
+Known 
+Hazards:
+Remarks:
+•  Unicom/CTAF: 122.8 
+•  WX ASOS: 121.425 
+•  For service outside of 0700-1700 call 307-856-3599 
+•  GA aircraft not authorized on West ramp
+Shipping 
+Address:
+Riverton SEAT Base 
+1335 Main Street 
+Lander, WY 82520
+Last Revision:  4-04-2018
+NWCG Airtanker Base Directory
+132 of 144
+RONAN SEAT–7SO
+Ronan Airport–Elevation: 3,086’
+Airport: 47 34.00N/114 06.17W 
+Base Location on Field: Mid field, North ramp 
+NORTHERN ROCKIES
+FAX: (406) 676-2554 
+Email: toddc@cskt.org
+Flathead Agency 
+CS&KT/Div of Fire 
+44592 Old US Hwy 93 
+Ronan, MT 59864 
+FTR County: Lake
+BIA
+Base Operations Phone:
+Todd Couture
+(406) 676-2550
+Dispatch Office Phone:
+Missoula Dispatch
+(406) 676-2550
+Dispatch Contact Frequency:
+“Missoula Dispatch”
+166.925 Tx Rx
+SEAT Manager:
+Robert D. McCrea
+(406) 676-2550
+Single
+Dual
+2S
+2D
+Runway Weight Limits 
+Runway  16-34 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+1-5
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+Between Taxiway and Runway, North end
+Cautions:  15’ road, 1,125’ from runway 16
+Known 
+Hazards:
+Remarks:
+Runway length-4800’
+Shipping 
+Address:
+Flathead Agency CS&KT/Div of Fire 
+44592 Old US Hwy 93 
+Ronan, MT 59864
+Last Revision: 4-10-2018
+NWCG Airtanker Base Directory
+133 of 144
+RUIDOSO SEAT–SRR
+Sierra Blanco Regional Airport–Elevation: 6,814’
+Airport: 33 27.92N/105 31.12W 
+Base Location on Field: NE Quadrant. 
+SOUTHWEST
+FAX: (505) 336-1533 
+Email:
+Forest Service/BLM/BIA 
+Ruidoso Municipal Airport 
+Ruidoso, NM 88312 
+FTR County: Lincoln
+USFS & BLM & BIA
+Base Operations Phone:
+(505) 336-1263
+Dispatch Office Phone:
+Alamogordo Dispatch
+(505) 434-2286
+Dispatch Contact Frequency:
+“Alamogordo Dispatch”
+169.125
+Base Manager:
+2S
+2D
+Single 
+60
+Dual 
+115
+Runway Weight Limits 
+Runway  06-24 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+6
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s)
+Known 
+Hazards:
+Cautions:  White Sands Missile Range and numerous restricted areas. Brief with Base 
+Manager about contact with Cherokee control.
+Remarks:
+Contact Alamogordo Dispatch for activation information.
+Shipping 
+Address:
+Ruidoso SEAT Base 
+Ruidoso Municipal Airport 
+Ruidoso, NM 88312
+Last Revision: 4-10-2018
+NWCG Airtanker Base Directory
+134 of 144
+SAFFORD SEAT–SAD
+Safford Regional Airport–Elevation: 3,177’
+Airport: 32 51.15N/109 38.42W 
+Base Location on Field: Central 
+SOUTHWEST
+FAX: (928) 348-8075 
+Email:
+BLM Safford Air Operations Center 
+Airport Road 
+Safford, AZ 85546 
+FTR County: Graham
+BLM
+Base Operations Phone:
+(928) 348-9120
+Dispatch Office Phone:
+Tucson Interagency Dispatch
+(520) 202-2710
+Dispatch Contact Frequency:
+“Tucson Dispatch”
+SEAT Manager:
+Vacant
+Dual
+2S
+2D
+Single 
+33
+Runway Weight Limits 
+Runway  12-30 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+2
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+Directly north of the BLM Air Operations Center inside fence
+Cautions:  Possible mine blasting just north of airport
+Known 
+Hazards:
+Remarks:
+FBO: (928) 428-7670
+Shipping 
+Address:
+Safford Field Office 
+711 14th Avenue 
+Safford, AZ 85546
+Last Revision: 4-04-2018
+NWCG Airtanker Base Directory
+135 of 144
+SHOW LOW SEAT–SOW
+Show Low Airport–Elevation: 6,415’
+Airport: 34 15.92N/110 0.340W 
+Base Location on Field: Center of Field 
+SOUTHWEST
+Email: Showlowseatbase@gmail.com
+Bureau of Indian Affairs 
+ Ft. Apache Fire and Aviation 
+PO Box 560 
+Whiteriver, AZ 85941 
+FTR County: Navajo
+BIA
+Base Operations Phone:
+Dispatch Office Phone:
+Show Low Dispatch Center
+Dispatch Contact Frequency:
+“Show Low”
+SEAT Manager:
+(928) 532-2700 
+NNF 168.650 Tn110.9 
+TX/RX 
+Cell(928) 245-1798
+Mark Empey
+Mark Empey
+Cell(928) 245-1798
+Unit Aviation Officer:
+Dual
+2S
+2D
+Runway Weight Limits 
+03/21, 06/24
+Single 
+35
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+4
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+N/A
+NO
+SEATs
+Offload Capacity
+YES
+1500
+Retardant Jettison Area(s) 
+North side of field 34 15.9467N/110 0.7841W Notify FBO prior on 123.0
+Known 
+Hazards:
+Cautions: Military Traffic Near Airport 
+Part 77 Obstructions–Wind Sock in 7/1/Transition
+Remarks:
+Runway 06/24 7200’ x 100’  Runway 03/21  Runway 03/21938’ x 60’ 
+Call FBO on 123.0 for full service fuel or (928) 532-4192
+Shipping Address:
+1400 Airport Drive 
+Show Low, AZ 85901
+Last Revision: 4-10-2018
+NWCG Airtanker Base Directory
+136 of 144
+TOOELE SEAT–TVY
+Tooele Valley Airport–Elevation: 4,321’
+Airport: 40 36.53N/112 20.88W 
+Base Location on Field: S Quadrant 
+GREAT BASIN
+FAX: (435) 843-5170 
+Email: jseng@blm.gov
+West Desert District– BLM 
+Tooele Valley–Erda Airport 
+FTR County: Tooele
+BLM
+Base Operations Phone:
+(435) 843-5302
+Dispatch Office Phone:
+Northern Utah Dispatch
+Dispatch Contact Frequency:
+“Northern Utah”
+SEAT Manager:
+Carol Adams
+(801) 495-7600 
+170.5125Rx 163.025Tx 
+Tn 136.5 
+(801) 503-8337
+Jeremy Seng
+(602) 361-4753
+UAM:
+Dual
+2S
+2D
+Single 
+30
+Runway Weight Limits 
+Runway  17-35 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+3
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+NONE
+Retardant Jettison Area(s) 
+Lat. 40º 27.51’ N Long 112º 25.29’ W (11 Miles SW of airport)
+Known 
+Hazards:
+Cautions:  Sky Dive operations/BLM Helibase at the same location to the North. NO Jet 
+A for sale.
+Remarks:
+•  Runway length 6,100’, X 100’ 
+•  CTAF/Unicom 123.0 
+•  Self-Serve 100LL available 
+•  WX AWOS-3: 119.725–(435) 882-6648
+Shipping 
+Address:
+Tooele SEAT Base 
+C/O Jeremy Seng UAM 
+2370 S. Decker Lake Blvd. 
+WVC, UT 84119
+Last Revision: 4-10-2018
+NWCG Airtanker Base Directory
+137 of 144
+VALENTINE SEAT–VTN
+Valentine Municipal–Elevation: 2,591’
+Airport: 42 51.78N/100 33.43W 
+Base Location on field: S Quadrant 
+ROCKY MOUNTAIN
+Email: jnickless@unl.edu
+Nebraska Forest Service 
+113 N Woodward St Ste A 
+Ainsworth, NE 69210 
+FTR County: Cherry
+Nebraska State
+Base Operations Phone:
+(402) 760-1930
+Dispatch Office Phone:
+Great Plains Dispatch
+(605) 399-3161
+Dispatch Contact Frequency:
+“ Great Plains Dispatch” Forest Net
+169.175 Tx Tn103.5
+SEAT Manager:
+Justin Nickless
+(402) 760-1930
+2S
+2D
+Dual 
+42.5
+Single 
+30.0 
+12.5
+Runway Weight Limits 
+Runway: 14/32 
+3/21 
+Overweight Agreement
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+3
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO 
+1YES
+NO
+1
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+Adjacent or Parallel to the Runway away from city well north side of property.
+Cautions:  General Aviation and Commercial Aviation.
+Known 
+Hazards:
+Remarks:
+100 LL & Jet A 
+Unicom 122.8 
+1 Contracted Vender Hot Refueling only
+Shipping 
+Address:
+Valentine SEAT Base 
+500 N S Hall 
+ST Valentine, NE 69201-0177
+Last Revision: 3-23-2018
+NWCG Airtanker Base Directory
+138 of 144
+VERNAL SEAT–VEL
+Vernal Regional Airport–Elevation: 5,278’
+Airport: 40 26.45N/109 30.58W 
+Base Location on Field: NW Quadrant 
+GREAT BASIN
+FAX: (435) 789-9795 
+Dispatch 
+Email: 
+cnelson@fs.fed.us
+Vernal BLM Fire Center 
+430 E.  100S. 
+Vernal, UT 84078 
+FTR County: Uintah
+BLM
+Base Operations Phone:
+None
+Dispatch Office Phone:
+(435) 789-7021
+Dispatch Contact Frequency:
+168.650 Tn 110.9
+Base Manager:
+None
+Asst. Base Manager:
+None
+None
+Air Attack:
+Christopher Deets
+(435) 630-5929
+Unit Aviation Manager:
+2S
+2D
+Single 
+45,000
+Dual 
+55,000
+Runway Weight Limits 
+Runway 16/34 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+3
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+0
+Retardant Jettison Area(s) 
+Lat. 40º 20’ 13.28”N  Long.109º 39’ 07.5”W
+Caution:
+Known 
+Hazards:
+Remarks:
+Call dispatch for information.
+Shipping 
+Address:
+Last Revision: 12-03-2015
+NWCG Airtanker Base Directory
+139 of 144
+WARROAD SEAT–RRT
+Warroad International Airport–Elevation: 1,076’
+Airport: 48 56.80N/95 21.50W 
+Base Location on Field: SC Quadrant 
+EASTERN
+FAX: (218) 327-4528 
+Email:  
+matthew.woodwick@state.mn.us
+Minnesota DNR
+Warroad Airport 
+Minnesota  
+Dept. of Natural Resources 
+402 SE 11th St. 
+Grand Rapids, MN 55744 
+FTR County: Roseau
+Base Operations Phone:
+(218) 386-1132
+Dispatch Office Phone:
+(218) 327-4582
+1Open as needed 
+MN Interagency Coordination 
+Center
+Dispatch Contact Frequency:
+“Fire Center”
+Air Net–151.370 
+Tn 136.5
+Base Manager:
+Asst. Base Manager:
+Single
+Dual
+2S
+2D
+Runway Weight Limits 
+Runway 13-31 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+1
+YES2
+LATs
+Parking Total
+Fuel and Load
+NO
+3
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s) 
+Lat: 48° 55.33’ N 
+Long: 95° 20.12’ W
+Known 
+Hazards:
+Remarks:
+1Please call Fixed-Wing Operations Specialist for status. Paul Wannarka. 
+(218)322-2728. 
+2Hot Loading for SEATs only. 
+Contact base by radio for parking instructions (120.1250)
+Shipping 
+Address:
+Last Revision: 03-1-2017
+NWCG Airtanker Base Directory
+140 of 144
+WELLS SEAT–LWL
+Wells Municipal/Harriet Field–Elevation: 5,772’
+Airport: 41 06.90N/114 55.57W 
+Base Location on Field: SW Quadrant 
+GREAT BASIN
+Bureau of Land Management 
+3900 East Idaho Street 
+Elko, Nevada 89801
+FAX: (775) 752-2190 
+Email: mmichelsen@blm.gov
+FTR County: Elko
+BLM
+Base Operations Phone:
+(775) 752-2190
+Dispatch Office Phone:
+Dispatch Contact Frequency:
+SEAT Manager:
+Elko Dispatch 
+“Elko” 
+“Local FF” 
+Vacant
+(775) 748-4000 
+172.750 Tone: RX/TX 
+123.0 
+(775) 752-2190
+Alec Goicoechea
+(775) 748-4023
+UAM:
+Dual
+2S
+2D
+Single 
+25
+Runway Weight Limits 
+Runway  08-26 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+4
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+5,000
+Retardant Jettison Area(s) 
+Contact Base
+None
+Known 
+Hazards:
+Remarks:
+Base Operations–June 01 to September 30
+Shipping 
+Address:
+Last Revision: 2-15-2017
+NWCG Airtanker Base Directory
+141 of 144
+WINNEMUCCA SEAT–WMC
+Winnemucca Municipal Airport–Elevation: 4,308’
+Airport: 40 53.80N/117 48.35W 
+Base Location on Field: NW Quadrant 
+GREAT BASIN
+FAX: (775) 623-6726 
+Email: mloan@blm.gov
+Bureau of Land Management 
+Winnemucca Airport 
+5500 Jay’s Road 
+Winnemucca, Nevada 89445 
+FTR County: Humboldt
+BLM
+Base Operations Phone:
+Dispatch Office Phone:
+(775) 623-2397  
+(775) 623-1555 
+(775) 623-1558
+Dispatch Contact Frequency:
+169.0875 Tx/Rx Tn 114.8
+Central Nevada (CNIDC) 
+Aircraft Desk 
+Local Flight Following “Central 
+Nevada”
+Base Manager:
+Mary Loan
+Mary Loan
+(775) 623-2397 
+Cell (775) 304-1021 
+(775) 623-2397
+Zone UAM:
+2S
+Single 
+75
+Dual 
+125
+2D 
+200
+Runway Weight Limits 
+Runway  14-32 Published: 
+Overweight Agreement:
+VLATs
+Pit Total
+Hot Loading
+NO
+2
+YES
+LATs
+Parking Total
+Fuel and Load
+NO
+5
+NO
+MAFFS
+Load Simultaneously
+Hot Refueling
+NO
+1
+NO
+SEATs
+Offload Capacity
+YES
+3,000
+Retardant Jettison Area(s) 
+Lat. 41º 01.12’ N 
+Long. 117º 46.48’ W (North side of Winnemucca Mtn.)
+Cautions:  General Aviation Traffic, Military SUA/ training routes in area
+Known 
+Hazards:
+Remarks:
+FBO (775) 623-5091/After-Hours Fuel: (775) 304-5885 
+Google Loon Project (balloon launching) at airport, just N of base
+Contact Base Manager
+Shipping 
+Address:
+Last Revision: 4-10-2018
+NWCG Airtanker Base Directory
+142 of 144
+Portable SEAT
+Portable Location
+Airport:  
+AREA
+FAX: 
+Email:
+Base Operations Phone:
+Dispatch Office Phone:
+Dispatch Contact Frequency:
+SEAT Manager:
+Single
+Dual
+2S
+2D
+Runway Weight Limits
+VLATs
+Pit Total
+Hot Loading
+LATs
+Parking Total
+Fuel and Load
+MAFFS
+Load Simultaneously
+Hot Refueling
+SEATs
+Offload Capacity
+YES
+Retardant Jettison Area(s)
+Cautions:
+Known 
+Hazards:
+Remarks:
+Last Revision:
+NWCG Airtanker Base Directory
+143 of 144
