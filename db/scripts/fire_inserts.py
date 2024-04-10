@@ -32,9 +32,9 @@ with open(f'{OUT_FOLDER}/{OUT_FILE}.sql', 'w', errors='ignore') as f:
         initial_long = f'\'{row["InitialLongitude"]}\'' if str(row['InitialLongitude']) != NAN else NULL
         gacc = f'\'{row["GACC"]}\'' if str(row['GACC']) != NAN else NULL
 
-        containment_date = f'\'{row["ContainmentDateTime"][:-6]}\'' if row['ContainmentDateTime'] is not np.nan else NULL
-        fireout_date = f'\'{row["FireOutDateTime"][:-6]}\'' if row["FireOutDateTime"] is not np.nan else NULL
-        control_date = f'\'{row["ControlDateTime"][:-6]}\'' if row["ControlDateTime"] is not np.nan else NULL
+        containment_date = f'\'{row["ContainmentDateTime"]}\'' if row['ContainmentDateTime'] is not np.nan else NULL
+        fireout_date = f'\'{row["FireOutDateTime"]}\'' if row["FireOutDateTime"] is not np.nan else NULL
+        control_date = f'\'{row["ControlDateTime"]}\'' if row["ControlDateTime"] is not np.nan else NULL
 
         discovery_acres = row['DiscoveryAcres'] if str(row['DiscoveryAcres']) != NAN else NULL
         incident_size = row['IncidentSize'] if str(row['IncidentSize']) != NAN else NULL
@@ -42,7 +42,7 @@ with open(f'{OUT_FOLDER}/{OUT_FILE}.sql', 'w', errors='ignore') as f:
         initial_acres = row['InitialResponseAcres'] if str(row['InitialResponseAcres']) != NAN else NULL
 
         s = f'  (\'{fire_id}\', \'{incident_name}\','
-        s += f' \'{row["CreatedOnDateTime_dt"][:-6]}\', \'{row["FireDiscoveryDateTime"][:-3]}\','
+        s += f' \'{row["CreatedOnDateTime_dt"]}\', \'{row["FireDiscoveryDateTime"]}\','
         s += f' {row["Latitude"]}, {row["Longitude"]}, {initial_lat}, {initial_long}, {gacc},'
         s += f' {containment_date}, {fireout_date}, {control_date},'
         s += f' {discovery_acres}, {incident_size}, {final_acres}, {initial_acres})'
