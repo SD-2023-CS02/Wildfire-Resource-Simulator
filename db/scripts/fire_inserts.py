@@ -25,8 +25,8 @@ with open(f'{OUT_FOLDER}/{OUT_FILE}.sql', 'w', errors='ignore') as f:
     for i in range(len(fire_df)):
         row = fire_df.iloc[i]
         
-        fire_id = str(row['UniqueFireIdentifier']).replace('\'', '\'\'').replace('"', '\\"')
-        incident_name = str(row['IncidentName']).replace('\'', '\'\'').replace('"', '\\"')
+        fire_id = str(row['UniqueFireIdentifier']).replace('\'', '\'\'').replace('"', '\\"').strip()
+        incident_name = str(row['IncidentName']).replace('\'', '\'\'').replace('"', '\\"').strip()
 
         initial_lat = f'\'{row["InitialLatitude"]}\'' if str(row['InitialLatitude']) != NAN else NULL
         initial_long = f'\'{row["InitialLongitude"]}\'' if str(row['InitialLongitude']) != NAN else NULL
