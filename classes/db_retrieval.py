@@ -4,7 +4,7 @@ import pandas as pd
 
 def connect_to_db():
     config = ConfigParser()
-    config.read('../config.ini')
+    config.read('config.ini')
 
     db = mysql.connect(
         user=config['db']['user'],
@@ -14,15 +14,15 @@ def connect_to_db():
     )
     cursor = db.cursor()
 
-    cursor.execute('SELECT base_name, latitude, longitude FROM TankerBase')
+    cursor.execute('SELECT base_code, base_name, latitude, longitude FROM TankerBase')
     bases = cursor.fetchall()
 
     base_arr = []
 
-    for name, lat, long in bases:
-        base_arr.append([name, lat, long])
+    for code, name, lat, long in bases:
+        base_arr.append([code, name, lat, long])
 
-    base_df = pd.DataFrame(base_arr, columns=['base_name', 'latitude', 'longitude'])
+    base_df = pd.DataFrame(base_arr, columns=['base_code', 'base_name', 'latitude', 'longitude'])
 
     cursor.execute('SELECT latitude, longitude FROM FirePoint')
     fires = cursor.fetchall()

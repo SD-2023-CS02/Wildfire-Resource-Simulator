@@ -53,3 +53,5 @@ class ProximityCalculator:
             if row['close_fires_count'] != 0:
                 self.tanker_locations.at[index, 'proximity'] /= row['close_fires_count']
         print(self.tanker_locations[['base_name', 'proximity']])
+
+        self.tanker_locations[['base_code', 'proximity']].to_csv('output/base_fire_proximity.csv', index=False)
