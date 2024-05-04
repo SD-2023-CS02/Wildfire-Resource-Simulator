@@ -2,7 +2,7 @@ import pandas as pd
 from datetime import datetime
 
 
-IN_FOLDER = '.'
+IN_FOLDER = 'output'
 IN_FILE = 'flight_route_locations'
 
 OUT_FOLDER = 'db/data'
