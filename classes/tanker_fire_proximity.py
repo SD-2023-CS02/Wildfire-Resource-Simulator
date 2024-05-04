@@ -1,4 +1,3 @@
-import pandas as pd
 import numpy as np
 from haversine import haversine, Unit
 # NOTE: must >>pip install haversine<< to run this code
