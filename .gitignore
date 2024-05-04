@@ -3,3 +3,5 @@ __pycache__
 config.ini
 
 data/Wildland_Fire_Incident_Locations.csv
+output/flight_route_locations.csv
+output/fire_to_flights_out.json
