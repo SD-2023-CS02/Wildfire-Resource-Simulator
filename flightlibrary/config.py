@@ -14,8 +14,8 @@ END_DAY = 1
 # Cost Threshold to limit spending
 THRESHOLD = 1200
 
-# File name of the plane tail numbers txt
-PLANE_ID_CSV = 'data/tankers.txt'
+# File name of the plane tail numbers csv
+PLANE_ID_CSV = 'data/tankers.csv'
 
 # File name of the flight ids csv
 FLIGHT_ID_CSV = 'output/fa_flight_ids.csv'

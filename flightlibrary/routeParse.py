@@ -1,7 +1,7 @@
 # Author: DBog
 # Date: 2/8/2024
 # Purpose: Parse the JSON given from routeGet and then gets parsed into single lines for file
-# Output: flight_route_locations.txt a list of all flight locations ith a given flightid and such
+# Output: flight_route_locations.csv a list of all flight locations ith a given flightid and such
 
 import csv
 
