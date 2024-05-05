@@ -1,0 +1,65 @@
+.dashboard-row {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    background: var(--component-area-color);
+}
+
+.graph-gauge {
+    width: 90%;
+    align-self: center;
+}
+
+.graph-contractors {
+    width: 90%;
+    align-self: center;
+}
+
+.graph-suppression {
+    width: 90%;
+    align-self: center;
+    margin-bottom: 2rem;
+}
+
+.dashboard-info {
+    display: flex;
+    flex-flow: column;
+    width: 50%;
+    margin-bottom: 5rem;
+}
+
+.big-info {
+    display: flex;
+    flex-flow: column;
+    width: 100%;
+    margin-bottom: 5rem;
+}
+
+.big-description {
+    color: white;
+    font-weight: lighter;
+    align-self: center;
+    text-align: center;
+    width: 40vw;
+    line-height: 2em;
+    font-size: calc(0.6vw + 0.6vh);
+}
+
+.dashboard-title {
+    font-size: calc(1.4vw + 1.4vh);
+    color: white;
+}
+
+.visualization-title {
+    color: white;
+}
+
+.dashboard-description {
+    color: white;
+    font-weight: lighter;
+    align-self: center;
+    text-align: left;
+    width: 40vw;
+    line-height: 2em;
+    font-size: calc(0.6vw + 0.6vh);
+}

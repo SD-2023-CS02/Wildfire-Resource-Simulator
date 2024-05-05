@@ -1,0 +1,77 @@
+.sponsor-logo {
+    margin-left: 3rem;
+}
+
+.sponsor-info {
+    text-decoration: none;
+    align-self: flex-end;
+    margin: auto 0 auto auto;
+}
+
+.sponsor-info-button {
+    min-width: 20%;
+    height: auto;
+    padding: 1rem;
+    margin-right: 1rem;
+    color: #fff;
+    background: none;
+    border-radius: 0.3em;
+    font-size: calc(0.6vw + 0.6vh);
+    text-size-adjust: 10%;
+    font-family: var(--website-font);
+    font-weight: 500;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    box-shadow: inset 2px 2px 2px 0px var(--fire-armada-color1),
+        7px 7px 20px 0px rgba(0, 0, 0, 0.1),
+        4px 4px 5px 0px rgba(0, 0, 0, 0.1);
+    outline: none;
+}
+
+.btn-anim {
+    width: auto;
+    height: auto;
+    line-height: 42px;
+    padding: 0.3em;
+    border: none;
+    background: var(--fire-armada-color2);
+    background: linear-gradient(0deg, var(--fire-armada-color2) 0%, var(--fire-armada-color1) 100%);
+}
+
+.btn-anim:hover {
+    color: var(--fire-armada-color2);
+    background: transparent;
+    box-shadow: none;
+}
+
+.btn-anim:before,
+.btn-anim:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 2px;
+    width: 0;
+    background: var(--fire-armada-color1);
+    box-shadow:
+        -1px -1px 5px 0px var(--fire-armada-color1),
+        7px 7px 20px 0px #0003,
+        4px 4px 5px 0px #0002;
+    transition: 400ms ease all;
+}
+
+.btn-anim:after {
+    right: inherit;
+    top: inherit;
+    left: 0;
+    bottom: 0;
+}
+
+.btn-anim:hover:before,
+.btn-anim:hover:after {
+    width: 100%;
+    transition: 800ms ease all;
+}

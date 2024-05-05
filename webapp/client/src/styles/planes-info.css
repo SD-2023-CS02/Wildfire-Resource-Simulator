@@ -1,0 +1,56 @@
+.planes-title {
+    order: 0;
+    width: 100%;
+    font-size: calc(1.9vw + 1.9vh);
+    color: white;
+}
+
+.planes-info {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-evenly;
+}
+
+#subsection-one,
+#subsection-two,
+#subsection-three {
+    display: flex;
+    flex-flow: column;
+    transition: all 0.3s ease;
+}
+
+#subsection-one:hover,
+#subsection-two:hover,
+#subsection-three:hover {
+    border: 0.3rem solid white;
+}
+
+#subsection-one:hover .planes-image,
+#subsection-two:hover .planes-image,
+#subsection-three:hover .planes-image {
+    filter: grayscale(0);
+}
+
+#subsection-one:hover .planes-description,
+#subsection-two:hover .planes-description,
+#subsection-three:hover .planes-description {
+    font-size: calc(0.6vw + 0.6vh);
+}
+
+.planes-image {
+    width: 20vw;
+    height: auto;
+    align-self: center;
+    filter: grayscale(1);
+    transition: all 0.3s ease;
+    margin: 1rem;
+}
+
+.planes-description {
+    font-weight: lighter;
+    width: 20vw;
+    padding: 2rem;
+    line-height: 2em;
+    font-size: 0rem;
+    transition: all 0.3s ease;
+}
