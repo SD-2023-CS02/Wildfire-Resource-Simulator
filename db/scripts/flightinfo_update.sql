@@ -1,20 +1,22 @@
--- updating the takeoff for flights in the flightinfo table
-UPDATE fi 
-SET fi.takeoff=f.first 
-FROM FlightInfo fi JOIN (
+-- updates the flightinfo take off time with the earliest flight timestamp
+-- of that flight id. only replaces if the takeoff time in flight info was later
+-- than the earliest flight timestamp.
+UPDATE FlightInfo fi JOIN (
                 SELECT MIN(flight_timestamp) AS first, flight_id
-                FROM Flight
-                GROUP BY flight_id
-            ) f ON fi.flight_id=f.flight_id
+				FROM Flight
+				GROUP BY flight_id
+			) f ON fi.flight_id=f.flight_id
+SET fi.takeoff=f.first
 WHERE fi.takeoff > f.first;
 
--- updating the landing for flights in the flightinfo table
-UPDATE fi
-SET
-    fi.landing=f.last
-FROM FlightInfo fi JOIN (
-                SELECT MAX(flight_timestamp) AS last, flight_id 
-                FROM Flight
-                GROUP BY flight_id
-            ) f
-WHERE fi.landing > f.last;
+
+-- updates the flight info landing times with the max flight timestamp
+-- for that flight_id in the flight table. but only updates if the current landing
+-- is earlier than the actual landing according to flight
+UPDATE FlightInfo fi JOIN (
+                SELECT MAX(flight_timestamp) AS last, flight_id
+				FROM Flight
+				GROUP BY flight_id
+			) f ON fi.flight_id=f.flight_id
+SET fi.landing=f.last
+WHERE fi.landing < f.last;
