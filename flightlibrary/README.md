@@ -12,15 +12,16 @@ To get an API Key for this data, the first step is to navigate to https://www.fl
 This file is built to allow you to have control over any mutatible values in the library. There are many values in this configuration file that can be edited to change how the program works.
 APIKey - This is a required field for the library to function, the API Key needs to also be valid
 
-##### Dates
+#### Dates
   - These date values can be changed to adjust where the library queries as the start and ending years. 
-  WARNING: Do not let the ending years go beyond the current date or it will spend extra money querying for dates that don't exist yet.
+  ##### WARNING: Do not let the ending years go beyond the current date or it will spend extra money querying for dates that don't exist yet.
 
-##### Threshold
+#### Threshold
   - This is the value that the program will quit at if it reaches this in cost. The default value set is $1200. It is in a double value, and can handle decimals and will not spend more money over the mark. 
-  WARNING: the program will quit at the exact place that the threshold hits. will need physical adjustment by you to change where it starts on the next run if it did not complete running all the data. or it will just run from the start again
+  ##### WARNING: the program will quit at the exact place that the threshold hits. will need physical adjustment by you to change where it starts on the next run if it did not complete running all the data. or it will just run from the start again
 
-Files - Each of these is the file name and location that each piece of the data will either be pulled from or created into. The only file that needs to exist before run is the PLANE_ID_CSV full of just tanker tail numbers.
+#### Files 
+  - Each of these is the file name and location that each piece of the data will either be pulled from or created into. The only file that needs to exist before run is the PLANE_ID_CSV full of just tanker tail numbers.
 
 ### Running
 Running this library is very easy in any python development environment. I used PyCharm to create and run this code, it makes creating a python machine easy, and will run the code quickly after instalation of the required libraries.
