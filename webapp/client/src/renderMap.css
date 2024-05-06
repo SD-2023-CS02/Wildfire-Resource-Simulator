@@ -1,0 +1,133 @@
+* {
+    --main-bg-color: rgb(27, 32, 41);
+    --component-outline-color: rgb(61, 73, 94);
+    --component-area-color: #181b1f; 
+
+    --fire-armada-color1: #3ab9e6;
+    --fire-armada-color2: #0576b9;
+
+    --website-font: 'Lato', sans-serif;
+}
+
+html, body {
+    font-family: var(--website-font);
+    overflow-x: hidden;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    background-color: var(--main-bg-color);
+}
+
+/* Site Header Components */
+.header {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    height: 5rem;
+    background: var(--component-area-color);
+}
+
+/* Overview Components */
+.overview-row {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    background: var(--component-area-color);
+    color: white;
+}
+
+/* Planes Info Components */
+.planes-row {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    background: var(--component-area-color);
+    color: white;
+}
+
+/* Primary flex box wrapper component */
+.wrapper {
+    display: flex;  
+    flex-flow: row wrap;
+    font-weight: bold;
+    text-align: center; 
+    overflow-y: scroll;
+    gap: .5em;
+    width: 100vw;
+    height: 100vh;
+    align-self: center;
+    margin: auto;
+}
+  
+.wrapper > * {
+    padding: .5em;
+    flex: 1 100%;
+}
+
+/* Flex box items */
+
+.map-slider-wrapper {
+    display: flex;
+    flex-flow: column;
+    padding: 0;
+    gap: .5em;
+}
+
+.map {
+    min-height: 50rem;
+    width: auto;
+}
+
+.slider {
+    background: var(--component-area-color);
+    height: 8rem;
+}
+
+.google-container {
+    width: 100%;
+    height: 100%;
+}
+
+.stats-fire {
+    background: var(--component-area-color);
+}
+
+.stats-plane {
+    background: var(--component-area-color);
+}
+
+
+/* Dashboard */
+.dashboard {
+    display: flex;
+    flex-flow: column;
+    padding: 1rem;
+    justify-content: center;
+    background: var(--component-area-color);
+}
+
+.error {
+    color: white
+}
+
+#error {
+    color: red;
+}
+
+/* Medium screens */
+@media all and (min-width: 600px) {
+    .stats { flex: 1 auto; overflow-y: visible; }
+    .dashboard { flex: 1 auto; overflow-y: visible; }
+    .graph { flex: 1 auto; overflow-y: visible; }
+}
+
+/* Large screens */
+@media all and (min-width: 800px) {
+    .header { order: 1 }
+    .overview-row { order: 2 }
+    .planes-row { order: 3 }
+    .stats-fire { order: 4; } 
+    .map-slider-wrapper { order: 5; flex: 3; }
+    .stats-plane { order: 6; }
+    .dashboard { order: 7; }
+}
