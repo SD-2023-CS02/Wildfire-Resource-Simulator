@@ -5,4 +5,4 @@ The source code in this repository provides data, queries, scripts, classes, and
 * sourcing the data, visit ```./docs/data-pipeline.md```
 * maintaining the webapp, visit ```./docs/webapp-maintenance.md```
 
-The ```.docs/``` folder also includes a final report detailing the project, query docummentation, and project references.
+The ```./docs/``` folder also includes a final report detailing the project, query docummentation, and project references.
