@@ -33,3 +33,5 @@ The following instructions are to be done **in order**.
 1. Run all cells in `/notebooks/Fire_Suppression_Results.ipynb` and `/notebooks/Drops_vs_Suppression.ipynb` in sequence
 1. Run `basefireproximity_inserts.py`, `planedrops_inserts.py`, and `suppressionstats_inserts.py` in `/db/scripts`
 1. Execute `stats.sql` or `stats_local.sql` in `/db` to populate the statistical tables in the database
+## Existing Output
+* For the current existing output for the data in the project, please refer to this [google drive link](<https://drive.google.com/file/d/18e8maDfJQppL_jvMzH8V3jfhQ9QXxvI0/view?usp=drive_link>) for the data.
