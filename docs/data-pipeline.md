@@ -30,6 +30,6 @@ The following instructions are to be done **in order**.
 1. Execute `db_init.sql` (for remote) or `db_init_local.sql` (for local) using the `SOURCE <file>` or `.read <file>` commands respectively
 ## Generating Statistics
 1. After configuring the database `config.ini`, run `/scripts/main.py`, `/scripts/fire_to_flights.py`, and `/scripts/plane_drops` in sequence (the latter 2 take long to complete based on the size of the data)
-1. Run all cells in `/notebooks/Drops_vs_Suppression.ipynb` and `/notebooks/Fire_Suppression_Results.ipynb` in sequence
+1. Run all cells in `/notebooks/Fire_Suppression_Results.ipynb` and `/notebooks/Drops_vs_Suppression.ipynb` in sequence
 1. Run `basefireproximity_inserts.py`, `planedrops_inserts.py`, and `suppressionstats_inserts.py` in `/db/scripts`
 1. Execute `stats.sql` or `stats_local.sql` in `/db` to populate the statistical tables in the database
