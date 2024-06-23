@@ -1,0 +1,20 @@
+{
+  "name": "run-script",
+  "version": "1.0.0",
+  "description": "Run App Concurrently w/ Server",
+  "main": "index.js",
+  "scripts": {
+    "setup": "concurrently \"cd server && npm i\" \"cd client && npm i\"",
+    "server": "cd server && npm start",
+    "client": "cd client && npm start",
+    "build": "cd client && npm run build",
+    "production": "cd client && npm run build && npx serve -l 7575 build",
+    "dev": "concurrently \"npm:server\" \"npm:client\"",
+    "start": "concurrently \"npm:server\" \"npm:production\""
+  },
+  "author": "Kevin Dang",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

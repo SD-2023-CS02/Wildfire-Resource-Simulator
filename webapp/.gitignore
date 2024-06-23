@@ -1,0 +1,29 @@
+# Created by https://www.toptal.com/developers/gitignore/api/react
+
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_components
+
+*.sublime*
+
+psd
+thumb
+sketch
+
+build/
+
+# Credentials
+config.json
+dev.config.json
+.env
+
+# database files
+db/
+
+# End of https://www.toptal.com/developers/gitignore/api/react
